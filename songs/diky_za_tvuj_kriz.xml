@@ -1,0 +1,53 @@
+<slide name="Díky za Tvůj kříž">
+    <variant name="čeština">
+        <section name="v1">
+Díky za Tvůj kříž, jenž nás vykoupil,
+            když ses nám vydal cele do rukou,
+            ó, Pane náš, ó, Pane náš. 
+            Naše skutky zlé, Tys nám odpustil,
+            přikryl krví svou, na vše zapomněl, 
+            děkuji, děkuji.
+</section>
+        <section name="r1">
+Pane, mám Tě rád, vážně mám Tě rád,
+            stále poznávám, že Ty miluješ nás,
+            hlubokou radostí,
+            těšíš srdce mé, ale největší je to,
+            že mohu znát Tvou radost z nás.
+</section>
+        <section name="v2">
+Pro mé nemoci trpěls Pane náš, 
+            abys vzal náš strach, lásku vyléváš,
+            ó, Pane náš, ó, Pane náš. 
+            Skončil úkol tvůj, tvé je vítězství,
+            teď nám dáváš růst, z vody živé pít, 
+            děkuji, děkuji.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Дякую за ваш хрест, який нас придбав,
+            Коли ти дав нам камеру в руках,
+            О, наше, Ó, наше.
+            Наші вчинки погані, ти прощаєш нам,
+            Він покрив свою кров, все забув,
+            Дякую.
+</section>
+        <section name="r1">
+Сер, я люблю тебе, ти мені дуже подобаєшся
+            Я все ще знаю, що ти любиш нас,
+            глибока радість,
+            Ти насолоджуєшся моїм серцем, але найбільше -
+            Що я можу знати вашу радість від нас.
+</section>
+        <section name="v2">
+За мою хворобу ви страждали від нашого сера,
+            Щоб взяти наш страх, ти наливаєш любов,
+            О, наше, Ó, наше.
+            Ваше завдання закінчилося, ваша перемога,
+            Тепер ви даєте нам зростання, від води в прямому ефірі,
+            Дякую.
+</section>
+    </variant>
+    <repetition name="default">v1 r1 v2 (r1)</repetition>
+</slide>

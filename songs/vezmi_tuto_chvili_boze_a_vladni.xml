@@ -1,0 +1,113 @@
+<slide name="Vezmi tuto chvíli, Bože, a vládni">
+<variant name="ukr">
+<section name="v1">
+Візьми цю хвилину Боже і царюй.
+Візьми цю хвилину Боже і пануй.
+Візьми кожне слово Боже і кожен звук.
+Для Тебе лунає кожен серця стук.
+Візьми моє серце Боже, я є твій.
+Для Тебе мій подих кожен і голос мій.
+Візьми все життя моє і хай щодня
+Возносять Тебе мої уста!
+</section>
+ 
+    
+<section name="r1">
+Хай лине ! Лине Богу вся слава!
+Хай лине Богу осанна!
+Хай лине Богу хваління!
+Хай вторять всі покоління!
+Хай вся земля прославляє
+Той Бог, про Кого співаєм-
+Єдиний , інших немає.
+Йому хай лине…
+</section>
+ 
+<section name="v2">
+Мій Бог я тремчу в Твоїй присутності -
+Говориш Ти в силі і могутності.
+Схиляю я серце і всього себе,
+Нехай Дух Святий моє життя веде.
+Коли Ти говориш, то моє життя
+Переповняє радість і хвала.
+Прийми цю хвалу, і хай жертовник мій
+Тобі буде чистий і святий!
+</section>
+</variant>
+
+<variant name="ukr - transkript">
+<section name="v1">
+Vizʹmy tsyu khvylynu Bozhe i tsaryuy. 
+Vizʹmy tsyu khvylynu Bozhe i panuy. 
+Vizʹmy kozhne slovo Bozhe i kozhen zvuk. 
+Dlya Tebe lunaye kozhen sertsya stuk. 
+Vizʹmy moye sertse Bozhe, ya ye tviy. 
+Dlya Tebe miy podykh kozhen i holos miy. 
+Vizʹmy vse zhyttya moye i khay shchodnya 
+Voznosyatʹ Tebe moyi usta! 
+</section>
+ 
+    
+<section name="r1">
+Khay lyne! Lyne Bohu vsya slava! 
+Khay lyne Bohu osanna! 
+Khay lyne Bohu khvalinnya! 
+Khay vtoryatʹ vsi pokolinnya! 
+Khay vsya zemlya proslavlyaye 
+Toy Boh, pro Koho spivayem- 
+Yedynyy, inshykh nemaye. 
+Yomu khay lyne… 
+</section>
+ 
+<section name="v2">
+Miy Boh ya tremchu v Tvoyiy prysutnosti - 
+Hovorysh Ty v syli i mohutnosti. 
+Skhylyayu ya sertse i vsʹoho sebe, 
+Nekhay Dukh Svyatyy moye zhyttya vede. 
+Koly Ty hovorysh, to moye zhyttya 
+Perepovnyaye radistʹ i khvala. 
+Pryymy tsyu khvalu, i khay zhertovnyk miy 
+Tobi bude chystyy i svyatyy!
+</section>
+</variant>
+
+<variant name="cesky">
+<section name="v1">
+Vezmi tuto chvíli, Bože, a vládni.
+Vezmi tuto chvíli Bůh a vládni.
+Vezměte každé slovo Boží a každý zvuk.
+Každý tlukot srdce zní pro Tebe.
+Vezmi mé srdce Bože, jsem tvůj.
+Pro Tebe, každý můj dech a můj hlas.
+Vezmi celý můj život a nech ho každý den
+Moje ústa Tě vyvyšují!
+</section>
+ 
+    
+<section name="r1">
+Nech to plynout! Všechna sláva Bohu!
+Hosanna Bohu!
+Chvála Bohu!
+Ať se opakují všechny generace!
+Nechť chválí celá země
+Ten Bůh, o kterém zpíváme
+Jediný, žádné jiné nejsou.
+Nechte ho být...
+</section>
+ 
+<section name="v2">
+Můj Bože, třesu se před Tvou přítomností -
+Mluvíš silou a mocí.
+Skláním své srdce i sebe,
+Ať Duch svatý vede můj život.
+Když mluvíš, je to můj život
+Překypující radostí a chválou.
+Přijměte tuto chválu a ať je mým oltářem
+Budete čistí a svatí!
+</section>
+</variant>
+
+<repetition name="default">
+v1 r1 v2 r1 r1
+</repetition>
+</slide>

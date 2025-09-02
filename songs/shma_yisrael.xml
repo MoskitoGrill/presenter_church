@@ -1,0 +1,45 @@
+<slide name="Shma Yisrael">
+    <variant name="hebrejština - transkript">
+        <section name="v1">
+Sh'ma Yisrael, sh'ma Yisrael, 
+            Adonai Eloheinu.
+</section>
+        <section name="r1">
+Adonai echad, Adonai tzidkeinu, 
+            Adonai yeshua teinu.
+</section>
+        <section name="b1">
+Baruch shem, k'vod malchuto, 
+            malchuto l'olam, l'olam vaed.
+</section>
+    </variant>
+    <variant name="čeština">
+        <section name="v1">
+Slyš Izraeli, slyš Izraeli, 
+            Adonai je náš Bůh.
+</section>
+        <section name="r1">
+Pán je jeden, Pán je naše spravedlnost, 
+            Pán je naše záchrana.
+</section>
+        <section name="b1">
+Požehnané buď jméno 
+            Jeho království navěky a navždy.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Чув Ізраїль, чути Ізраїль,
+            Адонаї - наш Бог.
+</section>
+        <section name="r1">
+Господь один, Господь - це наша справедливість,
+            Господь - це наш порятунок.
+</section>
+        <section name="b1">
+Благословен або ім'я
+            Його царство назавжди і назавжди.
+</section>
+    </variant>
+    <repetition name="default">(v1) (r1) (v1) (r1) (b1) (v1) (r1) (b1) v1</repetition>
+</slide>

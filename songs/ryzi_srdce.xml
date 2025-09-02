@@ -1,0 +1,36 @@
+<slide name="Ryzí srdce">
+    <variant name="čeština">
+        <section name="v1">
+            R‍‍yz‍‍í sr‍‍dce stvoř Bože náš,
+           ‍ ryz‍‍í sr‍‍dce stvoř v každém z nás,
+       ‍‍     ryz‍‍í sr‍‍dce, ducha odvahy,
+            a‍‍ť sv‍‍at‍‍í jsme jak ty nad námi.
+        </section>
+        
+        <section name="r1">
+            Ty‍‍s' p‍‍ro n‍‍ás získal svobodu, tys' zlámal tíhu okovů,
+            t‍‍ys' Kr‍‍iste z‍‍a nás na kříž šel,na kříž šel, aby Boží děti měly svobodu.
+        </section>
+
+    </variant>
+
+    <variant name="український - auto">
+         <section name="v1">
+            Боже, наш творче, створи серце,
+            серце творця в кожному з нас,
+            серце творця дух хоробрості,
+            і ми святі, бо ти над нами.
+        </section>
+        
+        <section name="r1">
+            Ви здобули свободу, ви розірвали тягар своїх кайданів,
+            Ти пішов на хрест, Ти пішов на хрест, щоб діти Божі були вільні.
+        </section>
+
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1
+    </repetition>
+</slide>

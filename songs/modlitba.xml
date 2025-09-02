@@ -1,0 +1,79 @@
+<slide name="Modlitba">
+    <variant name="čeština">
+        <section name="v1">
+            Nejdřív chci Ti chválu vzdát, že jsi ten, který jsi byl.
+            Že přišels právě proto, aby nás jsi zachránil.
+            Že nazval jsi mne synem svým a k službě zavolal.
+            Víc než jsem si zasloužil, Tys mi Pane dal.
+            Ty co ám tak rád, můj Pane, drž je pevně v rukou svých
+            a vyplň prázdná místa, kde byl hřích, kde by hřích.
+        </section>
+        <section name="r1">
+            Pozvedám výš modlitbu mou, každá má tíž je zároveň i Tvou.
+            Ve jménu Tvém prosím Pane můj.
+            Staň se vůle Tvá. Já chci být navždy Tvůj.
+        </section>
+        <section name="v2">
+            Dovol ať jsem důkazem toho, že jsi mocný Pán,
+            že každý člověk může v Tobě najít sebe sám.
+            Snad Tvojí lásku poznají. Snad také uvidí
+            tu pravdu, která z hříchu nás vysvobodí.
+            Dej svou lásku tam, kde není. Sjednoť, prosím, církev svou,
+            Ať probudí se, dej ať procitnou – lidé procitnou.
+        </section>
+        <section name="v3">
+            Když končí čas, co nám lidem jsi svěřil,
+            dej ještě světu možnost začít žít. 
+            A střež nás od zlého jako jsi střežil.
+            Po Tvé cestě s Tebou chceme jít.
+            A kamkoliv my jdem, chceme svítit všem – dokud nepřijdeš.
+        </section>
+        <section name="r2">
+            Pozvedám výš modlitbu mou, každá má tíž je zároveň i Tvou.
+            Ve jménu Tvém prosím Pane můj.
+            Staň se vůle Tvá. Já chci být navždy Tvůj,
+            být navždy Tvůj, být navždy Tvůj.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Спочатку я хочу похвалити тебе, що ти був тим, ким ти був.
+            Що ви прийшли точно, щоб врятувати нас.
+            Що ти зателефонував мені своїм сином і покликав службу.
+            Більше, ніж я заслужив, ти дав мені сер.
+            Тим, хто любить так любити, мій Господи, міцно тримають їх у руках
+            І заповнити заготовки, де був гріх, де б гріх.
+        </section>
+        <section name="r1">
+            Я підніму свою молитву вище, кожен з них також є вашим.
+            В ім'я вашого, будь ласка, містер мій.
+            Стати волею твоїм. я хочу бути твоїм назавжди.
+        </section>
+        <section name="v2">
+            Дозвольте підтвердити, що ви потужний господар,
+            що кожна людина може опинитися у вас.
+            Можливо, ваша любов дізнається *, можливо, також побачать
+            Правда, яка доставить нас від гріха.
+            Подаруйте свою любов там, де немає. об'єднання, будь ласка, ваша церква,
+            Нехай вони прокидаються, нехай прокидаються - люди пробуджуються.
+        </section>
+        <section name="v3">
+            Коли час закінчується тим, що ти нам доручив,
+            Дайте світові можливість почати жити *
+            І охоронець від зла, як ти нас охороняв.
+            Ми хочемо поїхати з вами по дорозі з вами.
+            І куди б ми не поїхали, ми хочемо світити всіх - поки ти не прийдеш.
+        </section>
+        <section name="r2">
+            Я підніму свою молитву вище, кожен з них також є вашим.
+            В ім'я вашого, будь ласка, містер мій.
+            Стати волею твоїм. я хочу бути твоїм назавжди,
+            Щоб бути своїм назавжди, будьте назавжди твоїми.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 v2 r1 v3 r2
+    </repetition>
+</slide>

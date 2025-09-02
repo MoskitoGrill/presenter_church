@@ -1,0 +1,46 @@
+<slide name="Hoden je Beránek">
+    <variant name="čeština">
+        <section name="v1">
+Hoden je Beránek, nejvyšší chvály,
+            On nás vykoupil, Svou krví
+</section>
+        <section name="r1">
+Jenom Ty jsi navěky Král,
+            Jenom Tobě, patří chvála Pane náš!
+</section>
+        <section name="b1">
+Budeme jásat nad tvým vítězstvím,
+prapory pozdvihnem ve jménu svého Boha.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Гідний ягня, найвища похвала,
+            Він купив нам, його кров
+</section>
+        <section name="r1">
+Реф.Тільки ти назавжди король,
+            Тільки ти, належить містеру нашому!
+</section>
+        <section name="b1">
+nn
+nn
+</section>
+    </variant>
+    <variant name="angličtina">
+        <section name="v1">
+Worthy is the Lamb of the highest praise,  
+He redeemed us by His blood.
+</section>
+        <section name="r1">
+Only you are the king forever. 
+Only to you belongs the praise, our Lord!
+</section>
+        <section name="b1">
+We are gonna rejoice because of your victory, 
+We are gonna raise the flags in the name of our God.
+</section>
+    </variant>
+    <repetition name="default">((v1)(r1)) b1 (v1)</repetition>
+    <repetition name="JancaDada">v1 r1 v1 r1.1:2 r1 v1</repetition>
+</slide>

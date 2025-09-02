@@ -1,0 +1,176 @@
+{
+    "def_style": "style1",
+    "style1": {
+        "fonts":[
+            {
+                "name": "listfont",
+                "family": "Courier New",
+                "size": 14,
+                "weight": "normal"
+            },
+            {
+                "name": "buttfont",
+                "family": "Courier New",
+                "size": 14,
+                "weight": "bold"
+            },
+            {
+                "name": "textfont",
+                "family": "Courier New",
+                "size": 10,
+                "weight": "normal"
+            }
+        ],
+        "Tstyles": [
+            {
+                "name": "myCombobox.TCombobox",
+                "fieldbackground": "#eeeeee",
+                "foreground": "#000000",
+                "background": "#aaaaaa"
+            }
+        ],
+        "win":{
+            "background": "#555555",
+            "padx": 5,
+            "pady": 5
+        },
+        "mainFrame":{
+            "background": "#555555",
+            "padx": 3,
+            "pady": 3
+        },
+        "mainButton":{
+            "background":"#444444",
+            "foreground":"#ffffff",
+            "height": 2,
+            "width": 8,
+            "font": "buttfont"
+        },
+        "stepsLabel":{
+            "background":"#555555",
+            "foreground":"#ffffff",
+            "border": 0,
+            "height": 2,
+            "width": 8,
+            "font": "listfont"
+        },
+        "sourcesLabel":{
+            "background":"#555555",
+            "foreground":"#ffffff",
+            "border": 0,
+            "height": 2,
+            "width": 38,
+            "font": "listfont"
+        },
+        "stepList":{
+            "background": "#666666",
+            "foreground": "#ffffff",
+            "border": 0,
+            "selectbackground": "#444444",
+            "width": 45,
+            "height": 25,
+            "font": "listfont"
+        },
+        "textWin":{
+            "background": "#666666",
+            "foreground": "#ffffff",
+            "border": 0,
+            "selectbackground": "#444444",
+            "width": 60,
+            "height": 30,
+            "font": "textfont",
+            "pady": 4
+        },
+        "entryWin":{
+            "background": "#666666",
+            "foreground": "#ffffff",
+            "border": 0,
+            "selectbackground": "#444444",
+            "width": 45,
+            "font": "listfont"
+        },
+        "stepLang":{
+            "style": "myCombobox.TCombobox",
+            "font": "listfont"
+        },
+        "projButton":{
+            "background":"#444444",
+            "foreground":"#ffffff",
+            "height": 1,
+            "width": 4,
+            "font": "buttfont",
+            "relief": "flat"
+        },
+        "runOFF":{
+            "background":"#004400",
+            "foreground":"#ffffff",
+            "activebackground": "#440000",
+            "activeforeground": "#ffffff",
+            "text": "▶"
+        },
+        "runON":{
+            "background":"#440000",
+            "foreground":"#ffffff",
+            "activebackground": "#004400",
+            "activeforeground": "#ffffff",
+            "text": "■"
+        },
+        "projsLabel":{
+            "background":"#505050",
+            "foreground":"#ffffff",
+            "border": 0,
+            "height": 1,
+            "width": 8,
+            "font": "listfont"
+        },
+        "secondaryFrame":{
+            "background": "#505050",
+            "padx": 3,
+            "pady": 3
+        },
+        "mainLabel":{
+            "background":"#555555",
+            "foreground":"#ffffff",
+            "border": 0,
+            "font": "listfont"
+        },
+        "secondaryLabel":{
+            "background":"#505050",
+            "foreground":"#ffffff",
+            "border": 0,
+            "font": "listfont"
+        },
+        "checkButton":{
+            "background":"#505050",
+            "foreground":"#ffffff",
+            "activebackground":"#505050",
+            "selectcolor": "#404040",
+            "border": 0,
+            "font": "listfont"
+        },
+        "sorter":{
+            "window":{"background":"#555555"},
+            "font":{
+                "name": "listfont",
+                "family": "Courier New",
+                "size": 14,
+                "weight": "normal"
+            },
+            "lines":{   
+                "background":"#444444",
+                "foreground":"#ffffff",
+                "border": 1,
+                "height": 2,
+                "width": 30
+            },
+            "order":{   
+                "background":"#555555",
+                "foreground":"#ffffff",
+                "border": 0,
+                "height": 2,
+                "width": 5
+            },
+    "rows": 10
+        }
+    }
+}   

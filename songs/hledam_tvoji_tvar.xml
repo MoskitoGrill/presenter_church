@@ -1,0 +1,44 @@
+<slide name="Hledám Tvoji tvář">
+    <variant name="čeština">
+        <section name="v1">
+            Hledám Tvoji tvář, Pane můj,
+            hledám Tvoji tvář každý den.
+            Po Tobě touží duše má,
+            očekává slovo Tvé.
+        </section>
+        
+        <section name="r1">
+            Chci jít za Tebou, Ježíši, cestou Tvou,
+            chci jít za Tebou, Ježíši, za Tebou.
+        </section>
+        
+        <section name="b1">
+            Za Tebou, Pane můj, chci jít každý den,
+            za Tebou, Pane můj, chci jít.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Я шукаю твоє обличчя, мій сер,
+            Я шукаю ваше обличчя щодня.
+            Душа бажає тебе, моя душа,
+            Він очікує твоє слово.
+        </section>
+        
+        <section name="r1">
+            Я хочу слідувати за тобою, Ісусе, шлях твого,
+            Я хочу піти за тобою, Ісусе, позаду тебе.
+        </section>
+        
+        <section name="b1">
+            За тобою, сер, я хочу ходити щодня,
+            За тобою, сер, я хочу піти.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 (r1) b1
+    </repetition>
+</slide>

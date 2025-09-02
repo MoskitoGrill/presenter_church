@@ -1,0 +1,66 @@
+<slide name="Staň se mou vizí">
+    <variant name="čeština">
+        <section name="v1">
+            Staň se mou vizí, buď snem, který mám,
+            pro který chci žít a svůj život dám,
+            hlasem, jenž vodí mne světlem i tmou,
+            každý den provází mne cestou Tvou.
+        </section>
+        
+        <section name="v2">
+            Ty jsi má moudrost, má pravda, můj Pán,
+            od Tebe učím se všemu, co znám.
+            Můj Otče v nebesích, jsem dítě Tvé,
+            svou láskou přebýváš teď v srdci mém.
+        </section>
+        
+        <section name="v3">
+            Sám jsi mým štítem, Tvůj meč ostrý mám,
+            sílu a odvahu svou dáváš nám.
+            Skálou jsi pevnou, jenž ční jako hrad,
+            nad mořem běsnícím s Tebou chci stát.
+        </section>
+        
+        <section name="v4">
+            Nehledám slávu, či bohatství, lesk,
+            Ty jsi můj přítel a Nejvyšší kněz.
+            Až jednou vrátíš se v slávě své k nám,
+            k sobě mne zavoláš, Tvůj hlas u znám.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Стати моїм баченням, будьте мрією, яку я маю,
+            за що я хочу жити і віддати своє життя,
+            Голос, який веде мене у світлі і темряві,
+            Щодня він супроводжує мене на вашому шляху.
+        </section>
+        
+        <section name="v2">
+            Ти моя мудрість, моя правда, мій господар,
+            Я дізнаюся все, що знаю від вас.
+            Мій батько на небі, я твоя дитина,
+            З вашою любов’ю ви живете зараз у моєму серці.
+        </section>
+        
+        <section name="v3">
+            Ти сам мій щит, твій меч гострий,
+            Ви даєте нам сили та мужність.
+            Ви суцільна скеля, яка піднімається, як замок,
+            Я хочу стояти над морем, що вирує з вами.
+        </section>
+        
+        <section name="v4">
+            Я не шукаю слави чи багатства, блиск,
+            Ти мій друг і найвищий священик.
+            Як тільки ви повернетесь до своєї слави до нас,
+            Ти дзвониш мені, я знаю твій голос.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 v2 v3 v4
+    </repetition>
+</slide>

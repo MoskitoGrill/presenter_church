@@ -1,0 +1,53 @@
+<slide name="Rány na dlaních">
+    <variant name="čeština">
+        <section name="v1">
+            Rány na dlaních a na nohách Tvých
+            mi řekly, jak moc mne máš rád.
+            Na hlavě trní, které tak bolí,
+            ukázaly lásku Tvou.
+        </section>
+        
+        <section name="v2">
+            Nebe pak odvrátilo tvář
+            a Tys na kříži zůstal sám.
+            Tvé rány budou hlásat dál,
+            jak moc mne máš rád. A tak:
+        </section>
+        
+        <section name="r1">
+            Všechno, co mám, všechno Ti dám,
+            po Tobě toužím, Pane.
+            Všechno, co mám, všechno Ti dám,
+            celý život můj je Tvůj.
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            Рани на долонях і на ногах ваших
+            Вони сказали мені, як ти мені подобаєшся.
+            На голові шипів, які так болять,
+            Вони проявили твою любов.
+        </section>
+        
+        <section name="v2">
+            Потім небо відвернуло обличчя
+            І ви залишилися наодинці на хресті.
+            Ваші рани будуть проголошувати,
+            Як сильно ти мені подобаюся.Таким чином:
+        </section>
+        
+        <section name="r1">
+            Все, що у мене є, я дам тобі все,
+            Я прагну тебе, сер.
+            Все, що у мене є, я дам тобі все,
+            Все моє життя твій.
+        </section>
+    </variant>
+    
+    
+    <repetition name="default">
+        v1 v2 r1
+    </repetition>
+    
+</slide>

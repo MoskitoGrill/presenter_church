@@ -1,0 +1,60 @@
+<slide name="Můj Bůh je můj štít">
+    <variant name="čeština">
+        <section name="v1">
+           Můj Bůh je můj štít,
+           je mou písní,
+           já vím, On mi odpoví
+           a mocí svého jména vysvobodí.
+
+        </section>
+        
+        <section name="v2">
+            Teď smím jít v pokoji dál,
+            vím, že jsi mi blízko, haleluja
+        </section>
+        
+        <section name="r1">
+            Chci žít ve stínu křídel Tvých,
+            spěchám do stínu křídel Tvých,
+            smím žít ve stínu křídel Tvých.
+        </section>
+        
+        
+        <section name="v3">
+            
+        </section>
+        
+        <section name="v4">
+            
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            
+        </section>
+        
+        <section name="v2">
+            
+        </section>
+        
+        <section name="r1">
+            
+        </section>
+        
+        
+        <section name="v3">
+            
+        </section>
+        
+        <section name="v4">
+            
+        </section>
+    </variant>
+    
+    
+    <repetition name="default">
+        v1 r1 v2 
+    </repetition>
+    
+</slide>

@@ -1,0 +1,47 @@
+<slide name="Byl člověk jako já">
+    <variant name="čeština">
+        <section name="v1">
+            Byl člověk jako já, stál tam, kde stojím já,
+            cítil, co cítím já, on rozumí.
+            On křehkost moji zná, žil v těle jako já,
+            ďábel ho pokoušel, on neprohrál.
+        </section>
+        
+        <section name="r1">
+            Bůh s námi je, nám blízko je,
+            Bůh s námi je, Immanuel.
+        </section>
+        
+        <section name="v2">
+            Byl lidmi pohrdán, týrán a popliván,
+            blízkými opuštěn, on odpouští.
+            Muž plný bolesti, vzal naše nemoci,
+            svůj život položil za život můj.
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            Була такою людиною, як я, стояв там, де я стою,
+            Він відчував те, що я відчуваю, він розуміє.
+            Він знає мою крихкість, він жив у тілі, як я,
+            Диявол спробував його, він не програв.
+        </section>
+        
+        <section name="r1">
+            Бог з нами, ми близькі до нас,
+            Бог з нами, Іммануїл.
+        </section>
+        
+        <section name="v2">
+            Був презирством, зловживаючи людьми та коса,
+            Його кидають кохані, він прощає.
+            Людина, повна болю, прийняла наші хвороби,
+            Він поклав своє життя в моєму житті.
+        </section>
+    </variant>
+    
+    <repetition name="default">
+        v1 r1 v2
+    </repetition>
+</slide>

@@ -1,0 +1,59 @@
+<slide name="Vyvýšený, svoj trón si v sláve mal">
+    <variant name="čeština">
+        <section name="v1">
+            Vyvýšený, svoj trón si v sláve mal.
+            Na smrť si šiel, sám seba si nám dal
+            Syn jediný, čistý a nevinný
+            niesol si kríž, bremeno našich vín.
+        </section>
+        <section name="b1">
+            Všetku vládu, moc, každé víťazstvo Ty máš
+        </section>
+        <section name="r1">
+            Pán náš, hoden si úcty slávy,
+            hoden si našich chvál, víťaz a kráľ.
+            Ježiš, úžasný v moci stále,
+            nádherné meno máš, víťaz a kráľ.
+        </section>
+        <section name="v2">
+            Máš v rukách moc, hlásajúc Otcov plán.
+            Posielaš nás, byť svetlom v temnotách.
+        </section>
+        <section name="b2">
+            Zvíťazíme v ňom krvou Baránkovou, slovom
+            svedectva, ktoré máme.
+            Zvíťazí každý v ňom.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Піднятий, його Трон у славі Мал.
+            До смерті Сіель, сам Себа дав нам
+            Син єдиний, чистий і невинний
+            Нісол - це бочка, Бремен наших вин.
+        </section>
+        <section name="b1">
+            Правило všetka, влада, кожен виноградник, який у вас є
+        </section>
+        <section name="r1">
+            Наше, гідне поваги слави,
+            гідний нашої похвали, víťaz та kráľ.
+            Ісусе, дивовижно в силі все ще,
+            У вас є чудовий Мено, Віаса та Краľ.
+        </section>
+        <section name="v2">
+            У вас занадто багато у своїх руках, проголошуйте батьківський план.
+            Ви будете сидіти нас, навіть Світлом у темряві.
+        </section>
+        <section name="b2">
+            Ми вигадуємо в крові Баранкова, Словеном
+            Svedectva, у нас є.
+            Всі так само.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 (b1) r1 (v2) (b1) r1 (b2) r1
+    </repetition>
+</slide>

@@ -1,0 +1,60 @@
+<slide name="Můj Králi, má spáso">
+    <variant name="čeština">
+        <section name="v1">
+            Můj Králi, má spáso,nikdo není jako Ty.
+            Na každý den chválit bych chtěl 
+            ten zázrak mocné lásky Tvé.
+        </section>
+        
+        <section name="v2">
+            Můj štíte, má skálo, u Tebe můžu se skrýt.
+            Ať každý dech, všechno, co jsem, 
+            nepřestane chválou být.
+        </section>
+        
+        <section name="r1">
+            Hlahol zem Pánu, se vším, co je v ní,
+            Králi buď důstojnost, úcta i dík.
+            Hroutí se skály a příboj hřmí, 
+            to když Tvé jméno zní.
+        </section>
+        
+        <section name="r2">
+            O díle Tvém, Pane, zpívám tak rád, 
+            chci vyznat Ti lásku, chci v ní pevně stát.
+            To, cos mi slíbil, je víc, než kdo může dát.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Мій король має спасіння, ніхто не такий, як ти.
+            Я хотів би хвалити за кожен день
+            Чудо твоєї любові.
+        </section>
+        
+        <section name="v2">
+            Моє екранування, моя скеля, я можу сховатися з тобою.
+            Чи все вдих, все, що я є,
+            Він не припинить похвалу.
+        </section>
+        
+        <section name="r1">
+            Glagol Країна Господній, з усім, що в ньому,
+            Король буде гідністю, повагу та подякою.
+            Скелі руйнуються, а прибуток грім,
+            Ось тоді звучить ваше ім’я.
+        </section>
+        
+        <section name="r2">
+            Про вашу роботу, сер, я так співаю
+            Я хочу визнати вашу любов, я хочу міцно стояти в ній.
+            Що мені обіцяло більше, ніж хто може дати.
+        </section>
+    </variant>
+
+    
+    <repetition name="Janca&Dada">
+        v1 v2 r1 r2 v1 v2 r1 r2
+    </repetition>
+</slide>

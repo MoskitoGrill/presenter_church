@@ -1,0 +1,47 @@
+<slide name="Mou cestu v rukou máš">
+    <variant name="čeština">
+        <section name="v1">
+Mou cestu v rukou máš, jdu s důvěrou,
+neselže láska Tvá, jdu s důvěrou.
+Ať se třeba hory zřítí do moře, 
+jdu s důvěrou, ať i hvězdy padají 
+a svět kolem se hroutí.
+</section>
+        <section name="v2">
+Když cestu nevidím, jdu s důvěrou,
+vedeš mě slovem svým, jdu s důvěrou.
+I když musím projít temným údolím,
+jdu s důvěrou, vím, že zase postavíš
+mě pevně na své skále.
+</section>
+        <section name="r1">
+Každý den novou milost
+z Tvých dlaní smím si brát.
+Jako strom ve Tvém chrámu,
+v pevných zdech Tvé věrné lásky úkryt mám.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+У вас є мій шлях у своїх руках, я впевнено йду,
+Твоя любов не згасає, я впевнено йду.
+Нехай гори врізаються в море,
+Я йду з упевненістю, нехай зірки навіть падають
+І світ руйнується.
+</section>
+        <section name="v2">
+Коли я не бачу шляху, я впевнено йду,
+Ви ведете мене своїм словом, я впевнено йду.
+Хоча я повинен пройти через темну долину,
+Я з упевненістю йду, я знаю, що ти побудуєш знову
+Я твердо на своїй скелі.
+</section>
+        <section name="r1">
+Щодня нова благодать
+Я можу одружитися з ваших долонь.
+Як дерево у вашому храмі,
+У мене є притулок у суцільних стінах вашої вірної любові.
+</section>
+    </variant>
+    <repetition name="default">(v1 v2 r1) r1</repetition>
+</slide>

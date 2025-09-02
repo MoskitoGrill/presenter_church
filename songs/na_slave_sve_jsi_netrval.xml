@@ -1,0 +1,46 @@
+<slide name="Na slávě své jsi netrval">
+    <variant name="čeština">
+        <section name="v1">
+            Na slávě své jsi netrval,
+            všeho kvůli mně ses vzdal,
+            trpěls rukou těch, jež sám jsi stvořil s láskou.
+            Všechnu hanbu mou jsi vzal,
+            když jsi zemřel, z mrtvých vstal,
+            nebe se zemí jsou nyní pod Tvou vládou.
+        </section>
+        
+        <section name="r1">
+            A proto Tě chci chválit, Králi můj,
+            srdce mé jsi získal, teď jsem Tvůj,
+            chci věčně být s Tebou, Tebe mám rád.
+            Ty jediný jsi život za mě dal,
+            na kříži má pouta sňal,
+            proto svůj hlas pozvedám a chválu zpívám.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Ти не тривав у своїй славі,
+            Ти все відмовився від мене,
+            Ви страждали від рук тих, кого створили з любов'ю.
+            Весь ганьба мого ти взяв,
+            Коли ти помер, він встав з мертвих,
+            Небо із Землею зараз під вашим урядом.
+        </section>
+        
+        <section name="r1">
+            І тому я хочу похвалити тебе, мій цар,
+            У мене серця у вас є, тепер я твій,
+            Я хочу бути з тобою назавжди, я люблю тебе.
+            Ти єдиний, кого ти дав мені життя,
+            На хресті є наручники для одруження,
+            Тому я піднімаю голос і співаю похвалу.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1 v1 (r1)
+    </repetition>
+</slide>

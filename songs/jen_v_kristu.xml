@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<slide name="Jen v Kristu">
+    <variant name="čeština">
+        <section name="v1">
+Jen v Kristu mám naději svou, 
+            je světlem mým i písní mou.
+            Ta pevná zem, ta skála skal, 
+            v žáru i v bouři úkryt znám.
+            Jen pokoj Tvůj, jen láska Tvá, 
+            jen ta můj strach vždy přemáhá.
+            Zachránce můj, v něm všechno mám, 
+            v Kristově lásce smím tu stát.
+</section>
+        <section name="v2">
+On v Kristu sám se tělem stal, 
+            v něm plnost Boží přítomná.
+            Ten lásky dar byl popliván těmi, 
+            jimž byl ke spáse dán.
+            Své smrti kříž on musel nést, 
+            tak usmířen byl Boží hněv.
+            Když každý hřích na sebe vzal, 
+            v Kristově smrti smím tu stát.
+</section>
+        <section name="v3">
+Ve skále měl svůj tmavý hrob, 
+            On, světlo světa, spoután tmou.
+            Pak přišel zlom v den vítězný, 
+            když Ježíš vstal, byl vzkříšený.
+            Tak zvítězil nad hříchem vším, 
+            svou obětí mě zbavil vin.
+            Vím, on je můj a já jsem s ním, 
+            Kristova krev mi dává žít.
+</section>
+        <section name="v4">
+Teď klid a mír v svém srdci mám, 
+            vždyť ve mně Kristus vládne sám.
+            Od prvních chvil do konce dní 
+            Ježíš je stále Pánem mým.
+</section>
+        <section name="v5">
+A žádná moc či lidský hřích 
+            mě nemůžou vzít z rukou Tvých.
+            Než zazní hlas, než přijde k nám, 
+            v Kristově síle smím tu stát.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Тільки в Христі я сподіваюся, що власний,
+            Це моє світло і моя пісня.
+            Що тверда земля, скелі,
+            У спеку та штормовому притулку відомо.
+            Тільки твоя кімната, тільки твоя любов,
+            Тільки мій страх завжди долає.
+            Мій рятувальник, у мене все в ньому,
+            У любові Христа я можу стояти тут.
+</section>
+        <section name="v2">
+Він у самому Христі став тілом,
+            У ньому присутня повнота Бога.
+            Подарунок коханням плювали ці
+            кому він був відданий спасінню.
+            Його смерть він повинен був перенести,
+            Тож гнів Божий примирився.
+            Коли кожен гріх взяв на себе,
+            Я можу стояти тут, у смерті Христа.
+</section>
+        <section name="v3">
+У скелі була його темна могила,
+            Він, світло світу, пов'язане з темрявою.
+            Потім прийшов переломний момент у день перемоги,
+            Коли Ісус підвівся, він воскрес.
+            Таким чином виграв гріх від усього,
+            Моя жертва позбувся мене.
+            Я знаю, що він мій, і я з ним
+            Христова кров дає мені в прямому ефірі.
+</section>
+        <section name="v4">
+Тепер у мене в серці спокій і спокій,
+            Зрештою, Христос править у мені.
+            З перших моментів до кінця днів
+            Ісус все ще є моїм господарем.
+</section>
+        <section name="v5">
+І жодної сили чи людського гріха
+            Вони не можуть вивезти мене з ваших рук.
+            Перед тим, як голос звучить до того, як він прийде до нас,
+            Я можу стояти тут, у Христі.
+</section>
+    </variant>
+    <repetition name="default">v1 v2 v3 v4 v5 v5</repetition>
+</slide>

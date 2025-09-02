@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<slide name="Že Boží moc mě chrání">
+    <variant name="čeština">
+        <section name="v1">
+Dnes přijmi, Pane, mpoje tiché díky,
+že Ty jsi se mě ujal, bídu sňal.
+Mé srdce chce žít vděčně láskou k Tobě,
+a s církví Tvou Ti věrně sloužit dál.
+</section>
+        <section name="r1">
+Že Boží moc mě chrání jistě vím,
+a čekám s důvěrou, co přijde dál,
+že Bůh je stály, zůstane vždy s námi,
+i ráno, večer, každý nový den.
+</section>
+        <section name="v2">
+My víme, že Tvé světlo ve tmě září,
+buď svící našim krokům navždy sám.
+Ať lidé vidí slavné Tvoje dílo,
+a slávu, kterou Otec Tvůj Ti dal.
+</section>
+    </variant>
+    <repetition name="default">v1 r1 v2</repetition>
+</slide>

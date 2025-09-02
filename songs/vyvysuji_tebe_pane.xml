@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<slide name="Vyvyšuji tebe Pane">
+    <variant name="čeština">
+        <section name="v1">
+Vyvyšuji tebe Pane, nad tímto dnem.
+            Vyvyšuji tebe Pane, nad každým člověkem.
+            Vyvyšuji tebe Pane, nad vším, co stvořeno jest.
+            Vyvyšuji tebe Pane, i nad svým životem.
+</section>
+        <section name="r1">
+Vyvyšuji tvoje jméno nad každé jméno.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Я виховую вас, сер, протягом цього дня.
+            Я виховую тебе, Господи, над кожною людиною.
+            Я виховую тебе, Господи, над усім, що створюється.
+            Я підношу тебе, Господи, навіть за своє життя.
+</section>
+        <section name="r1">
+Я піднімаю ваше ім’я над кожним іменем.
+</section>
+    </variant>
+    <repetition name="default">(v1) (r1)*4 v1 (r1)*4 v1.1</repetition>
+    <repetition name="JancaDada">v1 (r1) v1 (r1) v1.1</repetition>
+</slide>

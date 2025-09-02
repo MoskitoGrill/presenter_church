@@ -1,0 +1,69 @@
+<slide name="Verný Boh">
+    <variant name="čeština">
+        <section name="v1">
+            Nemôžem prestať myslieť na Teba, 
+            nemôžem sa Ťa striasť.
+            Si ako oheň v mojom vnútri, 
+            čo páli ma, páliš ma.
+        </section>
+        
+        <section name="r0">
+            Si všetko, čo chcem, si všetko, čo mám.
+            A aj keď zdá sa, že spíš, 
+            ja Tvoje meno zavolám
+            proti búrkam, proti tmám.
+        </section>
+        
+        <section name="r1">
+            Verný Boh a verný Kráľ, dokončíš dielo, 
+            ktoré si vo mne začal.
+            Verný Boh a verný Kráľ, nevzdáš sa snov, 
+            ktoré si so mnou snívať začal.
+        </section>
+        
+        <section name="b1">
+            Ohlásim zo striech, 
+            že ľúbiš mňa a ja ľúbim Teba.
+            Ohlásim zo striech, 
+            že si verný a verný a verný Kráľ.
+            Woah, si verný Kráľ! 
+            Woah, si verný Kráľ!
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Я не можу думати про вас,
+            Я не можу розтягнутись.
+            Сі Ако вогонь у моєму майомі Vnutri,
+            Що таке Ма, Пліше Ма.
+        </section>
+        
+        <section name="r0">
+            Я Вветько, що я хочу, у мене є Вашетко, що у мене є.
+            І велосипед, здається, швидше,
+            Я зателефоную вашому менно
+            Проти Боркама, проти темного.
+        </section>
+        
+        <section name="r1">
+            Верні Бог і Верні Краľ, ти завершиш Діело,
+            Коре почалося в мені.
+            Верні Бог і Верні Краľ, ти не відмовляєшся від сноу,
+            Кото так почав мене їсти.
+        </section>
+        
+        <section name="b1">
+            Я повідомляю про Зо -Стіх,
+            що ľubiš mňa і ja ábim вас.
+            Я повідомляю про Зо -Стіх,
+            Той Верні і Верні та Верні Краľ.
+            Ти Вірний Король!
+            Ти Вірний Король!
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r0 r1 b1
+    </repetition>
+</slide>

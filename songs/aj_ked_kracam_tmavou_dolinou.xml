@@ -1,0 +1,71 @@
+<slide name="Aj keď kráčam tmavou dolinou">
+    <variant name="slovenčina">
+        <section name="v1">
+Aj keď kráčam tmavou dolinou
+            ty stále so mnou si
+            Aj keď kráčam tmavou dolinou
+            ty stále kráčaš so mnou
+</section>
+        <section name="v2">
+Ty ma vidíš a kráčaš so mnou
+            ty ma vidíš a kráčaš so mnou
+</section>
+        <section name="v3">
+Ty si môj kráľ, Ježiš
+            si môj Pán, Ježiš
+            Tvoja láska mení ma
+            tvoje srdce ma prijíma
+</section>
+        <section name="v4">
+Ty si môj kráľ, Ježiš
+            si môj Pán, Ježiš
+            Len s tebou túžim byť
+            v tvojej prítomnosti žiť
+</section>
+        <section name="v5">
+Čo svet hľadá, len ty máš
+            s tebou viem, že nie som sám
+            Cez oheň ma sprevádzaš
+            ty ma nikdy nenecháš
+            Ty ma nikdy nenecháš
+</section>
+        <section name="v6">
+Ty ma nikdy nenecháš
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Хоча я проходжу по темній долині
+            Ти все ще зі мною - ти
+            Хоча я проходжу по темній долині
+            Ти все ще ходиш зі мною
+</section>
+        <section name="v2">
+Ти бачиш мене і ходиш зі мною
+            Ти бачиш мене і ходиш зі мною
+</section>
+        <section name="v3">
+Ти мій цар, Ісус
+            Ти мій Господи, Ісус
+            Твоя любов змінює мене
+            Твоє серце отримує мене
+</section>
+        <section name="v4">
+Ти мій цар, Ісус
+            Ти мій Господи, Ісус
+            я лише хочу бути з тобою
+            У вашій присутності жити
+</section>
+        <section name="v5">
+Що шукає світ, тільки у вас є
+            Я знаю з тобою, що я не один
+            Через вогонь ти супроводжуєш мене
+            Ти ніколи не дозволяв мені
+            Ти ніколи не дозволяв мені
+</section>
+        <section name="v6">
+Ти ніколи не дозволяв мені
+</section>
+    </variant>
+    <repetition name="default">v1 v2 v3 v4 v5 v6</repetition>
+</slide>

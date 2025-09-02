@@ -1,0 +1,40 @@
+<slide name="Tvoje jméno vyznávám">
+    <variant name="čeština">
+        <section name="v1">
+            Tvoje jméno vyznávám,
+            rád Ti zpívám svoji chválu.
+            Jsem tak vděčný, že Tě znám,
+            jsem tak vděčný za Tvou spásu.
+        </section>
+        
+        <section name="r1">
+            Přišel jsi k nám z nebe ukázat směr,
+            dát v oběť sám sebe, jak Bůh to chtěl.
+            Z kříže byls do hrobu dán,
+            třetí den jsi z mrtvých vstal.
+            Tvoje jméno vyznávám.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Твоє ім'я, зізнаюсь,
+            Я люблю співати свою похвалу.
+            Я так вдячний, що знаю вас,
+            Я так вдячний за ваше спасіння.
+        </section>
+        
+        <section name="r1">
+            Ви прийшли до нас з неба, щоб показати напрямок,
+            Поставте себе в жертву того, як Бог цього хотів.
+            З хреста, який ви дали могилі,
+            Ви встали з мертвих на третій день.
+            Я зізнаю ваше ім’я.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1
+    </repetition>
+</slide>

@@ -1,0 +1,42 @@
+<slide name="Půjdeš-li pouští">
+    <variant name="čeština">
+        <section name="v1">
+            Půjdeš-li pouští, tvou stopu neztratím,
+            půjdeš-li vodou, nestrhne tě proud.
+            Půjdeš-li ohněm, plamen tě nespálí
+            svítím ti na cestu, půjdeš-li tmou.
+        </section>
+        
+        <section name="r1">
+            Ať jsi kdekoli, kdekoli,
+            kdekoli já jsem s tebou
+            Ať jdeš kamkoli, kamkoli,
+            kamkoli já jsem s tebou!
+        </section>
+
+        
+    </variant>
+
+    <variant name="український - auto">
+         <section name="v1">
+            Якщо ти підеш через пустелю, я не втрачу твоїх слідів,
+            якщо підеш через воду, то течія тебе не змиє.
+            Якщо підеш через вогонь, полум'я не спалить тебе.
+            Я освітлю твою дорогу, якщо ти підеш у темряві.
+        </section>
+        
+        <section name="r1">
+            Де б ти не був, де б ти не був,
+            де б ти не був, я з тобою.
+            Куди б ти не пішов, куди б ти не пішов,
+            Куди б я не пішов, я з тобою!
+        </section>
+
+        
+    </variant>
+
+    
+    <repetition name="default">
+        v1 (r1) v1 (r1)
+    </repetition>
+</slide>

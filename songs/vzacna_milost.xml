@@ -1,0 +1,52 @@
+<slide name="vzácná milost">
+    <variant name="čeština">
+        <section name="v1">
+            Tvá vzácná milost, šťastný den! 
+            Je spasen lidský vrak!
+            Já ztracený byl nalezen, 
+            slepému vrácen zrak.
+        </section>
+        
+        <section name="v2">
+            Ke kříži musila mne vést,
+            by strach můj zlomen byl!
+            Mou nejšťastnější chvílí 
+            jest den, kdy jsem uvěřil.
+        </section>
+        
+        <section name="r1">
+            Až moje srdce znavené 
+            se navždy zastaví,
+            Tvá milost do nového dne 
+            mne v slávu postaví
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Ваша рідкісна благодать, щасливий день!
+            Людська аварія врятована!
+            Я загубився, знайдено,
+            Сліпа повернення коштів.
+        </section>
+        
+        <section name="v2">
+            До хреста довелося вести мене,
+            Був би моїм страхом бути зламаним!
+            Мій найщасливіший момент
+            Є день, коли я повірив.
+        </section>
+        
+        <section name="r1">
+            На моє серце втомилося
+            зупиниться назавжди,
+            Ваше милосердя до нового дня
+            Він побудує мене у славі
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 v2 r1 r1
+    </repetition>
+</slide>

@@ -1,0 +1,53 @@
+<slide name="Pane, mně chybějí slova">
+    <variant name="čeština">
+        <section name="v1">
+            Pane, mně chybějí slova, když na Tvou lásku pomyslím.
+            Pane, mně chybějí slova, Ty rozdal ses těm nejhorším,
+            Pane, na Tebe plivali, vysmívali se, chechtali,
+        </section>
+        
+        <section name="r1">
+            A Ty ses vůbec nebránil, abys mě zachránil.
+        </section>
+        
+        <section name="v2">
+            Pane, mně chybějí slova, když na Tvé slzy vzpomínám,
+            Pane, mně chybějí slova, když vidím, jak jsi zůstal sám.
+            Pane, kdekdo Ti nadával, posmíval se a vtipkoval,
+        </section>
+        
+        <section name="v3">
+            Pane, mně chybějí slova, když do očí Ti pohledím,
+            Pane, mně chybějí slova, Ty trest jsi nesl za mě, vím.
+            Pane, na kříž Tě přibili, bezmocí Tvou se bavili,
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Господи, я сумую за словами, коли думаю про твою любов.
+            Господи, я сумую за словами, ти віддав найгірший,
+            Господи, вони плюють на тебе, знущаються, хихикали,
+        </section>
+        
+        <section name="r1">
+            І ви не заважали вам врятувати мене.
+        </section>
+        
+        <section name="v2">
+            Господи, я сумую за словами, коли пам’ятаю твої сльози
+            Господи, я сумую за словами, коли я бачу, як ти залишився наодинці.
+            Господи, будь -хто прокляв, знущався і жартував,
+        </section>
+        
+        <section name="v3">
+            Господи, я сумую за словами, коли дивлюсь у твої очі,
+            Господи, я сумую за словами, ти носив мене, я знаю.
+            Сер, вас прибили до хреста, ви говорили про свої безпорадні
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 (r1) v2 (r1) v3 (r1)
+    </repetition>
+</slide>

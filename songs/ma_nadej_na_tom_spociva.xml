@@ -1,0 +1,55 @@
+<slide name="Má naděj na tom spočívá">
+    <variant name="čeština">
+        <section name="v1">
+Má naděj na tom spočívá,
+            že za můj hřích krev tekla Tvá.
+            Tvé jméno, Tvá spravedlnost,
+            to pro mne, Pane můj, je dost.
+</section>
+        <section name="v2">
+Když tvář Tvou tma mi zastírá,
+            tu víra má se opírá
+            jen o milost a kotva má
+            se nepohne, ať bouř' je zlá.
+</section>
+        <section name="v3">
+Tvůj slib, Tvá krev mi pomáhá,
+            když žití bouř se rozmáhá.
+            Vím v sebe doufat marné je,
+            však Tys má všecka naděje!
+</section>
+        <section name="r1">
+Ježíši v slabosti,
+            docházím milosti.
+            V bouři zlé, Tvá láska je
+            kotvou mou.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Моя надія базується на
+            що для мого гріха протікає кров.
+            Ваше ім'я, ваше справедливість,
+            Цього мені достатньо, Господи, моє.
+</section>
+        <section name="v2">
+Коли твоє обличчя твоя темрява затьмарена для мене,
+            Віра полягає в тому, щоб полегшити
+            майже про милосердя та якір є
+            Не рухається, нехай шторм буде злом.
+</section>
+        <section name="v3">
+Ваша обіцянка, ваша кров допомагає мені,
+            Коли живе шторм розширюється.
+            Я знаю, що, сподіваючись, марно, це,
+            Але у вас є вся надія!
+</section>
+        <section name="r1">
+Ісус у слабкості,
+            Я благодать.
+            У штормі зла, твоя любов
+            Я прив’язаний до свого.
+</section>
+    </variant>
+    <repetition name="default">v1 v2 v2.4 r1 v3.4 r1</repetition>
+</slide>

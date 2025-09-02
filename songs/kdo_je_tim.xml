@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<slide name="Kdo je tím">
+    <variant name="čeština">
+        <section name="v1">
+Kdo je tím Králem slávy, jenž mě láskou provází
+a stále ke mně mluví něžně slovem svým?
+Mé svědomí mi říká: Bez odpuštění nelze žít.
+Kdo je tím Králem slávy, jenž mi je nabízí?
+</section>
+        <section name="v2">
+Kdo andělů je Králem? Bůh, co žehná pokojem.
+Kdo otvírá nám nebe a krásu, co je v něm?
+Má duše po Něm touží, po milosti, v pravdě stát.
+Kdo je tím Králem slávy? Lidský syn i Bůh a Pán.
+</section>
+        <section name="v3">
+Má jméno Ježíš, drahý Ježíš,
+mocný Pán, v srdci mém Král.
+On je Král slávy.
+</section>
+        <section name="v4">
+Kdo je tím Králem slávy? 
+Důstojností oplývá a moudrostí se halí, 
+milostivý Král.
+Je Pánem na nebesích, počátkem všeho stvoření.
+On je tím Králem slávy, on je pro mě vším.
+</section>
+    </variant>
+    <repetition name="default">v1 v2 (v3) v4 (v3)</repetition>
+</slide>

@@ -1,0 +1,40 @@
+<slide name="Zpívat píseň lásky smím">
+    <variant name="čeština">
+        <section name="v1">
+            Zpívat píseň lásky smím,
+            svému Pánu, svému Králi.
+            Vděčný jsem, když přijdeš k nám.
+            Za Tvou přízeň, za Tvou blízkost.
+        </section>
+        
+        <section name="r1">
+            Jsem rád že smím, být dítětem Tvým,
+            není nic, co chtěl bych víc.
+            Než být v Tvém náručí, ve Tvém náručí.
+            Ve ztišení, blízko Ti být, Ve Tvém náručí.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Співаючи пісню Love I Man,
+            До свого Господа, його царя.
+            Я вдячний, коли ти прийдеш до нас.
+            Для вашої прихильності, для вашої близькості.
+        </section>
+        
+        <section name="r1">
+            Я радий бути, можливо, будь твоїм дитиною,
+            Я нічого не хотів більше.
+            Ніж бути на руках, на руках.
+            У тиші, близько до вас, на руках.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1
+    </repetition>
+    <repetition name="JančaDada">
+        v1 r1 v1 r1
+    </repetition>
+</slide>

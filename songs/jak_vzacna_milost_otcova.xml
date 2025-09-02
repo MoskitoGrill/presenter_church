@@ -1,0 +1,100 @@
+<slide name="Jak vzácná milost otcova">
+    <variant name="čeština">
+        <section name="v1">
+Jak vzácná milost otcova,
+            jak úžasná ta láska,
+            že svého syna v oběť dal, 
+            by nás pro sebe získal.
+            Jak ztráty žal ho rozdírá,
+            když dech se Synu krátí!
+            Ten bránu k slávě otvírá
+            a víc dětí mu vrátí.
+</section>
+        <section name="v2">
+Na kříži muž je zmučený,
+            můj hřích u bedra svírá,
+            a k hanbě mě i hlas můj zn
+            a s rouhači mu spílá.
+            Můj hřích ho k dřevu přitlouká
+            a těžkne s každou ránou,
+            však tím, že zemřel, žít mi dá,
+            já vím, je dokonáno.
+</section>
+        <section name="v3">
+Co mám, na odiv nedávám
+            a vzpírat se chci pýše,
+            teď chlouba má je Kristus sám,
+            že zemřel a byl vzkříšen.
+            Jak zdůvodnit, že těžit smím
+            z triumfu Mesiáše?
+            Vím jen, že jsou mým výkupným
+            ty rány, které snášel.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Як рідкісна благодать батька,
+            Як дивовижно це кохання,
+            що він дав сину в жертву,
+            Буде нас за себе.
+            Як йому дає втрата горя,
+            Коли ваше дихання скорочується!
+            Відкривається ворота до слави
+            І більше дітей поверне його.
+</section>
+        <section name="v2">
+На хрестовому чоловікові катування,
+            мій гріх у лопатці, що стискається,
+            і ганьба мене і мій голос мого Zn
+            І зі своїми богохульстами він намалював його.
+            Мій гріх вражає його до дерева
+            І він стає важким з кожною раною,
+            Однак, помер, він живе мене,
+            Я знаю, що це закінчено.
+</section>
+        <section name="v3">
+Що я показую, що я не здаюся
+            І я хочу пишатися,
+            Тепер гордість має їх наодинці,
+            що він помер і воскрес.
+            Як виправдати, що я посміюсь
+            Від тріумфу Месії?
+            Все, що я знаю, це те, що вони - мій викуп
+            Ті рани, які він пережив.
+</section>
+    </variant>
+    <variant name="angličtina">
+        <section name="v1">
+How deep the Father's love for us,
+how vast beyond all measure, 
+that He should give his only Son, 
+to make a wretch his treasure, 
+How great the pain of searing loss,
+the Father turned his face away  
+As wounds which mar the chosen one 
+bring many sons to glory
+</section>
+        <section name="v2">
+Behold the man upon a cross, 
+my sin upon his shoulders. 
+Ashamed I hear my mock-ing voice 
+call out among the scoffers.
+It was my sin that held Him there 
+until it was accomplished. 
+His dying breath has brought me life,  
+I know that it is finished.
+</section>
+        <section name="v3">
+I will not boast in anything, 
+no gifts no power no wisdom 
+But I will boast in Jesus Christ, 
+His death and resurrec-tion. 
+Why should I gain from His reward
+I cannot give an answer, 
+But this I know with all my heart,
+His wounds have paid my ransom.
+</section>
+    </variant>
+    <repetition name="default">v1 v2 v3 v3.5 v3.6 v3.7 v3.8</repetition>
+    <repetition name="JancaDada">v1 r1 v1 r1.1:2 r1 v1</repetition>
+</slide>

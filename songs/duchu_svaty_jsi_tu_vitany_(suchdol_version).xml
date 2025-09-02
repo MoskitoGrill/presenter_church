@@ -1,0 +1,31 @@
+<slide name="Duchu Svatý, jsi tu vítaný">
+    <variant name="čeština">
+        <section name="v1">
+            Nic mě neláká víc, než blíže stát
+            Nic se nevyrovná tomu, co jsi dal nám
+            Ve Tvé blízkosti
+        </section>
+        
+        <section name="v2">
+            Já poznám a vím, Tvá láska je lék
+            V ní svobodný jsem a viny zbaven
+            Ve Tvé blízkosti
+        </section>
+
+        <section name="r1">         
+            Duchu Svatý, jsi tu vítaný
+            Přijď, vládni nám tam, kde vládneš Ty
+            Tvoje sláva přichází dnes s touhou k nám
+            Zapal láskou k Tobě naše srdce v nás
+        </section>
+
+        <section name="b1">
+            Ať stále víc před Tebou bázeň mám
+            Dnes toužím zažívat, jaký dobrý Bůh jsi k nám
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 v2 v2.3 r1 v1 v2 v2.3 r1 b1.1 b1.2*4 (r1)
+    </repetition>
+</slide>

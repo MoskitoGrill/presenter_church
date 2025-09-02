@@ -1,0 +1,70 @@
+<slide name="Vodu ve víno měníš">
+    <variant name="čeština">
+        <section name="v1">
+            Vodu na víno meníš
+            Otváraš oči slepým
+            Nikto nie je ako Ty
+        </section>
+        <section name="v2">    
+            Zasvietiš v tmách životom
+            Z prachu nás dvíhaš slovom
+            Nikto nie je ako Ty
+        </section>
+        
+        <section name="r1">
+            Náš Boh je väčší
+            On je silnejší
+            Pane, si viac
+            Než čo tento svet dáva
+        </section>
+        <section name="r2">
+            Rany nám liečiš
+            Mocný a slávny
+            Náš Boh
+            Si náš Pán
+        </section>
+        <section name="b1">
+        Veď keď náš Boh je za nás
+        Nemôže vládnuť strach
+        Keď náš Boh je s nami,
+        Kto môže stáť proti nám?
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Ви змінюєте воду на вино
+            Ти відкриваєш очі сліпим
+            Ніхто не схожий на вас
+        </section>
+        <section name="v2">    
+            Ви освітлюєте темряву життям
+            Ти своїм словом піднімаєш нас із пороху
+            Ніхто не схожий на вас
+        </section>
+        
+        <section name="r1">
+            Наш Бог більший
+            Він сильніший
+            Господи, ти більше
+            Ніж те, що дає цей світ
+        </section>
+        <section name="r2">
+            Ти лікуєш наші рани
+            Потужний і відомий
+            Наш Бог
+            Ти Господь наш
+        </section>
+        <section name="b1">
+            Бо наш Бог за нас
+            Страх не може керувати
+            Коли наш Бог з нами,
+            Хто може протистояти нам?
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 v2 r1 r2 v2 b1
+    </repetition>
+</slide>

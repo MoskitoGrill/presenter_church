@@ -1,0 +1,37 @@
+<slide name="Chci vejít do Jeho bran">
+    <variant name="čeština">
+        <section name="v1">
+            Chci vejít do Jeho bran 
+            s vděčným srdcem plným chval,
+            chtěl bych se svou chválou před Pána přijít.
+            Vždyť já vím, dnes je ten den, který On učinil,
+            proto chci zpívat: Pán mi radost dal.
+        </section>
+        <section name="r1">
+            Pán mi radost dal, 
+            Pán mi radost dal,
+            proto chci zpívat: 
+            Pán mi radost dal.
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            Я хочу увійти до його воріт
+            з вдячним серцем, сповненим похвали,
+            Я хотів би прийти зі своєю похвалою перед Господом.
+            Я знаю сьогодні - це день, який він зробив,
+            Ось чому я хочу співати: Господь подарував мені радість.
+        </section>
+        <section name="r1">
+            Господь подарував мені радість, 
+            Господь подарував мені радість
+            Ось чому я хочу співати: 
+            Господь подарував мені радість.
+        </section>
+    </variant>
+    
+    <repetition name="default">
+        v1 r1 r1
+    </repetition>
+</slide>

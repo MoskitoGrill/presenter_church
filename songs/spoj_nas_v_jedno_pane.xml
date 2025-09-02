@@ -1,0 +1,30 @@
+<slide name="Spoj nás v jedno, Pane">
+    <variant name="čeština">
+        <section name="v1">
+            Spoj nás v jedno, Pane, spoj nás v jedno poutem,
+            jež nemůže být zlámáno.
+            Spoj nás v jedno, Pane, spoj nás v jednou poutem,
+            spoj nás v jedno láskou svou.
+        </section>
+        
+        <section name="r1">
+            Je jen jeden Bůh, je jen jedno Tělo,
+            je jen jeden Král, proto zpíváme.
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            Зв’язок нас в одному, сер, зв’язок нас в одному облігації,
+            що не можна зламати.
+            Зв’язок нас в одному, сер, зв’язок нас в одному облігації,
+            Зв’язок нас в одній любові.
+        </section>
+        
+        <section name="r1">
+            Є лише один Бог, є лише одне тіло,
+            Є лише один король, тому ми співаємо.
+        </section>
+    </variant>
+    
+</slide>

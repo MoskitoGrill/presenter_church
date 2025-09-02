@@ -1,0 +1,33 @@
+<slide name="K Pánu ruce pozvedám">
+    <variant name="čeština">
+        <section name="v1">
+            K Pánu ruce pozvedám,
+            On je hoden našich chval.
+            S ním vždy zvítězím nad nepřáteli,
+            k Pánu ruce pozvedám.
+        </section>
+        
+        <section name="r1">
+            Vždyť Pán žije, On je můj pevný hrad,
+            je skála má, a proto vzývám Jeho jméno.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Я піднімаю руки до Господа,
+            Він гідний нашої похвали.
+            Я завжди перемагаю з ним ворогів,
+            Я піднімаю руки до Господа.
+        </section>
+        
+        <section name="r1">
+            Зрештою, Господь живе, він мій твердий замок,
+            У нього скеля, і тому я називаю його ім'я.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 r1
+    </repetition>
+</slide>

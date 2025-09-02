@@ -1,0 +1,46 @@
+<slide name="Odpustil´s mi, když zvítězili zradou">
+    <variant name="čeština">
+        <section name="v1">
+            Odpustil´s mi, když zvítězili zradou.
+            Ty´s mě přijal, zabít ses dal.
+            A já dál žiji, Duch Tvůj ve mně přebývá.
+            Pro nás zemřel´s a vstal.
+        </section>
+        
+        <section name="r1">
+            Úžasnou lásku máš, život svůj jsi za nás dal.
+            Úžasnou lásku máš, přijmi písně našich chval,
+            našich chval, přijmi nás.
+        </section>
+        
+        <section name="b1">
+            Můj lásky král, můj lásky král.
+            Ježíš můj lásky král, Ježíš můj lásky král.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Він пробачив мені, коли вони перемогли з зрадою.
+            Ти мене прийняв, ти вбив мене.
+            І я продовжую жити, твій дух живе в мені.
+            Він помер за нас і встав.
+        </section>
+        
+        <section name="r1">
+            У вас дивовижна любов, ви подарували нам своє життя.
+            У вас дивовижна любов, прийміть пісні нашої похвали,
+            Наша похвала, прийміть нас.
+        </section>
+        
+        <section name="b1">
+            Моє кохання короля, мій коханий цар.
+            Ісусе, мій любов, Ісусе, мій любов, цар.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 v1 r1 b1
+    </repetition>
+</slide>

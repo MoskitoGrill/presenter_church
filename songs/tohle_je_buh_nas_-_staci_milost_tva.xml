@@ -1,0 +1,72 @@
+<slide name="Tohle je Bůh náš - Stačí milost Tvá">
+    <variant name="čeština">
+        <section name="v1">
+            Stačí milost tvá, není třeba víc,
+            Otče, tvým slovům věřím.
+            Čekám tě dál, přijď zas ke mně blíž,
+            ať mě tvůj Duch obnoví.
+        </section>
+        
+        <section name="r1">
+            K nohám tvým poklekám,
+            k nohám tvým poklekám
+            a zde tě ctím, uctívám.
+        </section>
+        
+        <section name="v2">
+            Přebývej ve mně, Ježíši, světlo mé,
+            veď mě dál v moci slov svých.
+            Jsem obnovený, jsem vykoupený,
+            Duchem tvým jsem svobodný.
+        </section>
+        
+        <section name="b1">
+            Všeho kvůli nám ses vzdal
+            a na kříži svůj život dal.
+            Láska nesmírná, pro svět vylitá,
+            tohle je Bůh náš.
+            Ze smrti vzkříšený jsi vstal,
+            oslavený a věčný Pán,
+            služebník, Král, zachránil svět,
+            tohle je Bůh náš.
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            Вам просто потрібна ваша благодать, більше не потрібно,
+            Отче, я вірю у твої слова.
+            Я чекаю на тебе, підійдіть до мене ще раз
+            Нехай твій дух відновлює мене.
+        </section>
+        
+        <section name="r1">
+            На ноги вашого коліна,
+            Я став на коліна до ваших ніг
+            І тут я шаную вас, поклоняюся.
+        </section>
+        
+        <section name="v2">
+            Жити в мені, Ісусе, моє світло,
+            Ведіть мене в силі ваших слів.
+            Мене оновить, мене викуповують,
+            Я вільний у вашому дусі.
+        </section>
+        
+        <section name="b1">
+            Ти відмовився від нас усе
+            І він дав своє життя на хресті.
+            Любов величезна, бо світ розлився,
+            Це наш Бог.
+            Від смерті воскресіння, яке ви встали,
+            відзначається і вічний господар,
+            Слуга, Кінг, врятував світ,
+            Це наш Бог.
+        </section>
+    </variant>
+    
+    
+    <repetition name="default">
+        v1 r1 v2 r1 b1
+    </repetition>
+</slide>

@@ -1,0 +1,86 @@
+<slide name="Ty jsi">
+    <variant name="čeština">
+        <section name="v1">
+            Ty jsi ten, který vládne,
+            Ten, který život dává,
+            ten, který od věčnosti byl.
+            Jsi ten, který stvořil zemi,
+            nebesa s hvězdami všemi,  
+            hory, moře i všechno co je v nich.
+        </section>
+        
+        <section name="r1">
+            Vzývám Tebe králi, zpívám Tobě chvály,
+            vždyť Ty jsi vládce všeho a vše v Tobě spočívá.
+            Jsi svatý Bůh a pán, Tobě sláva patří,
+            Chválu Tobě vzdávám.
+        </section>
+        
+        <section name="r2">
+            Vzývám Tebe králi, zpívám Tobě chvály,
+            vždyť Ty jsi vládce všeho a vše v Tobě spočívá.
+            Jsi ten, který viděl i mě, uprostřed hříchu mého stát,
+            bez naděje stát.
+        </section>
+        
+        <section name="b1">
+            Však jen z lásky, jsi ze slávy své přišel
+            a na kříži jsi za mou vinu zemřel
+            porazil jsi smrt a z hrobu jsi vyšel jako král
+            pevnou naději teď v Tobě mám
+        </section>
+        
+        <section name="v2">
+            Kdopak teď odsoudí ty, které jsi zachránil
+            a drahou krví svou za jejich vinu zaplatil?
+            Proto Ti chválu vzdávám,
+            jen Tobě patří sláva
+            za to co nám jsi v Kristu daroval
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            Ви той, хто правила,
+            Той, що дає життя,
+            той, що він був з вічності.
+            Ти той, хто створив землю,
+            Небо з зірками всі,
+            Гори, море і все в них.
+        </section>
+        
+        <section name="r1">
+            Я запрошую вас до короля, співаю вам похвалу,
+            Зрештою, ви є правителем усього і все, що у вас є.
+            Ти Святий Бог і Господь, слава належить тобі,
+            Я даю похвалу.
+        </section>
+        
+        <section name="r2">
+            Я запрошую вас до короля, співаю вам похвалу,
+            Зрештою, ви є правителем усього і все, що у вас є.
+            Ти той, хто мене бачив, посеред гріха мого стану,
+            без надії стояти.
+        </section>
+        
+        <section name="b1">
+            Але лише з любові, ти вийшов зі своєї слави
+            і на хресті ти помер за мою провину
+            Ти побив смерть, і ти вийшов з могили, як король
+            Зараз у вас є нерухомість надії
+        </section>
+        
+        <section name="v2">
+            Хто зараз засуджує тих, кого ви врятували
+            І він заплатив за їхню провину за їхню провину?
+            Ось чому я даю вам похвалу,
+            Тільки ти належиш до своєї слави
+            за те, що ти дав нам у Христі
+        </section>
+    </variant>
+    
+    
+    <repetition name="default">
+        v1 r1 v1 r2 b1 v2 b1.1:3 b1
+    </repetition>
+</slide>

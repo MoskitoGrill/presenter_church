@@ -1,0 +1,35 @@
+<slide name="Pojď, právě je čas">
+    <variant name="čeština">
+        <section name="v1">
+            Pojď, teď je čas jej chválit,
+            Pojď, svůj život můžeš Králi dát.
+            Pojď, právě je čas jej chválit,
+            Pojď před Králem svým teď můžeš stát, tak pojď.
+        </section>
+        <section name="r1">
+            Jednou každý jazyk vyzná, že jsi Pán, 
+            každý jednou se pokloní, 
+            navždy slavný poklad zůstává 
+            těm, kdo Tě milují.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Приходь, пора хвалити його,
+            Приходьте, ви можете віддати своє життя королю.
+            Приходь, пора хвалити його,
+            Ідіть перед своїм королем, тепер ви можете стояти, тому приходьте.
+        </section>
+        <section name="r1">
+            Як тільки кожен язик дізнається, що ти господар,
+            Кожен один раз поклонився,
+            Назавжди знаменитий скарб залишається
+            тим, хто тебе любить.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 v1
+    </repetition>
+</slide>

@@ -1,0 +1,55 @@
+<slide name="Znovu - Přemýšlím nad obětí">
+    <variant name="čeština">
+        <section name="v1">
+Přemýšlím nad obětí Tvou, Ježíši, 
+            k prachu ses snížil, na smrt jsi šel.
+            Kolikrát mě údiv znovu naplní, 
+            že dík Tobě můžu teď žít,
+            dík Tobě můžu teď žít.
+</section>
+        <section name="r1">
+Znovu hledím na kříž, kam jsi šel kvůli nám.
+            Jsem pokořen Tvou láskou, srdce zlomené mám.
+            Znovu díky vzdávám, znovu Ti svůj život chci dát.
+</section>
+        <section name="v2">
+Vyvýšen teď vládneš, Králi v nebesích,
+            tam před Tvým trůnem i já budu stát.
+            Radost mám, že získal jsi mi spasení,
+            a znovu má chvála Ti zní, 
+            znovu má chvála Ti zní.
+</section>
+        <section name="b1">
+Díky za Tvůj kříž, 
+            díky za Tvůj kříž, 
+            díky za Tvé přátelství.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Я думаю про ваших жертв, Ісусе,
+            Ви опустилися до пилу, ви пішли на смерть.
+            Скільки разів дивно мене знову наповнити,
+            що завдяки вам я можу жити зараз,
+            Дякую, я можу вам жити зараз.
+</section>
+        <section name="r1">
+Я знову дивлюся на хрест, куди ти пішов за нами.
+            Мене принижують вашу любов, серце розбилося.
+            Знову я відмовляюся, я хочу ще раз дати вам своє життя.
+</section>
+        <section name="v2">
+Правило зараз, ти маєш цар на небі,
+            Там я буду стояти там перед вашим престолом.
+            Я радий отримати мені порятунок,
+            І знову звучить моя похвала
+            Знову ж таки, похвала звучить.
+</section>
+        <section name="b1">
+Дякую за ваш хрест, 
+            дякую за ваш хрест, 
+            дякую за дружбу.
+</section>
+    </variant>
+    <repetition name="default">v1 r1 v2 r1 (b1) r1</repetition>
+</slide>

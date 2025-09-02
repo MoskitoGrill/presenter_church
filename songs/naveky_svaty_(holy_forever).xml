@@ -1,0 +1,110 @@
+<slide 'Tisic pokoleni'>
+    <variant 'čeština'>
+        <section 'v1'>
+            Tisíc pokolení pred Tebou sa skláňa,
+a chválí piesňou Tí, čo predišli nás, 
+a tí, čo uveria, večnou Baránka.
+nech chvália piesňou večnou Baránka.
+        </section>
+        
+        <section 'v2'>
+            Ty máš meno slávne, Ty máš meno vzácne, 
+Ty máš meno víťazné. 
+Je viac, než každá vláda, moc má putá zlámať, 
+Ty máš meno víťazné. 
+        </section>
+
+        <section 'v3'>
+            Anjelský spev znie: Svätý! 
+Volá stvorenie: Svätý!
+Najvyšší Boh je svätý,
+naveky svätý. 
+        </section>
+
+        <section 'v4'>
+            Ak tvoj hriech Boh zmazal, ak v Ňom spásu máš,
+chváľ tiež piesňou večnou Baránka. 
+Ak dnes Jemu patříš, ak si slobodný, 
+chváľ tiež piesňou večnou Baránka, 
+chváľme piesňou večnou Baránka. 
+        </section>
+
+        <section 'v5'>
+            Anjelský spev znie: Svätý! Volá stvorenie: Svätý! 
+Najvyšší Boh je svätý, naveky svätý. 
+Tvoj ľud spieva Ti, svätý, svojmu Kráľovi, svätý, 
+lebo stále si, svätý, naveky svätý. 
+        </section>
+
+        <section 'r1'>
+            Ty máš meno slávne, Ty máš meno vzácne, 
+Ty máš meno víťazné. 
+Je viac, než každá vláda, moc má putá zlámať, 
+Ty máš meno víťazné.
+        </section>
+
+        <section 'v6'>
+            Anjelský spev znie: Svätý! Volá stvorenie: Svätý! 
+Najvyšší Boh je svätý, naveky svätý. 
+Tvoj ľud spieva Ti, svätý, svojmu Kráľovi, svätý, 
+lebo stále si, svätý, 
+naveky svätý. 
+    </variant>
+
+    <variant 'anglictina - auto'>
+         <section 'v1'>
+            A thousand generations falling down in worship
+To sing the song of ages to the Lamb
+And all who've gone before us, and all who will believe
+Will sing the song of ages to the Lamb
+        </section>
+        
+        <section 'v2'>
+            Your name is the highest, Your name is the greatest
+Your name stands above them all, All thrones and dominions
+All powers and positions
+Your name stands above them all
+        </section>
+
+        <section 'v3'>
+            And the angels cry, "Holy"
+All creation cries, "Holy"
+You are lifted high, holy
+Holy forever
+        </section>
+
+        <section 'v4'>
+            If you've been forgiven, if you've been redeemed
+Sing the song forever to the Lamb
+If you walk in freedom, if you bear His name
+Sing the song forever to the Lamb
+'ll sing the song forever and amen 
+        </section>
+
+        <section 'v5'>
+            And the angels cry, "Holy”, All creation cries, "Holy"
+You are lifted high, holy, Holy forever
+Hear your people sing, "Holy”, To the King of kings, "Holy"
+You will always be holy, Holy forever.
+        </section>
+
+        <section 'r1'>
+            Your name is the highest, Your name is the greatest
+Your name stands above them all, 
+All thrones and dominions
+All powers and positions, Your name stands above them all
+        </section>
+
+        <section 'v6'>
+            And the angels cry, "Holy”,  All creation cries, "Holy"
+You are lifted high, holy, Holy forever
+Hear Your people sing "Holy" To the King of kings, holy 
+You will always be holy Holy forever,
+You will always be holy, Holy forever
+    </variant>
+
+    
+    <repetition 'default'>
+        v1 r1 v2
+    </repetition>
+</slide>

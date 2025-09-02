@@ -1,0 +1,47 @@
+<slide name="Já vím">
+    <variant name="čeština">
+        <section name="v1">
+Můj Pán kvůli mně přišel, nepůsobil jako král.
+            On dal vše, co měl, abych já mohl žít.
+            Můj Pán dal sám sebe, prý jsem mu za to stál.
+            On dal vše, co měl, abych já mohl žít.
+</section>
+        <section name="r1">
+Já vím, já vím.
+            Bez Tebe neměl bych nic.
+            Já vím, já vím.
+            tys mi dal všechno, já chci Tebe víc.
+            Já vím, já vím.
+            Bez Tebe nemůžu žít, nemůžu žít.
+</section>
+        <section name="b1">
+Haleluja, On je vítěz.
+            Ježíš žije, pro něj mé srdce bije.
+            On je Pánem vší země a teď žije ve mně.
+            Nic nezastaví slávu Tvou.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Мій Господь прийшов за мною, Він не діяв як цар.
+            Він віддав усе, що мав, щоб я міг жити.
+            Мій Господь віддав себе, він сказав, що я того вартий.
+            Він віддав усе, що мав, щоб я міг жити.
+</section>
+        <section name="r1">
+Знаю, знаю.
+            Без тебе у мене нічого не було б.
+            Знаю, знаю.
+            Ти дав мені все, я хочу ще.
+            Знаю, знаю.
+            Без тебе я не можу жити, не можу жити.
+</section>
+        <section name="b1">
+Алілуя, Він переможець.
+            Ісус живе, для Нього б'ється моє серце.
+            Він - Господь всієї землі, і тепер Він живе в мені.
+            Ніщо не може зупинити Твою славу.
+</section>
+    </variant>
+    <repetition name="default">v1 r1 v1 r1 (b1) r1</repetition>
+</slide>

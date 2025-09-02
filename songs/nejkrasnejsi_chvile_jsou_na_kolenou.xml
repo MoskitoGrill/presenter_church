@@ -1,0 +1,52 @@
+<slide name="Nejkrásnější chvíle jsou na kolenou">
+    <variant name="čeština">
+        <section name="v1">
+            Nejkrásnější chvíle vždycky jsou na kolenou.
+        </section>    
+
+        <section name="r1">
+            V modlitbách když budeš stát,
+            Duch svatý začne vát.
+        </section>
+
+        <section name="v2">
+            Sílu opustit svůj hřích jsem dostal na kolenou.
+        </section>
+
+        <section name="v3">
+            Sílu začít nově žít jsem dostal na kolenou.
+        </section>
+
+        <section name="v4">
+            Duchem svým mne Ježíš naplnil na kolenou.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+         <section name="v1">
+            Найкрасивіші моменти завжди відбуваються на колінах.
+        </section>
+        
+        <section name="r1">
+            У молитві, коли ви стоїте,
+            Святий Дух почне дихати.
+        </section>
+
+        <section name="v2">
+            Я знайшла в собі сили залишити свій гріх на колінах.
+        </section>
+
+        <section name="v3">
+            На колінах я отримав силу, щоб почати жити знову.
+        </section>
+
+        <section name="v4">
+            Ісус наповнив мене Своїм Духом на колінах.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        (v1) r1 v1 (v2) r1 v1 (v3) r1 v1 (v4)
+    </repetition>
+</slide>

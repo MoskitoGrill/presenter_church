@@ -1,0 +1,27 @@
+<slide name="Ty jsi Pánom mojich dní">
+    <variant name="čeština">
+        <section name="v1">
+            Ty si Pánom mojich dní,
+            Ty naplňaš ma láskou.
+            Ty si Pánom mojich dní,
+            po svojich cestách vedieš ma.
+            Ty si Pánom mojich dní,
+            keď Ťa volám, vždy si blízko.
+            Ty si Pánom mojich dní,
+            Tebe patrím so všetkým, čo mám.
+
+        </section>
+        
+        <section name="r1">
+            Príliš dlho som už slúžil pánom falošným,
+            príliš dlho som bol spútaný,
+            Ty si mi putá zlámal, Ty si ma oslobodil,
+            Ty si ma vyviedol do víťazných dní.
+
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1
+    </repetition>
+</slide>

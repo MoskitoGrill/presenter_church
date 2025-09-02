@@ -1,0 +1,32 @@
+<slide name="Miluji tě Pane">
+    <variant name="čeština">
+        <section name="v1">
+            Nejbližší jsi přítel můj, nejlíp mě znáš, 
+Přesto dál náruč svou pro mě otvíráš. 
+Žasnu nad láskou Tvou, nad Tvou moudrostí.
+Běžím, chci Tě potěšit, zpívám radostí  
+        </section>
+        
+        <section name="v2">
+        Slovo Tvé mi sílu dává říct hříchu dost.
+Do Tvých rukou odevzdávám svou budoucnost.
+Veď mě Pane, ať Tvou vůli dál poznávám.
+Chci mít srdce jako Ty a vyznávám.
+
+        </section>
+
+        <section name="r1">         
+            Miluji Tě Pane, miluji Tě víc
+Miluji Tě stále a znovu toužím říct
+jak miluji ty chvíle kdy Ti blízko jsem
+Jak moc jsem Ti vděčný, že jsi mým přítelem.
+
+        </section>
+
+        
+    </variant>
+
+    <repetition name="default">
+        v1 r1 v2 r1
+    </repetition>
+</slide>

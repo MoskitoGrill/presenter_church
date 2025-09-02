@@ -1,0 +1,65 @@
+<slide name="Pána chval duše má">
+    <variant name="čeština">
+        <section name="r1">
+            Pána chval duše má, ó duše má, 
+            chválu a dík mu vzdej. 
+            Chválu vší silou pěj, ať každý zná,
+            jak slavné On jméno má.
+        </section>
+        
+        <section name="v1">
+            Nový krásný den milost tvá nám dává,
+            hlas k Tobě pozvednu, chci být Ti blíž.
+            A cokoli bylo a co ještě přijde,
+            má chvála bude Tobě navždy znít.
+        </section>
+        
+        <section name="v2">
+            Jsi Pánem v nás, bohatý jsi v lásce,
+            ve jménu Tvém není žádný stín.
+            Chválit budu Tě, že vše nám dáváš,
+            mám tisíc důvodů, proč rád Tě ctím
+        </section>.
+        
+        <section name="v3">
+            Až přijde den, kdy už ztratím sílu,
+            za Pánem půjdu, vím, už přijde čas. 
+            Stále duše bude vzdávat chválu,
+            přes všechno zůstává tvá láska v nás.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="r1">
+            Душа Господа Чвала, душа, душа,
+            похвалити і дякую йому відмовитися.
+            Похвалити з усіма силами співати, щоб усі знали,
+            Як він відомий.
+        </section>
+        
+        <section name="v1">
+            Новий прекрасний день благодать, що ми нам дає,
+            Я підняю ваш голос до вас, я хочу бути ближче до вас.
+            І все було і що ще прийти
+            Моя похвала буде звучати до вас назавжди.
+        </section>
+        
+        <section name="v2">
+            Ти господар у нас, ти багатий на кохання,
+            У вашому імені немає тіні.
+            Я буду хвалити вас, що ви даєте нам усе,
+            У мене є тисяча причин, чому я люблю шанувати вас
+        </section>.
+        
+        <section name="v3">
+            Коли настає день, коли я втрачаю сили,
+            Я піду до Господа, я знаю, прийде час.
+            Душа все одно відмовиться від похвалу,
+            Незважаючи на все, ваша любов залишається в нас.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        r1 v1 r1 v2 r1 v3 (r1)
+    </repetition>
+</slide>

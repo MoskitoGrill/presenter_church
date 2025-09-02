@@ -1,0 +1,44 @@
+<slide name="Jméno slavíme Tvé - Hosana">
+    <variant name="čeština">
+        <section name="v1">
+            Hosana, hosana,
+            hosana Bohu na nebi
+        </section>
+        
+        <section name="r1">
+            Jméno slavíme Tvé,  
+            chválí Tě srdce mé,
+            vyvýšen buď, ó Bože náš,
+            hosana Bohu na nebi.
+        </section>
+        
+        <section name="v2">
+            Sláva, sláva,
+            sláva všech Králů Králi
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Хосана, Хосана,
+            Хосана Богу на небі
+        </section>
+        
+        <section name="r1">
+            Назва, яку ми святкуємо твої,
+            хвалить тебе, моє серце мого,
+            Виставив будь -який, наш Бог,
+            Хосана Богу на небі.
+        </section>
+        
+        <section name="v2">
+            Слава, слава,
+            Слава всіх царів королю
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        (v1) r1 (v2) r1
+    </repetition>
+</slide>

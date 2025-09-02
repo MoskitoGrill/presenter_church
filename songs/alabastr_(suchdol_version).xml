@@ -1,0 +1,35 @@
+<slide name="Alabastr">
+    <variant name="čeština">
+        <section name="v1">
+            Rozbitý u nohou Tvých,
+            Jak pohár z Alabastru jsem.
+            Pokládám před trůnem Tvým,
+            Každý kousek duše své
+        </section>
+        
+        <section name="r1">
+            Dám ti život svůj k nohám Tvým,
+            K nohám Tvým
+            mé rty pak utichnou
+            Když nohy Tvé políbím 
+        </section>
+
+        <section name="v2">         
+            Se vší úctou před tebou
+            Moje duše pokleká.
+            Nebudu už jako dřív
+            Ztracen v Tobě mohu žít.
+        </section>
+
+        <section name="v3">
+            Dám ti život svůj k nohám Tvým,
+            K nohám Tvým
+            mé rty pa utichnou
+            Když nohy Tvé políbím
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 (r1) v2 v3
+    </repetition>
+</slide>

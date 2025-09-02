@@ -1,0 +1,26 @@
+<slide name="Řeka tvé lásky">
+    <variant name="čeština">
+        <section name="v1">
+            Řeka Tvé lásky proudí k nám, 
+přes hory i přes oceán.
+I já své srdce otvírám, 
+ať Tvůj duch dotkne se mně sám.
+Mám radost, že Tvou lásku znám,
+že v pravdě můžu chodit dál, 
+Proto své dlaně pozvedám a tebe vzývám.
+        </section>
+        
+        
+
+        <section name="r1">         
+            Budu jen o Tvé lásce zpívat, 
+věčně jen o Tvé lásce zpívat 
+        </section>
+
+        
+    </variant>
+
+    <repetition name="default">
+        v1 (r1)
+    </repetition>
+</slide>

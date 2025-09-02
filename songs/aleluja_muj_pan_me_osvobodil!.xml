@@ -1,0 +1,138 @@
+<slide name="ALELUJA, MŮJ PÁN MĚ OSVOBODIL!">
+
+<variant name="ukrajinština">
+<section name="v1">
+Велика прірва була між нами
+Високі гори - немов стіна
+І в час зневіри підняв я очі
+Твоє ім‘я вночі призвав
+Крізь темінь й холод, о, Божа ласка
+Пролилась світлом у тінь душі
+Звершилась праця, кінець відомий
+Надія вся лише в Христі!
+</section>
+
+<section name="v2">
+Як зрозуміти велику милість?
+Вмістити серцем таку любов?
+Творець Предвічний залишив славу
+Вдягнув мій гріх, ганьбу забрав
+Твоїм хрестом я тепер прощений
+Я сином став Царя Царів
+Прекрасний Спасе я Твій навіки
+Надія вся лише в Христі!
+</section>
+
+<section name="r1">
+Алілуя, мій Господь мене звільнив!
+Алілуя, смерть і пекло переміг!
+Ти кайдани розірвав,
+Нам спасіння дарував
+Лиш в Христі надія вся!
+</section>
+
+<section name="v3">
+Настав світанок, здійснилось Слово
+У мертве тіло прийшло життя
+Лев Всемогутній з потужним ревом
+У смерті владу відібрав!
+Настав світанок, здійснилось Слово
+У мертве тіло прийшло життя
+Лев Всемогутній з потужним ревом
+У смерті владу відібрав!
+Навіки смерть Він подолав!
+</section>
+</variant>
+
+<variant name="čeština">
+<section name="v1">
+Byla mezi námi velká propast
+Vysoké hory jsou jako zeď
+A v době zoufalství jsem zvedl oči
+V noci jsem volal tvé jméno
+Skrz temnotu a chlad, ó, milost Boží
+Vnesla světlo do stínu duše
+Práce je hotová, konec je znám
+Veškerá naděje je pouze v Kristu!
+</section>
+
+<section name="v2">
+Jak rozumět velkému milosrdenství?
+Držet takovou lásku ve svém srdci?
+Věčný Stvořitel opustil slávu
+Oblékl můj hřích, sňal můj stud
+Při tvém kříži je mi nyní odpuštěno
+Stal jsem se synem krále králů
+Krásný Spasiteli, jsem navždy tvůj
+Veškerá naděje je pouze v Kristu!
+</section>
+
+<section name="r1">
+Aleluja, můj Pán mě osvobodil!
+Aleluja, smrt a peklo zvítězily!
+Zlomil jsi okovy
+Dal nám spásu
+Pouze v Kristu je veškerá naděje!
+</section>
+
+<section name="v3">
+Přišel úsvit, Slovo se naplnilo
+Do mrtvého těla vstoupil život
+Všemohoucí lev s mocným řevem
+Ve smrti vzal moc!
+Přišel úsvit, Slovo se naplnilo
+Do mrtvého těla vstoupil život
+Všemohoucí lev s mocným řevem
+Ve smrti vzal moc!
+Navždy přemohl smrt!
+</section>
+</variant>
+
+<variant name="přepis">
+<section name="v1">
+Velyka prirva bula mizh namy 
+Vysoki hory - nemov stina 
+I v chas zneviry pidnyav ya ochi 
+Tvoye im‘ya vnochi pryzvav 
+Krizʹ teminʹ y kholod, o, Bozha laska 
+Prolylasʹ svitlom u tinʹ dushi 
+Zvershylasʹ pratsya, kinetsʹ vidomyy 
+Nadiya vsya lyshe v Khrysti! 
+</section>
+
+<section name="v2"> 
+Yak zrozumity velyku mylist'? 
+Vmistyty sertsem taku lyubov? 
+Tvoretsʹ Predvichnyy zalyshyv slavu 
+Vdyahnuv miy hrikh, hanʹbu zabrav 
+Tvoyim khrestom ya teper proshchenyy 
+YA synom stav Tsarya Tsariv 
+Prekrasnyy Spase ya Tviy naviky 
+Nadiya vsya lyshe v Khrysti! 
+</section> 
+
+<section name="r1"> 
+Aliluya, miy Hospodʹ mene zvilʹnyv! 
+Aliluya, smertʹ i peklo peremih! 
+Ty kaydany rozirvav, 
+Nam spasinnya daruvav 
+Lysh v Khrysti nadiya vsya! 
+</section> 
+
+<section name="v3"> 
+Nastav svitanok, zdiysnylosʹ Slovo 
+U mertve tilo pryyshlo zhyttya 
+Lev Vsemohutniy z potuzhnym revom 
+U smerti vladu vidibrav! 
+Nastav svitanok, zdiysnylosʹ 
+Slovo U mertve tilo pryyshlo zhyttya 
+Lev Vsemohutniy z potuzhnym revom 
+U smerti vladu vidibrav! 
+Naviky smertʹ Vin podolav! 
+</section> 
+</variant>
+
+<repetition name="default">
+v1 v2 r1 r1 v3 r1 r1 r1
+</repetition>
+</slide>

@@ -1,0 +1,80 @@
+<slide name="Tak jaký jsem">
+    <variant name="čeština">
+        <section name="v1">
+            Tak jakýž jsem, ač nemám nic.
+            Však že mi krev Tvá kyne vstříc.
+            A že mě voláš víc a víc.
+            Beránku Boží k Tobě jdu.
+        </section>
+        
+        <section name="v2">
+            Tak jakýž jsem a nečekám.
+            Bych obmyl se neb spasil sám.
+            V samého Tebe spoléhám.
+            Beránku Boží k Tobě jdu.
+        </section>
+
+        <section name="v3">
+            Tak jakýž jsem aj duše má.
+            Tvé milosti se poddává.
+            A již je Tvá na věky Tvá.
+            Beránku Boží k tobě jdu.
+        </section>
+
+        <section name="v4">
+            Tak jakýž jsem, ač mnohý mrak.
+            Můj kalí mír a víry zrak.
+            A ducha svírá všelijak.
+            Beránku Boží k Tobě jdu.
+        </section>
+
+        <section name="v5">
+            Tak jakýž jsem, ač všecko víš.
+            Mne příjmeš spasíš,potěšíš.
+            Vždyť Ty svých slibů nerušíš.
+            Beránku Boží k Tobě jdu.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+         <section name="v1">
+            Так що я є, хоч і не маю нічого.
+            Бо кров Твоя піднімається мені назустріч.
+            І що Ти кличеш мене все більше і більше.
+            Агнче Божий, я приходжу до Тебе.
+        </section>
+
+        <section name="v2">
+            Так що я такий, і я не чекаю.
+            Я б сам себе вмив або врятував.
+            На Тебе одного уповаю.
+            Агнець Божий, я приходжу до Тебе.
+        </section>
+
+        <section name="v3">
+            Так само і я, і моя душа.
+            Вона подібна до твоєї благодаті.
+            І вона твоя навіки.
+            Агнець Божий, я приходжу до тебе.
+        </section>
+
+        <section name="v4">
+            Так що я є, хоч і багато хмар.
+            Мій мир і моя віра тьмяніють.
+            І дух мій розбитий на всі боки.
+            Агнце Божий, я приходжу до Тебе.
+        </section>
+
+        <section name="v5">
+            Tak jakýž jsem, ač všecko víš.
+            Mne příjmeš spasíš,potěšíš.
+            Vždyť Ty svých slibů nerušíš.
+            Beránku Boží k Tobě jdu.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 v2 v3 v4 v5
+    </repetition>
+</slide>

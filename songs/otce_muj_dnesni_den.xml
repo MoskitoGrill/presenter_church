@@ -1,0 +1,38 @@
+<slide name="Otče můj, dnešní den">
+    <variant name="čeština">
+        <section name="v1">
+            Otče můj, dnešní den do Tvých rukou vkládám jen,
+            Duchem svatým veď mne sám, zde očekávám.
+            Pane, Ty máš moc mi dát, abych zůstal pevně stát,
+            milost Tvá buď silou mou, sobě žádám.
+        </section>
+        
+        <section name="r1">
+            Můj Pán je se mnou, odpustil můj hřích,
+            můj Pán je se mnou dal mi své spasení.
+            Můj Pán je se mnou, dobře zná starosti mé
+            a má moc mne zachovat pro království své.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Батько, сьогоднішній день я вкладаю лише в руки,
+            У Святому Дусі я очікую мене тут, тут я очікую.
+            Сер, у вас є багато, щоб дати мені залишатися щільно,
+            Медикам або за силою, я запитую себе.
+        </section>
+        
+        <section name="r1">
+            Мій господар зі мною, прости мій гріх,
+            Господи зі мною дав мені спасіння.
+            Мій господар зі мною, ну знає мої турботи, мої
+            І він має силу тримати мене до свого царства.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1
+    </repetition>
+</slide>

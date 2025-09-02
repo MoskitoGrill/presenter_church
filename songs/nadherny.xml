@@ -1,0 +1,72 @@
+<slide name="Nádherný">
+    <variant name="čeština">
+        <section name="v1">
+            Ve Tvém srdci je soucit a slitování,
+            prapor lásky Tvé nade mnou.
+            S Tebou setkat se toužím tváří v tvář,
+            navždy v blízkosti Tvé pak stát.
+            Jak je nádherné víc Tě znát.
+        </section>
+        
+        <section name="r1">
+            Nádherný, pro mě vším jsi sám,
+            nádherný, čistý můj jsi Pán,
+            hoden jsi slávy, jsi králů Král.
+            Jak je nádherné víc Tě znát.
+        </section>
+        
+        <section name="v2">
+            Ve tvých rukou je právo, jsi spravedlivý,
+            jas Tvé tváře, jak úsvit nade mnou.
+            Ty jsi stvořitel, Bůh, mého života Pán,
+            Tobě chválu a díky vzdám.
+            Jak je nádherné víc Tě znát.
+        </section>
+        
+        <section name="v3">
+            Budem chválit Tvé jméno, ať svaté je v nás,
+            Tebe chválit a vzývat budem dál.
+            Ve Tvé moci a slávě chcem navěky žít,
+            v srdci vděčnost a lásku mít.
+            Jak je nádherné blíž Ti být.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            У вашому серці - співчуття та милість,
+            Прапор вашої любові над мною.
+            З вами зустрітися з вами бажанням віч -на -віч,
+            Назавжди поблизу вас стояти.
+            Як чудово вас більше знати.
+        </section>
+        
+        <section name="r1">
+            Красиво, для мене все, що ти один,
+            Красива, прибравшись, ти - джентльмен,
+            Ви гідні слави, ви царі короля.
+            Як чудово вас більше знати.
+        </section>
+        
+        <section name="v2">
+            У ваших руках є право, ви справедливі,
+            Яскравість вашого обличчя, як світанок над мною.
+            Ти Творець, Боже, моє життя, Господи,
+            Ви хвалите вас і дякую.
+            Як чудово вас більше знати.
+        </section>
+        
+        <section name="v3">
+            Давайте похвалимо ваше ім’я, нехай Святий буде в нас,
+            Хвала вас, і ми продовжуватимемо продовжувати.
+            У вашій силі та славі я хочу жити вічно,
+            в серці вдячності та любові.
+            Як це чудово бути.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1 v2 r1 v3 r1
+    </repetition>
+</slide>

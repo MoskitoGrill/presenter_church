@@ -1,0 +1,47 @@
+<slide name="Jediné miesto">
+    <variant name="čeština">
+        <section name="v1">
+            Jediné miesto kde pokoj nájdem
+            tam, kde sa cítim v bezpečí
+            je pri tebe, Ježiš, tam všetko nájdem
+            Ty ma vždy o tom presvedčíš
+        </section>
+        <section name="v2">
+            Už sa nemusím báť neistých dní
+            keď ty vo mne prebývaš
+            Teraz pevne smiem stáť
+            mojou istotou si, Ježiš, všetko máš
+        </section>
+        <section name="v3">
+            Immanuel, Immanuel
+            viem že ty sám nado mnou stále bdieš
+            Immanuel, Immanuel, v dave poznáš môj hlas
+            nikdy nezanecháš, pri mne budeš stáť
+        </section>
+    </variant>
+    <variant name="український">
+        <section name="v1">
+            Єдине місце, де я можу знайти спокій
+            де я почуваюся в безпеці
+            з тобою, Ісусе, я все знайду там
+            Ви завжди переконуєте мене в цьому
+        </section>
+        <section name="v2">
+            Мені більше не доведеться турбуватися про непевні дні,
+            коли ти живеш у мені
+            Тепер я можу твердо стояти
+            Ісус твій, у тебе є все
+        </section>
+        <section name="v3">
+            Іммануїл, Іммануїл
+            Я знаю, що ти все ще стежиш за мною
+            Іммануїле, Іммануїле в натовпі ти знаєш мій голос
+            ти ніколи не підеш, ти будеш стояти біля мене
+        </section>
+    </variant>
+
+    
+    <repetition name="Mira-band">
+        (v1 v2 v3)
+    </repetition>
+</slide>

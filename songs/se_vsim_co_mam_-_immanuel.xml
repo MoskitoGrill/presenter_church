@@ -1,0 +1,54 @@
+<slide name="Se vším co mám - Immanuel">
+    <variant name="čeština">
+        <section name="v1">
+            Se vším co mám, přicházím s chválou 
+            až před Tvůj trůn, před Tvoji tvář.
+            Toužím tam stát, a nechat se 
+            slávou naplnit víc, než dosud znám.
+        </section>
+        
+        <section name="r1">
+            Připomínám si nádherné dílo.
+            Zázrakem mám, výsadu dát jméno 
+            Immanuel na stupeň vítězů.
+            Immanuel, Ty jsi odpověď všech mých dotazů.
+            Immanuel
+        </section>
+        
+        <section name="v2">
+            Krásné sny mám, že země Ti zpívá.
+            Mohutný chór slyším už znít.
+            Šťastný ten čas, kdy národ tě vzývá.
+            Jen pod Tvou vládou všechno jde líp.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            З усім, що я маю, я приходжу з похвалою
+            Тільки перед вашим престолом, перед обличчям.
+            Я хочу стояти там і дозволити собі бути
+            Повністю виконати славу більше, ніж я знаю.
+        </section>
+        
+        <section name="r1">
+            Я пам’ятаю чудову роботу.
+            Чудо я маю, привілей дати ім’я
+            Іммануїл на подіумі.
+            Іммануїл, ти відповідь на всі мої запитання.
+            Іммануїл
+        </section>
+        
+        <section name="v2">
+            У мене прекрасні мрії, які країна співає вас.
+            Я чую масивний хор.
+            Щасливий час, коли нація запрошує вас.
+            Тільки під вашим урядом все йде краще.
+        </section>
+    </variant>
+
+    
+    <repetition name="JancaDada">
+        v1 r1 v2 r1.1:3 r1.4 r1.4:5
+    </repetition>
+</slide>

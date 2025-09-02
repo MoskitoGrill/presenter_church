@@ -1,0 +1,37 @@
+<slide name="Tohle je láska Tvá">
+    <variant name="čeština">
+        <section name="v1">
+            Kdo zlomí vládu temna a hříchu,
+            Kdo vládne láskou, jež má tu sílu,
+            Je to Král slávy, nad všemi králi Král,
+            Kdo silou bouře, pohne i skálou,
+            Před kým se skláním v úžasu s chválou,
+            Je to Král slávy, nad všemi králi Král
+        </section>
+        
+        <section name="r1">
+            Tohle je láska Tvá a milost úžasná,
+            Žes byl na místě mém, můj kříž jsi nesl sám.
+            Vydal jsi život svůj, abych byl svobodný,
+            Za vše co dals mi, zpívám ti Ježíši
+        </section>
+
+        <section name="v2">         
+            Kdo vrátí řády, kde zmatky vládnou,
+            Sirotky přijme s otcovskou láskou?
+            Je to Král slávy, nad všemi králi Král
+            Kdo světu vládne pravdou a právem,
+            Jak slunce září v celé své kráse?
+            Je to Král slávy, nad všemi králi Král
+        </section>
+
+        <section name="b1">
+            Beránku buď sláva čest
+            Sláva Králi již hrob nemohl snést
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 v2 (b1)
+    </repetition>
+</slide>

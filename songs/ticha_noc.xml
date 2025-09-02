@@ -1,0 +1,56 @@
+<slide name="Tichá noc">
+    <variant name="čeština">
+        <section name="v1">
+            Tichá noc, svatá noc jala lid v blahý klid
+Dvé jen srdcí tu v Betlémě bdí, 
+hvězdy při svitu u jeslí dlí,
+V nichž malé děťátko spí, v nichž děťátko spí.
+
+        </section>
+        
+        <section name="v2">
+            Tichá noc, svatá noc! Co anděl vyprávěl,
+Přišed z jasnosti v pastýřů stan, 
+zní již z výsosti z všech země stran:
+“Vám je dnes Spasitel dán! Přišel Kristus Pán.
+
+        </section>
+
+        <section name="v3">
+            Tichá noc, svatá noc! Děťátku na líčku
+Boží láska si s úsměvem hrá,
+z pod zlaté řasy k nám vysílá,
+Že nám až srdéčko plá, vstříc mu vděčně plá!
+
+
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+         <section name="v1">
+            Тиха ніч, свята ніч загнала людей у ​​блаженний спокій
+Два єдиних серця дивляться тут, у Віфлеємі,
+біля ясел сяють зорі,
+В якій спить малесенька, в якій спить немовля.
+        </section>
+        
+        <section name="v2">
+            Тиха ніч Свята ніч! Що сказав ангел
+Приходь із світла в наметі пастуха,
+лунає вже з висоти з усіх боків землі:
+«Сьогодні вам дарується Спас! Христос Господь прийшов.
+        </section>
+
+        <section name="v3">
+            Тиха ніч Свята ніч! Дитина на щоці
+Божа любов грає посмішкою,
+з-під золотих вій шле нам,
+Щоб навіть наше сердечко б’ється вдячно за нього!
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 v2 v3
+    </repetition>
+</slide>

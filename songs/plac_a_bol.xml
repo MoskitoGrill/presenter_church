@@ -1,0 +1,65 @@
+<slide name="Pláč a bol">
+    <variant name="čeština">
+        <section name="v1">
+            Pláč a bol byl životem mým,
+            sám jsem nesl svůj kříž.
+            Radost mi vrátila Golgata, 
+            našel mě Pán Ježíš.
+        </section>
+        
+        <section name="v2">
+            Pánem mým byl vlastní můj hřích,
+            táhl níže a níž.
+            Radost mi vrátila Golgata, 
+            našel mě Pán Ježíš.
+        </section>
+        
+        <section name="v3">
+            Láskou svou mi pravý můj Pán,
+            hřicha svého slož tíž.
+            Radost mi vrátila Golgata, 
+            našel mě Pán Ježíš.
+        </section>
+        
+        <section name="r1">
+            Radost mi vrátila Golgata, 
+            Golgata, Golgata.
+            Radost mi vrátila Golgata,
+            našel mě Pán Ježíš.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Плач і Бол - це моє життя моє,
+            Я сам носив свій хрест.
+            Радість повернулася до Гольгата,
+            Мене знайшов Господь Ісус.
+        </section>
+        
+        <section name="v2">
+            Мій господар був моїм власним моїм гріхом,
+            затягнуто внизу і нижче.
+            Радість повернулася до Гольгата,
+            Мене знайшов Господь Ісус.
+        </section>
+        
+        <section name="v3">
+            Полюби мій справжній мій господар,
+            Cesspool ваших складок.
+            Радість повернулася до Гольгата,
+            Мене знайшов Господь Ісус.
+        </section>
+        
+        <section name="r1">
+            Радість повернулася до Гольгата,
+            Гольгата, Гольгата.
+            Радість повернулася до Гольгата,
+            Мене знайшов Господь Ісус.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 v2 r1 v3 r1
+    </repetition>
+</slide>

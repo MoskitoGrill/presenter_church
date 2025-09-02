@@ -1,0 +1,52 @@
+<slide name="otevři oči slepých">
+    <variant name="čeština">
+        <section name="v1">
+            Otevři uši hluchých, 
+            otevři oči slepých, 
+            sundej pouta vězněných. 
+            Zasáhni jejich srdce, 
+            ať přijmou pokoj tvůj, 
+            ať naleznou v tobě spasení.
+        </section>
+        
+        <section name="r1">
+            Ty jsi Mesiáš, 
+            pánů Pán, králů Král, 
+            spasitel všech národů.
+        </section>
+        
+        <section name="v2">
+            Vyšli své děti na žeň, 
+            aby zvěstovali tvoji slávu, 
+            ať se za tvé jméno nestydí.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Відкрийте вуха глухих,
+            Відкрийте очі сліпості,
+            Зняти зв'язки в'язнів.
+            Вдарити їх серця,
+            Нехай вони приймають вашу кімнату,
+            Нехай вони знаходять у вас спасіння.
+        </section>
+        
+        <section name="r1">
+            Ти - Месія,
+            лорди Господа, цар царя,
+            Спаситель усіх народів.
+        </section>
+        
+        <section name="v2">
+            Вийшов своїх дітей на žeň,
+            проповідувати свою славу,
+            Не соромтеся свого імені.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1 r1 v2 v2 r1 r1 
+    </repetition>
+</slide>

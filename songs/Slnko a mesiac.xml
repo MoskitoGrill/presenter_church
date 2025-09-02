@@ -1,0 +1,29 @@
+<slide name="Slnko a mesiac">
+    <variant name="čeština">
+        <section name="v1">
+Slnko a mesiac ťa chvália
+            anjeli spievajú tiež
+            Každý sa pred tebou skláňa
+            čo povieš, vykonať vieš
+</section>
+        <section name="v2">
+Slovom si učinil hviezdy
+            slovom si utvoril zem
+            slovom ty dokážeš vzkriesiť
+            Tvoje slová milujem
+</section>
+        <section name="v3">
+S tebou prekonám búrky
+            ty mi silu na to dáš
+            Pane, v tebe mám úkryt
+            ty vždy počúvaš môj hlas
+            (Majestát ti patrí)
+</section>
+        <section name="b1">
+Máš v rukách máš
+            život môj
+            len ty sám
+</section>
+    </variant>
+    <repetition name="default">v1 v2 v3 v1 v2 v3 (b1)*4</repetition>
+</slide>

@@ -1,0 +1,61 @@
+<slide name="oslav ho nebe">
+    <variant name = 'čeština'>
+        <section name="v1">
+            Oslav ho nebe a vše co je v něm,
+            chvalte ho andělé i celá zem,
+            vzývej svého Pána.
+        </section>
+        <section name="v2">
+            Klaň se mu slunce i zástupy hvězd,
+            chvalte ho nebesa chvalte ho dnes,
+            vzývej svého Pána.
+        </section>
+        <section name="r">
+            Velký v síle, velký v slávě,
+            velký v lásce, Král v nebesích.
+            Velký v boji, velký v moci,
+            velký v církvi, Ježíš je králů král.
+        </section>
+        <section name="r0">
+            Velký v síle, velký v slávě,
+            velký v lásce, Král v nebesích.
+            Velký v boji, velký v moci,
+            velký v církvi, vší země Král a Pán.
+        </section>
+    </variant>
+    <variant name = 'український'>
+        <section name="v1">
+            Святкуйте небо і все, що в ньому,
+            хваліть його, ангели, і вся земля;
+            клич свого Господа.
+        </section>
+        <section name="v2">
+           Поклоніться йому сонцю і воїнствам зірок,
+            хваліть його небо, хваліть його сьогодні
+            клич свого Господа.
+        </section>
+        <section name="r">
+            Великий у силі, великий у славі,
+            великий в любові, Цар на небі.
+            Великий у битві, великий у силі, 
+            великий у церкві, всієї землі Цар і Господь.
+        </section>
+        <section name="r0">
+            Великий у силі, великий у славі,
+            великий в любові, Цар на небі.
+            Великий у битві, великий у силі, 
+            великий у церкві, всієї землі Цар і Господь.
+        </section>
+    </variant>
+
+    
+    <repetition name="Mira-band">
+        (v1 v2 r) r
+    </repetition>
+    <repetition name="Málky & Co.">
+        v1 v2 r v1 v2 r 
+    </repetition>
+    <repetition name="Janča&Dada">
+        v1 v2 r v1 v2 r r
+    </repetition>
+</slide>

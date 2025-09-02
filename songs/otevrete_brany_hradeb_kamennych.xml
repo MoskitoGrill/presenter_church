@@ -1,0 +1,61 @@
+<slide name="Otevřete brány hradeb kamenných">
+    <variant name="čeština">
+        <section name="v1">
+            Otevřete brány hradeb kamenných,
+            otevřete brány hradeb srdcí svých,
+            otevřete, aby mohl dál.
+            Nechte všeho, nechte obav, starostí,
+            připravujte cestu Jeho Království, 
+            připravujte cestu, aby vejít mohl slávy Král.
+        </section>
+        
+        <section name="r1">
+            To kvůli Králi, Králi, 
+            připrav každý cestu, cestu svou. 
+            To kvůli Králi, Králi,
+            naprav každý cestu, cestu křivou, cestu zlou.
+        </section>
+        
+        <section name="v2">
+            Pozdvihněte svoje srdce znavená,
+            posilněte klesající kolena, 
+            otevřete, aby mohl dál.
+            Není doba k spánku, je čas nabrat sil, 
+            pominula noc a den se přiblížil,
+            připravujte cestu, aby vejít mohl slávy Král.
+        </section>
+        
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Відкрийте ворота кам'яних стін,
+            Відкрийте ворота стін вашого серця,
+            Відкрито, щоб продовжувати.
+            Залиште все, нехай турботи, турботи,
+            Підготуйте шлях його царства,
+            Підготуйте шлях, щоб слава короля могла прийти.
+        </section>
+        
+        <section name="r1">
+            Це через короля, короля,
+            Підготуйтеся всіляко, їх шлях.
+            Це через короля, короля,
+            Виправляючи всіляко, Крьянна, злий шлях.
+        </section>
+        
+        <section name="v2">
+            Підняти своє серце втомлене,
+            Зміцнити зменшення колін,
+            Відкрито, щоб продовжувати.
+            Немає часу спати, настав час набирати сили,
+            Минула ніч, і день наблизився
+            Підготуйте шлях, щоб слава короля могла прийти.
+        </section>
+        
+    </variant>
+
+    <repetition name="default">
+        v1 v2 r1
+    </repetition>
+</slide>

@@ -1,0 +1,34 @@
+<slide name="Ty si môj pastier">
+    <variant name="čeština">
+        <section name="v1">
+            Ty si môj pastier, v Tebe všetko mám, čo hľadám,
+            novú nádej, ktorú v Teba vkladám, pravé šťastie prežívam.
+            A moje kroky vedieš isto cestou svojou,
+            a ma chrániš od prehratých bojov, Tvoje výhry poznávam.
+        </section>
+        
+        <section name="r1">
+            A ja som sa bránil, svoju pravdu mal, a slávu v sebe budoval
+            a brány šťastia otváral a všetko len sám
+            a Tvojim slovám, tým som neveril a so zlým stále zápasil,
+            no dnes viem, že si to najlepšie čo mám.
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            У вас є пасер, у мене є всі вас у вас, що робити,
+            Новий контейнер, який в родовищах із задоволенням піде.
+            І мої кроки Веді Іто на шляху власного,
+            І я захищаюсь від попередньо відтворених бійців, я пізнаю ваші виграші.
+        </section>
+        
+        <section name="r1">
+            І я захищав правду, правду Мала та славу, побудовану в собі
+            і ворота щасливого відкриття та льон Вашетко
+            І ваші слова, команда SOM не вірила і так погано все ще боровся,
+            Ну сьогодні я знаю, що у мене це є.
+        </section>
+    </variant>
+    
+</slide>

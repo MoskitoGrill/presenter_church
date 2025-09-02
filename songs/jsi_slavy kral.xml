@@ -1,0 +1,43 @@
+<slide name="Jsi slávy Král">
+    <variant name="čeština">
+        <section name="v1">
+            Jsi slávy Král,
+            před Tebou můžu stát
+            a díky vzdát.
+        </section>
+        
+        <section name="v2">
+            ó, Pane svatý,
+            přijď sem mezi nás.
+        </section>
+        
+        <section name="r1">
+            Miluji Tě vroucí láskou,
+            ó, Pane svatý,
+            přijď sem mezi nás.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Ти слава короля,
+            Я можу стояти перед вами
+            І завдяки відмовитися.
+        </section>
+        
+        <section name="v2">
+            О, містер Сент,
+            Приходьте сюди серед нас.
+        </section>
+        
+        <section name="r1">
+            Я люблю тебе з киплячою любов’ю,
+            О, містер Сент,
+            Приходьте сюди серед нас.
+        </section>
+    </variant>
+
+    
+    (v1)*3 v2 (r1) (v1)*3 v2 (r1)
+</repetition>
+</slide>

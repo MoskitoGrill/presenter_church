@@ -1,0 +1,45 @@
+<slide name="Ty jsi miloval spravedlnost">
+    <variant name="čeština">
+        <section name="v1">
+            Ty jsi miloval spravedlnost a nenáviděl hřích.
+        </section>
+        
+        <section name="r1">
+            Sláva, Tobě Pane, vítězi buď sláva.
+            Sláva, pomazaný olejem veselí.
+        </section>
+        
+        <section name="v2">
+            Já miluju spravedlnost a nenávidím hřích.
+        </section>
+        
+        <section name="r2">
+            Díky, Tobě Pane, vítězi  a Králi.
+            Díky, pomazal´s  mě olejem  veselí.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Ви любили справедливість і ненавиділи гріх.
+        </section>
+        
+        <section name="r1">
+            Слава, ти, сер, переможець - слава.
+            Слава, помазана олією.
+        </section>
+        
+        <section name="v2">
+            Я люблю справедливість і ненавиджу гріх.
+        </section>
+        
+        <section name="r2">
+            Дякую, сер, переможець і Кінг.
+            Дякую, Анзал з олією.
+        </section>
+    </variant>
+    
+    <repetition name="default">
+        (v1) (r1) (v2) (r2)
+    </repetition>
+</slide>

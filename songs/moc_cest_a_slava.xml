@@ -1,0 +1,58 @@
+<slide name="Moc, čest a sláva">
+    <variant name="čeština">
+        <section name="v1">
+            Moc, čest a sláva.
+            Síla a chvála.
+            Ať je vzdána Bohu věků.
+            Ať každý národ, končiny země,
+            Pokleknou před Bohem věků.
+        </section>
+        
+        <section name="v2">
+            Všichni na zemi i v nebi prohlásí Tvou slávu.
+            Každý poklekne před trůnem v uctívání
+            Ty jsi vyvýšený Bože,
+            a Tvé království nepomine, ó Bože věků
+        </section>
+        
+        <section name="v3">
+            Tvé království přichází na zemi, 
+            Chval Boha věků, tak chval.
+            Nikdo a nic není jako Ty,
+            Tak chval Boha věků, tak chval.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Влада, честь і слава.
+            Сила і похвала.
+            Нехай він відмовляється від Бога протягом століть.
+            Чи кожен народ, кінець країни,
+            Вони стають на коліна перед Богом віків.
+        </section>
+        
+        <section name="v2">
+            Усі на землі та на небі оголосять вашу славу.
+            Кожен на коліна перед престолом у поклонінні
+            Ти піднятий бог,
+            І ваше царство не допоможе, о Божому віці
+        </section>
+        
+        <section name="v3">
+            Ваше царство приходить на землю,
+            Слава Бога віків, так похвали.
+            Ніхто і нічого не схожий на вас,
+            Тож хвалить Бога віків, так що хвали.
+        </section>
+
+        <repetition name="default">
+            v1 v2 v3
+        </repetition>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1 v2 r1
+    </repetition>
+</slide>

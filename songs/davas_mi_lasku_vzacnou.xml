@@ -1,0 +1,37 @@
+<slide name="Dáváš mi lásku vzácnou">
+    <variant name="čeština">
+        <section name="v1">
+            Dáváš mi lásku vzácnou, 
+            dáváš mi přátelství, 
+            vždyť mám teď touhu jasnou, 
+            jít na Tvé nádvoří,
+        </section>
+        
+        <section name="r1">
+            Chválit Tvé svaté jméno, 
+            přebývat v Tvých hlubinách, 
+            v srdci mít lásku Tvou, 
+            jenom s ní žít.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Ти даруєш мені любов рідко,
+            Ти даруєш мені дружбу,
+            Зараз у мене є бажання ясна
+            Перейдіть у двір,
+        </section>
+        
+        <section name="r1">
+            Слава твоє святий ім'я,
+            жити у своїх глибинах,
+            в серці, щоб любов, твої,
+            Просто живіть з нею.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1
+    </repetition>
+</slide>

@@ -1,0 +1,54 @@
+<slide name="Jako řeka mě unášíš">
+    <variant name="čeština">
+        <section name="v1">
+            Jako řeka mě unášíš do svých hlubin,
+            Tvoje vlny se převalí po suchých polích.
+            Tvoje mocné proudy ať mě pohltí,
+            všechny Tvé vůně, vším, čím jsi.
+        </section>
+        
+        <section name="b1">
+            Obklop mě svou sladkou blízkostí.
+        </section>
+        
+        <section name="r1">
+            Není žádný jako Ty, nikdo neudělá to, co Ty,
+            o Tvoji lásku se opírám.
+            Není žádný jako Ty, Tvoje sláva přichází,
+            když Tě chválím, Ježíši.
+        </section>
+        
+        <section name="b2">
+            Po Tobě touží duše má.
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            Як річка, яку ти переносиш мене у свої глибини,
+            Ваші хвилі котяться на сухих полях.
+            Ваші потужні течії дозволяють мені охопити мене,
+            Всі ваші аромати, все, що ви є.
+        </section>
+        
+        <section name="b1">
+            Оточіть мене своєю солодкою близькістю.
+        </section>
+        
+        <section name="r1">
+            Немає подібного до вас, ніхто не зробить те, що ти,
+            Я нахиляюся про вашу любов.
+            Немає подібного до вас, ваша слава приходить,
+            Коли я хвалю тебе, Ісусе.
+        </section>
+        
+        <section name="b2">
+            Душа прагне для вас.
+        </section>
+    </variant>
+    
+    
+    <repetition name="default">
+        v1 b1 b1 r1 b2 b2
+    </repetition>
+</slide>

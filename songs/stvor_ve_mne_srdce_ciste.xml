@@ -1,0 +1,33 @@
+<slide name="Stvoř ve mně srdce čisté">
+    <variant name="čeština">
+        <section name="r1">
+            Stvoř ve mně srdce čisté, ó, Bože,
+            a Ducha přímého obnov v nitru mém.
+        </section>
+        
+        <section name="v1">
+            Jen mne nezamítej od tváře své, Bože,
+            Ducha svatého neodnímej.
+            Dej, ať se navrátí radost ze spásy Tvojí
+            a Ducha přímého obnov v nitru mém.
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="r1">
+            Створений в мені серце чисте, о, боже,
+            і дух прямого оновлення всередині мене.
+        </section>
+        
+        <section name="v1">
+            Тільки не засинайте з вашого обличчя, Боже,
+            Не делегувати Святого Духа.
+            Дайте повернути радість від спасіння вашого
+            і дух прямого оновлення всередині мене.
+        </section>
+    </variant>
+    
+    <repetition name="default">
+        r1 r1 v1
+    </repetition>
+</slide>

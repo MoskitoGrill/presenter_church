@@ -1,0 +1,41 @@
+<slide name="Ty život mi dáš">
+    <variant name="čeština">
+        <section name="v1">
+            Aj keby som kráčať mal temným údolím,
+            ja nebudem sa báť.
+            Ty ma povedieš po dobrých pastvinách
+            Ty na nich mi život dáš.
+        </section>
+        
+        <section name="r1">
+            Ty život mi dáš
+            len ty mi ho dáš, Ježiš.
+        </section>
+        
+        <section name="b1">
+            Svätý, svätý, svätý Pán.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Aj kyby som kráčať невелика темна долина,
+            Я не збираюся бути.
+            У вас є добре після хороших пасовищ
+            Ти даєш мені життя на них.
+        </section>
+        
+        <section name="r1">
+            Ви дасте мені життя
+            Ти даєш мені, Ісусе.
+        </section>
+        
+        <section name="b1">
+            Svätý, World, World Master.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 r1 b1 b1
+    </repetition>
+</slide>

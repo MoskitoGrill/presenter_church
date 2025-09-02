@@ -1,0 +1,46 @@
+<slide name="Ježíš přítel hříšných">
+    <variant name="čeština">
+        <section name="v1">
+            Je jeden hlas, co měl by znít,
+            je jedna píseň k zpívání,
+            je jedno jméno hodné vzývání.
+        </section>
+        
+        <section name="v2">
+            Nad zlato poklad vzácnější,
+            Král na trůnu nejvyšším,
+            jemu chvála celým nebem zní.
+        </section>
+        
+        <section name="v3">
+            Má Jméno Ježíš, přítel hříšných,
+            Ježíš, Ježíš, Přítel můj.
+        </section>
+        
+        <section name="v4">
+            Je pokoj, jenž strach zahání,
+            láska, co roste dáváním,
+            naděje, která smrtí nekončí.
+        </section>
+        
+        <section name="v5">
+            Bůh, který nám rozumí,
+            přítel, co nikdy nezradí,
+            má jediné jméno, v němž je spasení.
+        </section>
+
+        <section name="v6">
+            Vešel do mého vězení,
+            řekl: Jsi volný, můžeš jít.
+            Jsi svobodný!
+        </section>
+    </variant>
+    
+    
+    
+    
+    <repetition name="default">
+        v1 v2 v3 v4 v5 v6 
+    </repetition>
+    
+</slide>

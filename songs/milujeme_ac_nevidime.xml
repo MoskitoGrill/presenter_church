@@ -1,0 +1,55 @@
+<slide name="Milujeme ač nevidíme">
+    <variant name="čeština">
+        <section name="v1">
+            Milujeme ač nevidíme,
+            věříme v něj a jásáme
+            nevýslovnou radostí plnou slávy
+            docházíme cíle víry své.
+        </section>
+        
+        <section name="v2">
+            Zlatem a stříbrem on nezaplatil,
+            pomíjivý nás nekoupil,
+            povolal nás do světla svého,
+            skrze něj máme přístup do bran nebeských.
+        </section>
+        
+        <section name="r1">
+            Jsme obmytí krví beránka,
+            na místě zvaném Golgota.
+            Otroky hříchů nemusíme déle být.
+            Na kříži svůj život dokonal,
+            třetího dne však z mrtvých vstal.
+            Otroky hříchů nemusíme déle být.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Ми любимо, хоча не бачимо,
+            Ми віримо в це і підбадьорюємо
+            Неконфліктним з радістю, сповненою слави
+            Ми закінчуємо цілі своєї віри.
+        </section>
+        
+        <section name="v2">
+            Він не платив із золотом та сріблом,
+            Ефемер не купував нас,
+            покликав нас на його світло,
+            Через нього ми маємо доступ до небесних воріт.
+        </section>
+        
+        <section name="r1">
+            Ми - поворот крові ягняти,
+            на місці під назвою Голгото.
+            Ми не повинні довше бути рабами гріхів.
+            На життя хреста завершено,
+            Третій день, однак, він встав із мертвих.
+            Ми не повинні довше бути рабами гріхів.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 v2 r1 v1 v2 r1
+    </repetition>
+</slide>

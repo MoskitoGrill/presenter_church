@@ -1,0 +1,51 @@
+<slide name="Nádherný je Pán">
+    <variant name="čeština">
+        <section name="v1">
+            Nádherný je Pán, majestátny Kráľ
+            zem sa raduje, zem sa raduje. 
+            On sám je svetlom nám. 
+            Nad ním tma moc nemá
+            Hlas Jeho mocne znie
+            Hlas Jeho mocne znie. 
+        </section>
+        
+        <section name="r1">
+            Veľký je náš Boh, spievajme. Veľký je náš Boh
+            a každý uvidí veľký je náš Boh.
+        </section>
+        
+        <section name="v2">
+            Jeho vláda je večná a čas On v rukách má.
+            Počiatok a koniec, počiatok a koniec.
+            Boh je trojjediný, Otec, Duch a Syn. 
+            Lev a baránok, lev a baránok. 
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Прекрасний джентльмен, величність короля
+            Земля радує, земля радіє.
+            Сам він нам Світлом.
+            Темрява не дуже над цим
+            Голос його потужно знищує
+            Голос його потужного знищить.
+        </section>
+        
+        <section name="r1">
+            Veľký - наш Бог, підемо.Veľký - наш Бог
+            І всі побачать, що Веľкі - наш Бог.
+        </section>
+        
+        <section name="v2">
+            Його уряд - це вечір, і він має час у руках.
+            Poaciatok та Koniec, Poaciatok та Koniec.
+            Бог потрійний, Отче, Привид і Син.
+            Лев і Баранок, Лев і Баранек.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 v2 r1
+    </repetition>
+</slide>

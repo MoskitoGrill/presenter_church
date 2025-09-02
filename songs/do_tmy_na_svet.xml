@@ -1,0 +1,59 @@
+<slide name="Do tmy na svet">
+    <variant name="čeština">
+        <section name="v1">
+            Do tmy na svet prišlo k nám svetlo sveta,
+            otvor môj zrak, nech vidím
+            krásu lásky, z ktorej srdce Ti spieva,
+            že sláva aj moc Ti patrí.
+        </section>
+        <section name="r1">
+            Prišli sme Ťa vzývať, prišli sme sa skláňať,
+            prišli sme Ti vyznať: „Si náš Boh“
+            Si dokonalá láska, dokonale svätý,
+            dokonale nádherný ku nám.
+        </section>
+        <section name="v2">
+            Král' všetkých dní a tiež najvyšší vládca,
+            slávnejší nad nebesá.
+            Ponížil sa, prišiel na zem, čo stvoril,
+            vzdal sa slávy z lásky k nám.
+        </section>
+        <section name="b1">
+            Ja nemám dosť slov opísať cenu,
+            ktorú Ťa môj hriech stál.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            У темряві світу прийшов до нас світлого світу,
+            Відкриття моїх очей, дозволь мені побачити
+            Краса кохання, від серця вас Співа,
+            Ця слава, і ти належить тобі.
+        </section>
+        <section name="r1">
+            Ми дізналися, ми прийшли до склянки,
+            У нас є багато, щоб сказати вам: "Боже наш"
+            Ти ідеальна любов, ідеально світ,
+            Ідеально красивий для нас.
+        </section>
+        <section name="v2">
+            Король цілі дні і краватки -невіри, правителі,
+            Полосні над небом.
+            Принижений SA, Пришелі на землю, що
+            Відмовився від любові з любові до нас.
+        </section>
+        <section name="b1">
+            У мене немає слів, щоб зникнути ціною,
+            Кора ťuj hriech стояв.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 v2 r1 (b1)*4 (r1)
+    </repetition>
+    
+    <repetition name="Ivo">
+        v1 r1 v2 r1 (b1)*3 r1
+    </repetition>
+</slide>

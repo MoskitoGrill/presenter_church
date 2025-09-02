@@ -1,0 +1,111 @@
+<slide name="děkuji">
+    <variant name="čeština">
+        <section name="v1">
+Chci tě chválit, chci tě chválit.
+            Za to, co jsi udělal, že jsi za mě umíral
+            Chci tě chválit, chci tě chválit,
+            protože jsi z mrtvých vstal
+            a můj hřích tak překonal
+</section>
+        <section name="r1">
+Ty měníš mé srdce, ty měníš můj den.
+            Já zvedám své ruce a říct chci jen
+            děkuji
+</section>
+        <section name="r2">
+Žes mě vždycky miloval,
+            žes mi lásku ukázal.
+            Že jsi se mi poznat dal, Ježíši.
+</section>
+        <section name="v2">
+Chcem tě chválit, chcem tě chválit.
+            Za to, co jsi udělal, že jsi za nás umíral
+            Chcem tě chválit, chcem tě chválit,
+            protože jsi z mrtvých vstal
+            a náš hřích tak překonal
+</section>
+        <section name="r3">
+Ty měníš nám srdce, ty měníš náš den.
+            My zvedáme ruce a říct chcem jen
+            děkujem
+</section>
+        <section name="r4">
+Žes nás vždycky miloval,
+            žes nám lásku ukázal.
+            Že jsi se nám poznat dal, Ježíši.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Я хочу похвалити вас, хочу похвалити вас.
+            За те, що ти зробив, ти помер за мене
+            Я хочу похвалити вас, я хочу вас похвалити,
+            Тому що ти вставав з мертвих
+            і мій гріх такий подол
+</section>
+        <section name="r1">
+Ти змінюєш моє серце, ти змінюєш мій день.
+            Я піднімаю руки і просто хочу сказати
+            Дякую
+</section>
+        <section name="r2">
+Що ти завжди любив мене,
+            що ти показав мені любов.
+            Що ти мене пізнав, Ісусе.
+</section>
+        <section name="v2">
+Я хочу похвалити вас, хочу похвалити вас.
+            За те, що ти зробив, ти помер за нас
+            Я хочу похвалити вас, я хочу вас похвалити,
+            Тому що ти вставав з мертвих
+            І наш гріх подолав
+</section>
+        <section name="r3">
+Ви змінюєте наші серця, змінюєте наш день.
+            Ми піднімаємо руки і говоримо просто
+            Дякую тобі
+</section>
+        <section name="r4">
+Що ти завжди нас любив,
+            що ти показав нам любов.
+            Що ти познайомився, Ісусе.
+</section>
+    </variant>
+    <variant name="angličtina">
+        <section name="v1">
+I want to praise you, i want to praise you, 
+for what you did for me, that you died for me. 
+I want to praise you, i want to praise you, 
+because you rose from the dead, 
+and by that overcame my sin.
+</section>
+        <section name="r1">
+You change my heart, you change my day, 
+I raise my hands and i want to say, 
+Thank you
+</section>
+        <section name="r2">
+That you have always loved me 
+that you revealed your love to me, 
+that you let me know you, Jesus.
+</section>
+        <section name="v2">
+We want to praise you, we want to praise you, 
+for what you did for us, that you died for us 
+We want to praise you, we want to praise you, 
+because you rose from the dead, 
+and by that overcame my sin.
+</section>
+        <section name="r3">
+You change our heart, you change our day,  
+We raise our hands and we want to say, 
+Thank you
+</section>
+        <section name="r4">
+That you have always loved us 
+that you revealed your love to us, 
+that you let us know you, Jesus.
+</section>
+    </variant>
+    <repetition name="default">v1 (r1) (r2) v2 (r3) (r4)</repetition>
+</slide>

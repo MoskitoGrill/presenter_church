@@ -1,0 +1,100 @@
+<slide name="Před Božím Trůnem v nebesích">
+    <variant name="čeština">
+        <section name="v1">
+            Před Božím Trůnem v nebesích
+            přímluvu mám i v nesnázích.
+            Velekněz lásky rád mě má,
+            za mě se věrně přimlouvá.
+        </section>
+        
+        <section name="v2">
+            Do dlaní  jméno mé si vryl,
+            do srdce jméno mé si skryl.
+            Já vím, že dokud v nebi dlí,
+            z náruče své mě nepustí,
+            z náruče své mě nepustí.
+        </section>
+        
+        <section name="v3">
+            Když ďábel vnáší beznaděj,
+            když připomíná vinu mou,
+            pohlédnu výš, kde je můj Král,
+            on s hříchem navždy skoncoval.
+        </section>
+        
+        <section name="v4">
+            Spasitel zemřel nevinný,
+            mou hříšnou duši vykoupil.
+            Spravedlivý Bůh odpouští,
+            když místo mě jen na něj zří,
+            když místo mě jen na něj zří.
+        </section>
+        
+        <section name="v5">
+            Hle, Beránek, ten vzkříšený,
+            spravedlností mou se stal.
+            Ten, který jest, ten neměnný,
+            slávy a milosti je Král.
+        </section>
+        
+        <section name="v6">
+            Nezemřu, když v něm přebývám,
+            on krví svou mě vykoupil.
+            Svůj život v Kristu ukrývám,
+            abych ten jeho život žil,
+            abych ten jeho život žil.
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            Перед Божим престолом на небі
+            У мене є заступництво в біді.
+            Любов первосвященика мені подобається,
+            Для мене він вірно каже.
+        </section>
+        
+        <section name="v2">
+            У долонях мого імені моє власне,
+            Мене ім'я було приховано в моєму серці.
+            Я знаю, що поки він на небі,
+            з його обіймів не відпустить мене,
+            Він не випустить мене з її рук.
+        </section>
+        
+        <section name="v3">
+            Коли диявол приносить безнадію,
+            Коли це нагадує мені провину,
+            Я виглядаю вище, де мій король,
+            Він назавжди закінчився гріхом.
+        </section>
+        
+        <section name="v4">
+            Спаситель помер невинний,
+            Він купив мою грішну душу.
+            Праведний Бог прощає,
+            Коли замість мене це просто світить йому,
+            Коли я просто бачу замість мене.
+        </section>
+        
+        <section name="v5">
+            Ось, ягня, воскрес,
+            Я щойно став моєю справедливістю.
+            Той, що є, незмінним,
+            Слава і благодать - цар.
+        </section>
+        
+        <section name="v6">
+            Я не помру, коли зупиняюся в ньому,
+            Він купив мене своєю кров’ю.
+            Я приховую своє життя в Христі,
+            Щоб зробити його життя в прямому ефірі,
+            Жити своїм життям.
+        </section>
+    </variant>
+    
+    
+    <repetition name="default">
+        v1 v2 v3 v4 v5 v6
+    </repetition>
+</slide>

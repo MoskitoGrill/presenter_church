@@ -1,0 +1,174 @@
+<slide name="Holy_forever">
+    <variant name="english">
+        <section name="v1">
+            A thousand generations falling down in worship
+            To sing the song of ages to the Lamb
+            And all who've gone before us and all who will believe
+            Will sing the song of ages to the Lamb
+        </section>
+        
+        <section name="r1">
+            Your name is the highest
+            Your name is the greatest
+            Your name stands above them all
+            All thrones and dominions
+            All powers and positions
+            Your name stands above them all
+        </section>
+        
+        <section name="r2">
+            And the angels cry, ho-holy
+            All creation cries, ho-holy
+            You are lifted high, ho-holy
+            Holy forever
+        </section>
+
+        <section name="v2">
+            If you've been forgiven and if you've been redeemеd
+            Sing the song forever to thе Lamb
+            And if you walk in freedom and if you bear His name
+            Sing the song forever to the Lamb
+            We'll sing the song forever and amen
+        </section>
+
+        <section name="r3">
+            Jesus, Your name is the highest
+            Your name is the greatest
+            Your name stands above them all
+            Above all thrones and dominions
+            All powers and positions
+            Your name stands above them all
+        </section>
+
+        <section name="r4">
+            Hear your people sing, ho-holy
+            To the King of kings, ho-holy
+            You will always be, ho-holy
+            Holy forever
+        </section>
+
+        <section name="r5">
+            You will always be, ho-holy
+            Holy forever
+            You will always be, ho-holy
+            Holy forever
+        </section>
+    </variant>
+
+    <variant name="čeština - auto">
+       <section name="v1">
+            Tisíce generací padá k zemi v úctě
+            aby zpívali píseň věků Beránkovi
+            A všichni, kdo nás předešli, a všichni, kdo uvěří.
+            budou zpívat píseň věků Beránkovi
+        </section>
+        
+        <section name="r1">
+            Vaše jméno je nejvyšší
+            Tvé jméno je největší
+            Tvé jméno stojí nade všemi
+            Všechny trůny a panství
+            Všechny mocnosti a postavení
+            Tvé jméno stojí nade všemi
+        </section>
+        
+        <section name="r2">
+            A andělé volají, svatý
+            Celé stvoření pláče, svatý
+            Jsi vyzdvižen vysoko, svatý
+            Svatý navždy
+        </section>
+
+        <section name="v2">
+            Pokud ti bylo odpuštěno a pokud jsi byl vykoupen.
+            Zpívej navždy píseň Beránkovi
+            A pokud chodíš ve svobodě a pokud neseš Jeho jméno
+            Zpívejte píseň navždy Beránkovi
+            We'll sing the song forever and amen
+        </section>
+
+        <section name="r3">
+            Ježíši, Tvé jméno je nejvyšší
+            Tvé jméno je největší
+            Tvé jméno stojí nade všemi
+            Nad všechny trůny a panství
+            Všechny mocnosti a postavení
+            Tvé jméno stojí nade všemi
+        </section>
+
+        <section name="r4">
+            Slyš svůj lid zpívat, svatý
+            Králi králů, svatý
+            Vždycky budeš, svatý
+            Svatý navždy
+        </section>
+
+        <section name="r5">
+            Vždycky budeš, svatý
+            Svatý navždy
+            Navždy budeš, svatý
+            Svatý navždy
+        </section>  
+    </variant>
+
+    <variant name="український - auto">
+         <section name="v1">
+            Тисячі поколінь падають у поклонінні
+            Щоб заспівати пісню віків Агнцю.
+            І всі, хто був до нас, і всі, хто увірує.
+            Заспівають пісню віків Агнцю.
+        </section>
+        
+        <section name="r1">
+            Твоє ім'я - найвище
+            Твоє ім'я - найвеличніше
+            Твоє ім'я стоїть над усіма ними
+            Над усіма престолами і володіннями
+            Над усіма силами і посадами
+            Твоє ім'я стоїть над усіма ними
+        </section>
+        
+        <section name="r2">
+            І ангели плачуть, хо-хо-хо
+            Все творіння плаче, святий.
+            Ти піднесений високо, святий.
+            Святий навіки
+        </section>
+
+        <section name="v2">
+            Якщо ти прощений і якщо ти викуплений
+            Заспівай пісню вічну Агнцю.
+            І якщо ти ходиш у свободі, і якщо ти носиш Його ім'я
+            Заспівай пісню Агнцю навіки
+            Ми будемо співати цю пісню вічно, амінь.
+        </section>
+
+        <section name="r3">
+            Ісусе, Твоє ім'я є найвище
+            Твоє ім'я найбільше
+            Твоє ім'я стоїть над усіма ними
+            Над усіма престолами і володіннями
+            Над усіма силами і посадами
+            Твоє ім'я стоїть над усіма ними.
+        </section>
+
+        <section name="r4">
+            Почуй, як твій народ співає, святий
+            Царю царів, святий!
+            Ти завжди будеш святим.
+            Святим навіки
+        </section>
+
+        <section name="r5">
+            Ти завжди будеш святим
+            Святим назавжди
+            Ти завжди будеш святим
+            Святим навіки
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1 r2 v2 r2 r4 r1 r3 r2 r4 r5 r1 r2 r4
+    </repetition>
+</slide>

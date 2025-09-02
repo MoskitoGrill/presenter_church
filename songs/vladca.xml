@@ -1,0 +1,41 @@
+<slide name="Do tmy na svet">
+    <variant name="čeština">
+        <section name="v1">
+Každý z nás dúfa v súcit
+a bezhraničnú lásku,
+Óóó, Pane, zmiluj sa.
+</section>
+        <section name="v2">
+Každý z nás túži prijímať
+milosť odpustenia
+A nádej spásy.
+</section>
+        <section name="r1">
+Vládca, vrchmi môže hýbať ,
+Môj Boh je najmocnejší,
+Má moc zachrániť nás.
+</section>
+        <section name="r2">
+Víťaz, pôvod večnej spásy,
+Porazil smrť, z hrobu vstal,
+Ježiš víťazne vstal.
+</section>
+        <section name="v3">
+Biedny som, Ty ma prijímaš
+Všetok môj strach a pády,
+Óóó, Kriste, zmiluj sa
+</section>
+        <section name="v4">
+Za Tebou túžim kráčať,
+Si moja pevná nádej,
+Dnes sa Ti dávam
+</section>
+        <section name="v5">
+Zažiar svetlom, nech Ťa svet vidí,
+Spievaj, Tebe sláva Kráľ môj víťazný
+Ježiš
+</section>
+    </variant>
+    <repetition name="default">v1 v2 r1 r2 v3 v4 v5</repetition>
+    <repetition name="Ivo">v1 r1 v2 r1 (b1)*3 r1</repetition>
+</slide>

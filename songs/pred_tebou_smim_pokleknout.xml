@@ -1,0 +1,55 @@
+<slide name="Před Tebou smím pokleknout">
+    <variant name="čeština">
+        <section name="v1">
+            Před Tebou smím pokleknout,
+            vyznat Ti lásku, Pane můj,
+            jsi pro mě nejvzácnější.
+            Teď srdce své otvírám 
+            a prosím vejdi jako Král.
+        </section>
+        <section name="v2">
+            Před Tebou smím pokleknout
+            a vzdát Ti slávu, Pane můj,
+            Tvé jméno nejkrásnější.
+            Teď srdcem svým vyznávám,
+            Ježíši, Ty jsi králů Král.
+        </section>
+        <section name="r1">
+            Byl jsem stvořen abych Tebe uctíval,
+            Abych přebýval ve světle Tvé tváře.
+            Navěky chci vyvyšovat jméno Tvé,
+            Je tak nádherné blízko Ti být.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Я можу стати на коліна перед вами,
+            зізнається у своїй любові, сер,
+            Ти для мене найцінніший.
+            Зараз я відкриваю серце
+            І будь ласка, введіть, як король.
+        </section>
+        <section name="v2">
+            Я можу стати на коліна перед вами
+            і дайте вам славу, мій сер,
+            Ваше ім'я найкрасивіше.
+            Тепер зі своїм серцем я зізнаю,
+            Ісусе, ти царі царя.
+        </section>
+        <section name="r1">
+            Я був створений для поклоніння тобі,
+            Жити у світлі обличчя.
+            Назавжди я хочу зробити ваше ім’я Твоє,
+            Це так чудово бути ти.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 v2 r1 v3 r1 r1 r1.4
+    </repetition>
+
+    <repetition name="Ivo">
+        v1 (r1) v2 (r1)
+    </repetition>
+</slide>

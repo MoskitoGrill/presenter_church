@@ -1,0 +1,122 @@
+<slide name="Tělo je zlomené">
+
+
+<variant name="ukrajinština">
+<section name="v1">
+Тіло ломиме, пробиті руки,
+Він не достойний такої муки !
+Святий Господь мій, кров проливає.
+"Прости їм Отче" в небо взиває.
+</section>
+
+<section name="r1">
+А кров стікає з хреста,
+За мої грігхи висока ціна.
+То кров Ісуса Христа,
+У небо кричить прости їм, Боже, прости !
+Прости!
+</section>
+
+<section name="v2">
+Такий не легкий ,шлях до Голгофи
+І не жалів Він себе ані трохи.
+Хто з Ним піде, більше не заблукає.
+Йди за Христом він тебе так кохає.
+</section>
+
+<section name="v3">
+Такий нелегкий шлях Іісуса,
+Звернись ти до Нього, не йди у спокусу.
+Я любий друже, тебе закликаю,
+Йди до Христа, Він тебе так чекає!
+</section>
+
+<section name="r2">
+А кров стікає з хреста,
+За мої грігхи висока ціна.
+То кров Ісуса Христа,
+У небо кричить прости їм, Боже!
+</section>
+</variant>
+
+
+<variant name="čeština">
+<section name="v1">
+Tělo je zlomené, ruce jsou propíchnuté,
+Není hoden takového trápení!
+Můj svatý Pane, krev se prolévá.
+"Odpusť jim, otče," volá do nebe.
+</section>
+
+<section name="r1">
+A krev teče z kříže,
+Vysoká cena za můj grighas.
+Je to krev Ježíše Krista,
+Volá k nebi, odpusť jim, Bože, odpusť jim!
+Odpusť!
+</section>
+
+<section name="v2">
+Cesta na Kalvárii není tak snadná
+A nelitoval sám sebe ani trochu.
+Kdo půjde s Ním, nebude znovu ztracen.
+Následujte Krista, on vás tolik miluje.
+</section>
+
+<section name="v3">
+Taková obtížná Ježíšova cesta,
+Obraťte se k Němu, nechoďte do pokušení.
+Jsem drahý přítel, volám tě
+Jdi ke Kristu, On na tebe čeká!
+</section>
+
+<section name="r2">
+A krev teče z kříže,
+Vysoká cena za můj grighas.
+Je to krev Ježíše Krista,
+Křičí do nebe, odpusť jim, Bože!
+</section>
+</variant>
+
+<variant name="přepis">
+<section name="v1"> 
+Tilo lomyme, probyti ruky, 
+Vin ne dostoynyy takoyi muky! 
+Svyatyy Hospodʹ miy, krov prolyvaye. 
+"Prosty yim Otche" v nebo vzyvaye. 
+</section>
+
+<section name="r1"> 
+A krov stikaye z khresta, 
+Za moyi hrihkhy vysoka tsina. 
+To krov Isusa Khrysta, 
+U nebo krychytʹ prosty yim, Bozhe, prosty ! 
+Prosty! 
+</section> 
+
+<section name="v2"> 
+Takyy ne lehkyy ,shlyakh do Holhofy 
+I ne zhaliv Vin sebe ani trokhy. 
+Khto z Nym pide, bilʹshe ne zablukaye. 
+Ydy za Khrystom vin tebe tak kokhaye. 
+</section>
+
+<section name="v3"> 
+Takyy nelehkyy shlyakh Iisusa, 
+Zvernysʹ ty do Nʹoho, ne ydy u spokusu. 
+YA lyubyy druzhe, tebe zaklykayu, 
+Ydy do Khrysta, Vin tebe tak chekaye! 
+</section>
+
+<section name="r2"> 
+A krov stikaye z khresta, 
+Za moyi hrihkhy vysoka tsina. 
+To krov Isusa Khrysta, 
+U nebo krychytʹ prosty yim, Bozhe! 
+</section> 
+</variant>
+
+<repetition name="default">
+v1 r1 v2 r1 v3 r2 r1
+</repetition>
+</slide>

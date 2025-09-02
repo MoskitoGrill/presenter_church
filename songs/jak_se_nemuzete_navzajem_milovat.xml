@@ -1,0 +1,126 @@
+<slide name="Jak se nemůžete navzájem milovat">
+<variant name="čeština">
+<section name="v1">
+Як Тебе не полюбити навзаєм?
+Як не піти за Тобою, як кличе любов Твоя…
+Я піду, бо я не знаю як тепер?
+Без Твого захисту, без Твого ,Господи, тепла…
+Ти в мені був до мого народження,
+Як в існуванні Твоєму сумніватися?
+Коли ми в житті зустрілись сам на сам,
+Ти запитав: чи люблю? Чи піду за Тобою я?
+</section>
+ 
+<section name="b1">
+Своє рішення твердо приймаю:
+В Твої руки цілком себе довіряю. Довіряю…
+</section>
+   
+<section name="r1">
+Вірую! Обіцяю!
+Через кров Твою я силу і любов приймаю.
+Іншого Бога немає!
+Мій дух тремтить, як присутність Твою відчуваю…
+</section>
+                            
+<section name="v2">
+Як же я бажаю, Боже зберегти
+Першу любов і вірності першу чистоту.
+Поможи мої слова в обітниці
+Берегти серцем на життєвому шляху.
+Ти в мені був до мого народження,
+Як в існуванні Твоєму сумніватися?
+Коли ми в житті зустрілись сам на сам,
+Ти запитав: чи люблю? Чи піду за Тобою я?
+</section>
+
+<section name="r2">
+Вірую
+</section>
+</variant>
+
+<variant name="ukr">
+<section name="v1">
+Jak se nemůžete navzájem milovat?
+Jak tě nemohu následovat, jak tvá láska volá...
+Půjdu, protože teď nevím jak?
+Bez Tvé ochrany, bez Tvého, Pane, tepla...
+Byl jsi ve mně, než jsem se narodil,
+Jak pochybovat o své existenci?
+Když jsme se v životě setkali tváří v tvář,
+Ptali jste se: miluji? Mám tě následovat?
+</section>
+ 
+<section name="b1">
+Pevně ​​se rozhoduji:
+Zcela se svěřuji do Tvých rukou. Věřím...
+</section>
+
+<section name="r1">
+Věřím! Slibuji!
+Skrze Tvou krev dostávám sílu a lásku.
+Žádný jiný Bůh není!
+Můj duch se chvěje, když cítím Tvou přítomnost...
+</section>
+                            
+<section name="v2">
+Jak si přeji, Bože, spasit
+První láska a věrnost první čistota.
+Pomozte mým slovům ve slibu
+Opatrujte se srdcem na cestě životem.
+Byl jsi ve mně, než jsem se narodil,
+Jak pochybovat o své existenci?
+Když jsme se v životě setkali tváří v tvář,
+Ptali jste se: miluji? Mám tě následovat?
+</section>
+
+<section name="r2">
+věřím
+</section>
+</variant>
+
+<variant name="ukr - transkript">
+<section name="v1">
+Yak Tebe ne polyubyty navzayem? 
+Yak ne pity za Toboyu, yak klyche lyubov Tvoya… 
+YA pidu, bo ya ne znayu yak teper? 
+Bez Tvoho zakhystu, bez Tvoho ,Hospody, tepla… 
+Ty v meni buv do moho narodzhennya, 
+Yak v isnuvanni Tvoyemu sumnivatysya? 
+Koly my v zhytti zustrilysʹ sam na sam, 
+Ty zapytav: chy lyublyu? Chy pidu za Toboyu ya? 
+</section>
+ 
+<section name="b1">
+Svoye rishennya tverdo pryymayu: 
+V Tvoyi ruky tsilkom sebe doviryayu. Doviryayu… 
+</section>
+
+<section name="r1">
+Viruyu! Obitsyayu! 
+Cherez krov Tvoyu ya sylu i lyubov pryymayu. 
+Inshoho Boha nemaye! 
+Miy dukh tremtytʹ, yak prysutnistʹ Tvoyu vidchuvayu… 
+</section>
+                            
+<section name="v2">
+Yak zhe ya bazhayu, Bozhe zberehty 
+Pershu lyubov i virnosti pershu chystotu. 
+Pomozhy moyi slova v obitnytsi 
+Berehty sertsem na zhyttyevomu shlyakhu. 
+Ty v meni buv do moho narodzhennya, 
+Yak v isnuvanni Tvoyemu sumnivatysya? 
+Koly my v zhytti zustrilysʹ sam na sam, 
+Ty zapytav: chy lyublyu? Chy pidu za Toboyu ya? 
+</section>
+
+<section name="r2">
+Viruyu
+</section>
+</variant>
+
+
+<repetition name="default">
+v1 b1 r1 v2 b1 r1 r2 r1
+</repetition>
+</slide>

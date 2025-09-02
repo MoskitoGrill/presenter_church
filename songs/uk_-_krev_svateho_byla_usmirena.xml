@@ -1,0 +1,123 @@
+<slide name="UK - Krev svatého byla usmířena">
+    <variant name="ukrajinština">
+        <section name="v1">
+            Кров Свята відкупленням стала
+            Вільна душа моя
+            Кров Твоя покрила мій сором й гріх
+            Зцілення дав Твій завіт
+        </section>
+
+        <section name="r1">
+            Стою я тут, піднявши погляд
+            Бо ж милість Твоя мене спасла
+            Ти дав життя навік з Тобою
+            Мене очистив
+            Віддав життя
+        </section>
+
+        <section name="v2">
+            Чистим зроби моє серце
+            Навчи радіти завжди
+            Ти вчинив мене навіки своїм
+            Все, що маю, є у Тобі
+        </section>
+
+
+        <section name="v3">
+            Ти переміг смертю смерть
+            Нас поєднав з Отцем
+            Чисті ми ввійдем в Небеса Святі
+            О, Господь, вся слава Тобі
+        </section>
+
+        <section name="r2">
+            Стою я тут, піднявши погляд
+            Бо ж милість Твоя мене спасла
+            Смерть не страшна - покрив Собою
+            Воскрес із мертвих
+            Дав нам життя
+        </section>
+    </variant>
+
+     <variant name="uk - transkript">
+        <section name="v1">
+            Krov Svyata vidkuplennyam stala 
+            Vilʹna dusha moya 
+            Krov Tvoya pokryla miy sorom y hrikh 
+            Ztsilennya dav Tviy zavit
+        </section>
+
+        <section name="r1">
+            Stoyu ya tut, pidnyavshy pohlyad 
+            Bo zh mylistʹ Tvoya mene spasla 
+            Ty dav zhyttya navik z Toboyu 
+            Mene ochystyv 
+            Viddav zhyttya 
+        </section>
+
+        <section name="v2">
+            Chystym zroby moye sertse 
+            Navchy radity zavzhdy 
+            Ty vchynyv mene naviky svoyim 
+            Vse, shcho mayu, ye u Tobi
+        </section>
+
+        <section name="v3">
+            Ty peremih smertyu smertʹ 
+            Nas poyednav z Ottsem 
+            Chysti my vviydem v Nebesa Svyati 
+            O, Hospodʹ, vsya slava Tobi 
+        </section>
+
+        <section name="r2">
+            Stoyu ya tut, pidnyavshy pohlyad 
+            Bo zh mylistʹ Tvoya mene spasla 
+            Smertʹ ne strashna - pokryv Soboyu 
+            Voskres iz mertvykh 
+            Dav nam zhyttya
+        </section>
+    </variant>
+
+    <variant name="čeština - GT">
+        <section name="v1">
+            Krev Svatého se stala vykoupením
+            Moje svobodná duše
+            Tvá krev přikryla mou hanbu a hřích
+            Vaše smlouva dala uzdravení
+        </section>
+
+        <section name="r1">
+            Stojím tady a dívám se nahoru
+            Protože Tvá milost mě zachránila
+            Dal jsi život navždy s Tebou
+            Vyčistil mě
+            Dal svůj život 
+        </section>
+
+        <section name="v2">
+            Učiň mé srdce čisté
+            Naučte se být vždy šťastní
+            Udělal jsi mě navždy svým
+            Všechno, co mám, je v Tobě
+        </section>
+
+        <section name="v3">
+            Smrtí jsi porazil smrt
+            Sjednotil nás s Otcem
+            Čistí, vstoupíme do Svatého nebe
+            Ó Pane, všechna sláva Tobě
+        </section>
+
+        <section name="r2">
+            Stojím tady a dívám se nahoru
+            Protože Tvá milost mě zachránila
+            Smrt není děsivá - přikryjte se
+            Vzkříšení z mrtvých
+            Dal nám život
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 v2 r1 r1 r1.3:4 v3 r2 r2 r2.3:4
+    </repetition>
+</slide>

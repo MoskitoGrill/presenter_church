@@ -1,0 +1,55 @@
+<slide name="Jak úžasná musí ta láska být">
+    <variant name="čeština">
+        <section name="v1">
+Jak úžasná musí ta láska být, 
+            co přišla k  nám o vše se rozdělit, 
+            dát novou vláhu poušti spálené, 
+            přiblížit nám nebe tak vzdálené.
+</section>
+        <section name="v2">
+Svou slávy říš opustils kvůli nám, 
+            nemusels jít a přece šel jsi sám, 
+            tvář přátelskou jsi nikde neviděl, 
+            když proklínán jsi k popravišti šel.
+</section>
+        <section name="v3">
+Tam místo nás život jsi položil, 
+            vrátil se zas, abys ho rozmnožil,
+            vím, abych já moh věčný život žít,
+            musel můj Pán tou cestou kříže jít.
+</section>
+        <section name="v4">
+Třetího dne si slavně z hrobu vstal, 
+            ve slávě Své si perlu Krále vzal,
+            za Tvoji lásku chci tě velebit,  
+            a tvoje jméno  na věky věků ctít.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Як дивовижно це повинно бути любов,
+            Що прийшло до нас, щоб поділитися всім,
+            дайте нову вологу пустелю, спалену,
+            Щоб наблизити небо до нас поки що.
+</section>
+        <section name="v2">
+Ваша слава залишилася для нас,
+            Вам не довелося їхати, і все ж ви хотіли наодинці,
+            Face Friendly, якого ви ніколи не бачили,
+            Коли ви проклинаєте, ви пішли до ешафоту.
+</section>
+        <section name="v3">
+Там замість нас життя, яке ви надягаєте,
+            Повернувся знову, щоб відтворити його,
+            Я знаю, що можу жити вічним життям,
+            Мій Господь повинен був пройти через цей шлях Хреста.
+</section>
+        <section name="v4">
+На третій день він зів’яв знаменитих від могили,
+            У своїй славі він взяв перлину короля,
+            За вашу любов я хочу вас похвалити,
+            І вшанувати своє ім’я назавжди і ніколи.
+</section>
+    </variant>
+    <repetition name="default">v1 v2 v3 v4</repetition>
+</slide>

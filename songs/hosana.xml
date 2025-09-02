@@ -1,0 +1,44 @@
+<slide name="Hosana">
+    <variant name="čeština">
+        <section name="v1">
+            Hosana, hosana hosana Bohu na nebi!
+            Hosana, hosana hosana Bohu na nebi!
+        </section>
+        
+        <section name="r1">
+            Jméno slavíme Tvé,
+            chválí tě srdce mé.
+            Vývýšen buď, ó Bože náš.
+            Hosana Bohu na nebi!
+        </section>
+
+        <section name="v2">
+            Sláva, sláva, sláva všech králů Králi.
+            Sláva, sláva, sláva všech králů Králi.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+         <section name="v1">
+            Осанна, осанна, осанна, осанна Богу, що є на небесах!
+            Осанна, осанна, осанна, осанна Богу, що є на небесах!
+        </section>
+        
+        <section name="r1">
+            Ми святкуємо Твоє ім'я,
+            серце моє славить Тебе.
+            Піднесися, Боже наш.
+            Осанна Богу, що є на небесах!
+        </section>
+
+        <section name="v2">
+            Слава, слава, слава всіх царів Царю.
+            Слава, слава, слава всіх царів Царю.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1 v2 r1 v2
+    </repetition>
+</slide>

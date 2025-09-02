@@ -1,0 +1,52 @@
+<slide name="Dvíhám ruky aj keď k zemi padám">
+    <variant name="čeština">        
+        <section name="v1">
+            Dvíham ruky aj keď k ze‍‍mi padám
+            dnes túžim vzdať Ti chválu,
+            nechať všetko, prísť k tebe Kráľ
+            A hľadám Teba aj keď seba strácam,
+            na všetko čo je za mnou zabúdam
+            za tebou utekám
+        </section>
+        
+        <section name="r1">
+            Taký aký som,
+            nahý pred tebou,
+            nechám sa premeniť,
+            nechám sa láskou zlomiť.
+            Vzdávam sa svojich predstáv,
+            Vzdávam sa svojich snov,
+            Žiaden strach a žiaden vzdor
+            Celý som tvoj
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            Я піднімаю руки, навіть коли падаю на коліна
+            Сьогодні я прагну прославити Тебе,
+            покинути все і прийти до Тебе, Царю.
+            І я шукаю Тебе, навіть коли втрачаю себе,
+            Я забуваю все, що залишилося позаду.
+            Я біжу до тебе.
+        </section>
+        
+        <section name="r1">
+            Такий, який я є,
+            голий перед тобою,
+            Я дозволю собі перетворитися,
+            Я буду зламана коханням.
+            Я відмовляюся від своїх ідей,
+            Я відмовляюся від своїх мрій,
+            Ні страху, ні опору.
+            Я вся твоя.
+        </section>
+    </variant>
+    
+    
+    
+    
+    <repetition name="default">
+        v1 r1
+    </repetition>
+</slide>

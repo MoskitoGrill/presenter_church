@@ -1,0 +1,62 @@
+<slide name="Ježíši jsi spása duše mé">
+    <variant name="čeština">
+        <section name="r1">
+            Ježíši jsi spása duše mé
+            tak na věky Ti budu vzdávat chválu svou
+        </section>
+        
+        <section name="v1">
+            Ty víš jak rád mám Tě 
+            Ty víš jak moc chci Tě
+            Víc tě toužím znát, víc Ti sebe dát 
+            Chci víc
+        </section>
+        
+        <section name="v2">
+            To říká mé srdce,
+            když nemá slov více.
+            Když s Tebou jsem tak vím,
+            že jen Tobě náležím.
+        </section>
+        
+        <section name="v3">
+            Jsi slávy král, jen jednu touhu mám
+            s Tebou být jen s Tebou být 
+            s Tebou žít jen s Tebou žít.
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="r1">
+            Ісусе ти спасіння моєї душі
+            Тож я коли -небудь дам тобі похвалити свою похвалу
+        </section>
+        
+        <section name="v1">
+            Ти знаєш, як я тебе люблю
+            Ти знаєш, наскільки я хочу тебе
+            Більше я хочу вас знати, більше, щоб дати вам себе
+            Я хочу більше
+        </section>
+        
+        <section name="v2">
+            Це говорить моє серце,
+            Коли у нього немає більше слів.
+            Коли я з тобою, я знаю
+            Що я буду належати тобі.
+        </section>
+        
+        <section name="v3">
+            Ти - король слави, лише одне бажання, яке я маю
+            з вами просто бути з вами
+            Жити з вами лише для того, щоб жити з вами.
+        </section>
+    </variant>
+    
+    
+    
+    
+    <repetition name="default">
+        r1 r1 v1 v2 v3
+    </repetition>
+</slide>

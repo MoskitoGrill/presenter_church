@@ -1,0 +1,67 @@
+<slide name="Hudba doznívá">
+    <variant name="čeština">
+        <section name="v1">
+Hudba doznívá,
+            už není zač se skrýt,
+            teď tu stojím sám.
+            Chci Ti něco dát,
+            co svou cenu má,
+            co Ty bys měl rád.
+</section>
+        <section name="b1">
+Chci víc než píseň Ti dát,
+            vždyť jen píseň pouhá
+            není tím, co by sis přál.
+            Ty zkoumáš hlubiny mé
+            i to očím skryté,
+            Ty vidíš, co v srdci mám.
+</section>
+        <section name="r1">
+Vracím se zpět k jádru uctívání,
+            kde jsi jedině Ty, jedině Ty, Ježíši.
+            Nechci už míjet to nejvzácnější,
+            to jsi jedině Ty, jedině Ty, Ježíši.
+</section>
+        <section name="v2">
+Ty jsi věčný Král,
+            kdo jen vyjádří
+            co Ti náleží?
+            I když chudý jsem,
+            vše, co mám, si vem,
+            každý dech je Tvůj.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Музика згасає,
+            Це вже не збирається ховатися,
+            Зараз я стою один.
+            Я хочу вам щось дати,
+            Що це має,
+            Що ти хотів би.
+</section>
+        <section name="b1">
+Я хочу більше, ніж пісня, щоб дати тобі,
+            Просто пісня просто
+            Це не те, що ти хочеш.
+            Ви вивчаєте глибини мого
+            Я приховані очі,
+            Ви бачите, що я маю в своєму серці.
+</section>
+        <section name="r1">
+Я повертаюся до ядра поклоніння,
+            Де ти тільки, тільки ти, Ісусе.
+            Я не хочу передавати найцінніші,
+            Тільки ти, тільки ти, Ісусе.
+</section>
+        <section name="v2">
+Ти вічний цар,
+            виражати
+            Що це належить вам?
+            Навіть якщо я бідний,
+            Все, що я маю, візьміть
+            Кожне дихання - це ваше.
+</section>
+    </variant>
+    <repetition name="default">v1 b1 r1 v2 b1 r1</repetition>
+</slide>

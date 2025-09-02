@@ -1,0 +1,31 @@
+<slide name="Dávám Ti srdce své (Tobě králi toužím)">
+    <variant name="čeština">
+        <section name="v1">
+Tobě, Králi toužím čest, slávu vzdát,
+            celým srdcem chválím jméno Tvé.
+            Ze vší síly zpívám a vzdávám dík,
+            před Tebou se skláním, Pane můj.
+</section>
+        <section name="r1">
+Dávám Ti srdce své i duši svou,
+            chci jen pro Tebe žít.
+            S každým nadechnutím, s každým procitnutím
+            chci jen Tvou cestou jít.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Вам, король, якого я прагну честь, відмовитись від слави,
+            Від усього серця я хвалю твоє ім’я.
+            Від усієї сили, яку я співаю, і відмовляйся, дякую,
+            Я нахиляюся перед тобою, мій сер.
+</section>
+        <section name="r1">
+Я даю тобі своє серце і душу,
+            Я просто хочу жити для вас.
+            З кожним диханням, з кожним пробудженням
+            Я просто хочу піти своїм шляхом.
+</section>
+    </variant>
+    <repetition name="default">(v1 r1) r1</repetition>
+</slide>

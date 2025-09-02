@@ -1,0 +1,25 @@
+<slide name="Ja viem, že zachránil ma">
+    <variant name="čeština">
+        <section name="v1">
+Ja viem, že zachránil ma, ja viem, že očistil ma
+Ja verím, ja verím. On v nás porazil strach
+Zlo v nás zmenil na prach.
+Ja verím, ja verím
+</section>
+        <section name="v2">
+Ježiš je Víťaz
+Tak poď a chválu Mu vzdaj
+</section>
+        <section name="b1">
+Ježiš žije v nás, žije v nás
+Ježiš žije v nás, žije v nás
+</section>
+        <section name="r1">
+Dosť bolo pádov
+Zober zbraň a poď
+Tak zaútočme chválou
+A poďme tancovať
+</section>
+    </variant>
+    <repetition name="default">v1 v2 b1 r1</repetition>
+</slide>

@@ -1,0 +1,70 @@
+<slide name="Bůh všech národů">
+    <variant name="čeština">
+        <section name="v1">
+            Jen pojďte blíž, ať víte, kým je Bůh všech národů,
+            kdo dává zmar zlým záměrům a krach válečným snům.
+            Ó, Králi slávy Izraele s námi zůstáváš
+            a přítomností svou nás v žáru bitev podpíráš.
+        </section>
+        
+        <section name="r1">
+            Bože, Ty jsi s námi, v plamenech nás chráníš,
+            bezpečně ukrýváš v bouřích rukou svou.
+            Provázíš nás, v boji neopouštíš,
+            ke komu jinému půjdem s důvěrou?
+        </section>
+        
+        <section name="v2">
+            Jak slávou zní a hřmí Tvůj hlas, když vládneš národům,
+            i zem a stráně hor ustoupí mořským přívalům.
+            Ty víš, co v nás se skrývá, přesto dáváš nám všem žít.
+            Ó, Králi, Vládce hor, i v nás tak získej vítězství!
+        </section>
+        
+        <section name="b1">
+            Jsi Pánem řvoucích oceánů, zklidníš v bouři duši mou,
+            tak sevřenou a neklidnou.
+            I když přijde chvíle zkázy hor a bouře národů, 
+            můj Bůh zůstává skálou neměnnou.
+        </section>
+        
+        <repetition name="default">
+            v1 r1 v2 b
+        </repetition>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            Просто підійдіть ближче, щоб знати, хто такий Бог усіх народів,
+            Хто дає руїну злі наміри та аварію війни.
+            О, цар слави Ізраїлю, ти залишаєшся з нами
+            І з своєю присутністю ви підтримуєте нас у спеку битв.
+        </section>
+        
+        <section name="r1">
+            Боже, ти з нами, ти захищаєш нас полум'ям
+            Ви безпечно приховуєте руки штормами.
+            Ви керуєте нас, не залишайте бій,
+            До кого ми будемо з упевненістю?
+        </section>
+        
+        <section name="v2">
+            Як слава звучить і грому твій голос, коли ти керуєш країнами,
+            Земля та схили гір гори відступлять до морського поспіху.
+            Ви знаєте, що ховається в нас, але ви все одно даєте нам усіх.
+            О, король, правитель гір, і здобув перемогу в нас!
+        </section>
+        
+        <section name="b1">
+            Ти господар ревів океанів, заспокоює в штормі душу,
+            Так щільно і неспокійно.
+            Хоча настане момент руйнування гір та шторм народів,
+            Мій Бог залишається незмінним.
+        </section>
+        
+        <repetition name="default">
+            v1 r1 v2 b
+        </repetition>
+    </variant>
+    
+</slide>

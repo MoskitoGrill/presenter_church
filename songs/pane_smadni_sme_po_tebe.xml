@@ -1,0 +1,38 @@
+<slide name="Pane, smädní sme po Tebe">
+    <variant name="čeština">
+        <section name="r1">
+            Pane, smädní sme po Tebe
+        </section>
+        
+        <section name="v1">
+            Nech táto oslava naplní ulice,
+            budeme tancovať z lásky ku tebe.
+        </section>
+        
+        <section name="v2">
+            A všetko čo mám, dám na oltár,
+            svoj pred Tvoju tvár, môj Pán
+        </section>.
+    </variant>
+
+    <variant name="український - auto">
+        <section name="r1">
+            Господи, ми прагнемо тебе
+        </section>
+        
+        <section name="v1">
+            Нехай тато відсвяткує вулицю,
+            Ми будемо танцювати з любові до вас.
+        </section>
+        
+        <section name="v2">
+            І у мене є те, що маю, я надягаю на вівтар,
+            Я перед вашою формою, мій джентльмен
+        </section>.
+    </variant>
+
+    
+    <repetition name="default">
+        (r1)*4 (v1) (v2)
+    </repetition>
+</slide>

@@ -1,0 +1,60 @@
+<slide name="Já svou víru neztrácím">
+    <variant name="čeština">
+        <section name="v1">
+            V horku stínem, v noci útočiště mým,
+            silným žárem i v těch dobách ledových.
+            Z poháru lásky Tvého Ducha toužím pít,
+            dílo rukou Tvých mě denně překvapí.
+            Na cestě za Tebou mě nezastaví nic,
+            nikdo nikdy mi nenabídne víc.
+        </section>
+        
+        <section name="v2">
+            Na poutních místech Tvoje tělo nehledám,
+            po bílém rouchu ani v hrobech nepátrám.
+            Ve zlatých krásných chrámech nebydlíš,
+            na žádném z křížů už dávno nevisíš.
+            Vím, že v mém domě denně přebýváš,
+            v mém srdci, Pane, vždycky místo máš.
+        </section>
+        
+        <section name="r1">
+            Já svou víru v Tebe neztrácím,
+            vím, kým jsi pro mě, vím, že mě čeká nebe.
+            Ke starým žádostem se nevracím,
+            ne, nemusím se stydět za to, že věřím v Tebe.
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            В спеку з тінню, вночі притулок мій,
+            Сильне тепло навіть у льодові часи.
+            З чашки любові вашого духу я хочу пити,
+            Робота ваших рук здивує мене щодня.
+            Ніщо не зупиняє мене на шляху до вас,
+            Ніхто ніколи не запропонує мені більше.
+        </section>
+        
+        <section name="v2">
+            На місцях паломництва я не шукаю вашого тіла,
+            Я не шукаю білого халату або в могилах.
+            У золотих красивих храмах ви не живете,
+            Ви давно не знаходите жодного з хрестів.
+            Я знаю, що ти щодня живеш у моєму будинку,
+            У моєму серці, сер, у вас завжди є місце.
+        </section>
+        
+        <section name="r1">
+            Я не втрачаю віри в тебе,
+            Я знаю, хто ти для мене, я знаю, що небо чекає мене.
+            Я не повертаюся до старих запитів,
+            Ні, мені не потрібно соромитися вірити в вас.
+        </section>
+    </variant>
+    
+    
+    <repetition name="default">
+        v1 v2 r1
+    </repetition>
+</slide>

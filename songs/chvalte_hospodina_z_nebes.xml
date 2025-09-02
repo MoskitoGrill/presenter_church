@@ -1,0 +1,36 @@
+<slide name="Chvalte Hospodina z nebes">
+    <variant name="čeština">
+        <section name="v1">
+            Chvalte Hospodina z nebes, 
+            chvalte Ho ve výšinách!
+            Chvalte Ho, všichni jeho andělé, 
+            chvalte Ho, všechny jeho zástupy.  
+        </section>
+        
+        <section name="r1">
+            Neboť vyvýšené je Jeho jméno,
+            Jeho velebnost je nad nebem a zemí.
+        </section>
+        
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Хвалити Господа Неба,
+            Слава його в висотах!
+            Хвалити його, всіх його ангелів,
+            Хвалить його, всі його натовпи.
+        </section>
+        
+        <section name="r1">
+            Бо його ім'я піднято,
+            Його велич - над небом і землею.
+        </section>
+        
+    </variant>
+
+    <repetition name="default">
+        v1 r1 r1
+    </repetition>
+    
+</slide>

@@ -1,0 +1,23 @@
+<slide name="Chvalte Hospodina všichni národové">
+    <variant name="čeština">
+        <section name="v1">
+Chvalte Hospodina všichni národové,
+            velebte ho všichni lidé.
+</section>
+        <section name="r1">
+Neboť je rozšířena nad námi milost jeho
+            a pravda jeho na věky haleluja.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Хвалити Господа всіх народів,
+            Слава його всім людям.
+</section>
+        <section name="r1">
+Бо це широко розповсюджено над нами благодать Його
+            І його правда до Галелуя.
+</section>
+    </variant>
+    <repetition name="default">((v1) (r1))</repetition>
+</slide>

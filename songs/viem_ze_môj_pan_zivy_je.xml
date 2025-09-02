@@ -1,0 +1,64 @@
+<slide name="Viem, že môj Pán živý je">
+    <variant name="čeština">
+        <section name="r1">
+            Viem, že môj Pán živý je,
+            viem, že môj Ježiš žije.
+        </section>
+        
+        <section name="v1">
+            Hrob zostal prázdny, 
+            dnes v mojom srdci žije Pán, 
+            cítim, že sídli tam.
+            V každý deň a každú chvíľu viem, 
+            že môj Pán má vo mne chrám.
+        </section>
+        
+        <section name="v2">
+            Nikoho nemôžem s Ježišom porovnávať, 
+            nikto nie je, ako je On.
+            V každom trápení Ježiš, 
+            zostáva verným priateľom.
+        </section>
+        
+        <section name="v3">
+            Budem Ho chváliť celou bytosťou, 
+            slúžiť Mu všetkým, čo mám.
+            On je ten, v ktorom víťazím, 
+            vyznávam, On je živý Pán.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="r1">
+            Viem, що Мілд жива є,
+            Віем Ісус живе.
+        </section>
+        
+        <section name="v1">
+            Могили блукали порожнім,
+            Сьогодні в моєму серці живе Господь,
+            Я відчуваю, що вони там проживали.
+            Під кожним дощем і кожною моментом VI,
+            Що мій Господь має храм.
+        </section>
+        
+        <section name="v2">
+            Ніхто не може порівняти з Ісусом,
+            Ні Ні, Ако - це він.
+            У кожному нещастя Ісуса,
+            Зігріває верніальну ціну.
+        </section>
+        
+        <section name="v3">
+            Ми будемо хвалити його все житло,
+            У мене є все, що я маю.
+            Він той, в якому víťasi,
+            Зізнаюся, він живий господар.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        (r1) v1 (r1) v2 (r1) v3 (r1)
+    </repetition>
+</slide>

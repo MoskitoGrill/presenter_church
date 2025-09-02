@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<slide name="Pojďte ke mě všichni">
+    <variant name="čeština">
+        <section name="v1">
+Pojďte ke mě všichni,
+kteří pracujete,
+pojďte ke mě všichni,
+kdo jste obtížení.
+</section>
+        <section name="r1">
+A já vám, praví Pán,
+já vám odpočinek dám.
+</section>
+    </variant>
+    <repetition name="default">v1 (r1)</repetition>
+</slide>

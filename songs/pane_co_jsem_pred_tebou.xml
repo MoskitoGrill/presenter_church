@@ -1,0 +1,79 @@
+<slide name="Pane, co jsem před Tebou">
+    <variant name="čeština">
+        <section name="v1">
+            Pane, co jsem před Tebou,
+            že se ke mně skláníš,
+            všechno září najednou
+            kamkoliv přicházíš.
+        </section>
+        
+        <section name="v2">
+            Ze tmy jsi zazářil a já viděl cíl,
+            jsi cesta, pravda, život, teď už to vím.
+            Pane co jsem před Tebou.
+        </section>
+        
+        <section name="r1">
+            Proto Tě chválím za lásku k nám,
+            proto Tě chválím Spáso má.
+            Proto Tě chválím, že nás máš rád.
+            Proto Tě chválím, Jsi Svatý Bůh
+        </section>
+        
+        
+        <section name="v3">
+            Pane, co jsem před Tebou,
+            že se ke mně skláníš,
+            všechno září najednou
+            kamkoliv přicházíš.
+        </section>
+        
+        <section name="v4">
+            Ze tmy jsi zazářil a já viděl cíl,
+            jsi cesta, pravda, život, teď už to vím.
+            Pane co jsem před Tebou.
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            Сер, що я перед тобою,
+            що ти мені кланяйся,
+            Всі світить відразу
+            Куди б ти не прийшов.
+        </section>
+        
+        <section name="v2">
+            Ти сяяв з темряви, і я побачив гол
+            Ти спосіб, правда, життя, тепер я знаю.
+            Господи, що я перед тобою.
+        </section>
+        
+        <section name="r1">
+            Ось чому я хвалю вас за любов до нас,
+            Ось чому я вас хваляю.
+            Ось чому я хвалю тебе, що ти любиш нас.
+            Ось чому я вас хваляю, ти святий Бог
+        </section>
+        
+        
+        <section name="v3">
+            Сер, що я перед тобою,
+            що ти мені кланяйся,
+            Всі світить відразу
+            Куди б ти не прийшов.
+        </section>
+        
+        <section name="v4">
+            Ти сяяв з темряви, і я побачив гол
+            Ти спосіб, правда, життя, тепер я знаю.
+            Господи, що я перед тобою.
+        </section>
+    </variant>
+    
+    
+    <repetition name="default">
+        v1 v2 r1 v3 v4 r1
+    </repetition>
+    
+</slide>

@@ -1,0 +1,54 @@
+<slide name="El Šadaj">
+    <variant name="čeština">
+        <section name="r1">
+            El Šadaj, El Šadaj, El Eljón-Adónaj
+            od věků až navěky jméno Tvé se nemění.
+            El Šadaj, El Šadaj, El Eljón-Adónaj
+            Ty jsi Bože veliký, El Šaddaj.
+        </section>
+        
+        <section name="v1">
+            Vím, že jsi Ho na kříži obětoval za hříchy.
+            Milovaný Tvůj Syn nás vysvobodil od smrti.
+            Ty jsi Bůh, který vidí klečícího před Tebou.
+            Z otroků pak svobodné jsou děti Tvé.
+        </section>
+        
+        <section name="v2">
+            Dlouhý čas před Ježíšem,
+            Spasitel byl zaslíben.
+            Mnohý ještě netušil, že by On byl Mesiáš.
+            Převeliká je moc Tvá, Golgotou nám zjevená.
+            V ponížení dokázal jsi lásku k nám.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="r1">
+            Ель Шадаї, Ель Шадаї, Ель-Ельйон-Адонаї
+            Від віку до назавжди назва твоїй не змінюється.
+            Ель Шадаї, Ель Шадаї, Ель-Ельйон-Адонаї
+            Ти Бог великий, Ель Шадаї.
+        </section>
+        
+        <section name="v1">
+            Я знаю, що ти пожертвував його на хресті за гріхи.
+            Коханий ваш син врятував нас після смерті.
+            Ти Бог, який бачить на колінах перед собою.
+            З рабів діти вільні.
+        </section>
+        
+        <section name="v2">
+            Довгий час до Ісуса,
+            Спасителя обіцяли.
+            Багато хто не мав уявлення, що він був Месією.
+            Ваші дуже багато, відкрив нам Голгото.
+            У приниженні ти любив до нас.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        r1 v1 r1 v2 r1
+    </repetition>
+</slide>

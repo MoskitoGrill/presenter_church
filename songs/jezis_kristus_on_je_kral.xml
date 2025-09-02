@@ -1,0 +1,31 @@
+<slide name="Ježíš Kristus On je Král">
+    <variant name="čeština">
+        <section name="v1">
+Ježíš Kristus On je Král
+            Ježíš Kristus On je Král
+            On žije (On žije), On z mrtvých vstal.
+</section>
+        <section name="r1">
+Před Ním se jednou pokloní
+            celé nebe a celá zem.
+            Vždyť všechno, co On učinil
+            stvořil ke chvále své.
+            Ke chvále svého Jména.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Ісус Христос Він є Царем
+            Ісус Христос Він є Царем
+            Він живе (він живе), він підвівся з мертвих.
+</section>
+        <section name="r1">
+Він буде кланятись перед ним один раз
+            Все небо і все земля.
+            Зрештою, все, що він зробив
+            Він створив свою похвалу.
+            На похвалу вашого імені.
+</section>
+    </variant>
+    <repetition name="default">v1 r1</repetition>
+</slide>

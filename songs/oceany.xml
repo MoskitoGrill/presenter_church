@@ -1,0 +1,33 @@
+<slide name="Oceány">
+    <variant name="čeština">
+        <section name="v1">
+Říkáš, že mám na vodu vstoupit,
+do neznáma, sklouznout se dá.
+A právě tam Tě můžu najít,
+I v hlubinách, chci s vírou stát.
+</section>
+        <section name="r1">
+Pak zavolám jen jméno Tvé,
+jen míjím vlny rozbouřené,
+když oceán hřmí.
+Má duše v Tobě odpočine,
+já jsem Tvá a Ty jsi můj
+o
+Ty jsi můj.
+</section>
+        <section name="v2">
+Tvá přízeň dlí v nejhlubších vodách,
+jen Tvoje dlaň smí vést mě dál.
+Když klopýtám a strach mě sráží,
+Ty zůstáváš a dáš mi vstát.
+</section>
+        <section name="b1">
+Duchu svatý, veď mě blíž, chci kráčet vírou,
+s Tebou jistě projdu vodou, kam řekneš, tam já půjdu.
+Veď mě dál, než kam já sama můžu dojít,
+stále buduj víru mojí, chci žít blízko tebe Králi
+o
+</section>
+    </variant>
+    <repetition name="default">v1 r1 (v2)  r1 b1 r1</repetition>
+</slide>

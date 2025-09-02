@@ -1,0 +1,54 @@
+<slide name="Milostí jen můžem vstoupit">
+    <variant name="čeština">
+        <section name="v1">
+            Milostí jen můžem vstoupit,
+            milostí jen můžem stát.
+            Člověk se sám nevykoupí,
+            Beránka Tys musel dát.
+        </section>
+        
+        <section name="v2">
+            V blízkosti Tvé žít jsme zváni,
+            blíž Tobě být.
+            V blízkosti své Ty nás chráníš,
+            dík milosti můžem jít.
+            Dík milosti můžem jít.
+        </section>
+        
+        <section name="r1">
+            Pokud bys hříchy nám sčítal,
+            kdo obstojí?
+            Beránka krev smyla hřích,
+            milost nás uzdraví!
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Благодать ми можемо лише ввійти,
+            Ми можемо стояти лише благодаттю.
+            Ніхто не зміцнює себе,
+            Ягня довелося вам дати.
+        </section>
+        
+        <section name="v2">
+            Поблизу Thy Live нас запрошують
+            Щоб бути ближче до вас.
+            Ти захищаєш нас біля свого, ти,
+            Дякую Грейс, ми можемо піти.
+            Дякую Грейс, ми можемо піти.
+        </section>
+        
+        <section name="r1">
+            Якщо ви додасте нам гріхи,
+            Хто встане.
+            Кров ягня вимила гріх,
+            Благодать нас зцілить!
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 v2 r1
+    </repetition>
+</slide>

@@ -1,0 +1,48 @@
+<slide name="Pane, vždy, keď Tvoju svätosť zriem">
+    <variant name="čeština">
+        <section name="v1">
+            Pane, vždy, keď Tvoju svätosť zriem,
+            vždy keď vidieť Tvoju lásku smiem
+            a keď okolo mňa veci šednú,
+            Ty svietiš sám.
+        </section>
+        
+        <section name="v2">
+            Keď ma dotyk Tvojho srdca teší,
+            a keď láskou moju vôľu meníš,
+            a keď veci okolo mňa šednú,
+            Ty svietiš sám.
+        </section>
+        
+        <section name="r1">
+            Život ti dám, život ti dám,
+            veď preto ho mám, aby bol tvoj chrám.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Сер, завжди, коли ваші святі,
+            Завжди бачите Віді Твоя любов до Ламма
+            І якщо навколо Meno речі сірі,
+            Ви можете бути поворотними.
+        </section>
+        
+        <section name="v2">
+            Якщо у вас є дотик свого серця, дотики,
+            і якщо любов до Моху Войш Менів,
+            І якщо речі навколо мене сірого,
+            Ви можете бути поворотними.
+        </section>
+        
+        <section name="r1">
+            Я дам тобі життя, я дам тобі життя,
+            У мене є його, щоб зробити ваш храм.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 v2 (r1)
+    </repetition>
+</slide>

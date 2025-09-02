@@ -1,0 +1,43 @@
+<slide name="Ať srdce mé Tebe vídá">
+    <variant name="čeština">
+        <section name="v1">
+            Ať srdce mé Tebe vídá
+            Ať srdce mé Tebe zná
+            Po tom já toužím 
+            Vídat tě toužím 
+        </section>
+        <section name="r1">
+            Vyvýšený jsi nad světem
+            Zářící ve světle Slávy
+            Lásku mocně rozlévej
+            Voláme: svatý, svatý, svatý
+        </section>
+        <section name="b1">
+            Svatý, svatý, svatý
+            Vídat Tě toužím
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Нехай моє серце, ти бачиш тебе
+            Нехай серце вас пізнає
+            Я прагну для тебе
+            Я бачу вас
+        </section>
+        <section name="r1">
+            Ви виховуєте по всьому світу
+            Сяючи у світлі слави
+            Любіть любов потужно
+            Ми закликаємо: святий, святий, святий
+        </section>
+        <section name="b1">
+            Святий, святий, святий
+            Я бачу вас
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 (b1.1)*3 b1.2
+    </repetition>
+</slide>

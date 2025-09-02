@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<slide name="Veď mě stále blíž">
+    <variant name="čeština">
+        <section name="v1">
+Veď mě stále blíž, nechci sám už být.
+            Chci s Tebou zůstat stůj co stůj 
+            a slyšet, že jsem přítel Tvůj.
+</section>
+        <section name="v2">
+Ty jsi touha má, jen a jen Ty sám.
+            Nic nenahradí blízkost Tvou,
+            když paže Tvé mě obejmou.
+</section>
+        <section name="r1">
+Zjev mi cestu svou, Tobě vstříc chci jít.
+            Jsi vším co mám, jsi vším, co žít mi dává.
+            Jsi vším co mám, dej mi svou blízkost znát.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Подивіться мене ближче, я більше не хочу бути наодинці.
+            Я хочу залишитися з вами
+            І чути, що я твій друг.
+</section>
+        <section name="v2">
+У вас є бажання, тільки ви.
+            Ніщо не замінює близькість твого,
+            Коли твої руки обіймають мене.
+</section>
+        <section name="r1">
+Поява мого шляху, я хочу піти до вас.
+            Ти все, що я маю, ти все, що мені дає мені.
+            Ти все, що я маю, дайте мені свою близькість.
+</section>
+    </variant>
+    <repetition name="default">(v1 v2 r1) r1.2 r1.3</repetition>
+</slide>

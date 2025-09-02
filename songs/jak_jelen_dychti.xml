@@ -1,0 +1,66 @@
+<slide name="Jak jeleň dychtí">
+    <variant name="čeština">
+        <section name="v1">
+            Jak jeleň dychtí po vodných bystrinách,
+            tak moje vnútro hľadá Tvoju tvár.
+            Snívam o kráse Tvojej slávy, čo naplní Tvoj chrám.
+            O svätom mieste, kde prebývaš Ty sám.
+        </section>
+        
+        <section name="v2">
+            Chcem v Tvojej slávnej prítomnosti stáť,
+            túžim ísť blízko, až pred Tvoj trón.
+            Tam spievať Ti s chórmi anjelov, čo Ti úctu vzdávajú.
+            Pridať sa k chvále, čo v nebesách znie.
+        </section>
+        
+        <section name="r1">
+            Tebe spievam žalmy chvál, môj Pán, 
+            spievam žalmy chvál, môj Pán,
+            lebo nádherné a sväté meno máš.
+        </section>
+        
+        <section name="v3">
+            Zostávať túžim v Tvojom objatí, 
+            kde Tvoju blízkosť cítiť smiem.
+            Chcem prebývať v tieni Tvojich krídel, 
+            kde ma sebou obklopíš.
+            Až kým sa úplne v Tebe nestratím.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Як желе прагне до водних ударів,
+            Тож форма мого Внутро Хладжу.
+            Я мрію про красу вашої слави, що наповнить ваш храм.
+            Про Svätom Mieste, де ви вдарили.
+        </section>
+        
+        <section name="v2">
+            Я хочу у вашій славі
+            Я буду близько до вашого Трон.
+            Там ви будете з хором Анжеловом, що ви поважаєте.
+            Уникайте похвали, що буде знищено на небі.
+        </section>
+        
+        <section name="r1">
+            Я хапаю похвалою, що ти хвалиш, мій господар,
+            Spievam Psalms похвали, мій джентльмен,
+            Лебо прекрасний, і у вас є Мено.
+        </section>
+        
+        <section name="v3">
+            Прокинься Тузіма у своєму пробіжці,
+            де ваші близькі сміються.
+            Я хочу солома в тиіні тихі анест
+            Де ти мене оточуєш.
+            Поки я не витрачаю у вас.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 v2 r1 v3 r1
+    </repetition>
+</slide>

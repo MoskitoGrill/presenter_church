@@ -1,0 +1,76 @@
+<slide name="Hľa, stojím pri dverách">
+    <variant name="čeština">
+        <section name="v1">
+            Hľa, stojím pri dverách 
+            s pozvaním na perách 
+            ku mne sa privinúť.
+            Všetko už dolieha,
+            tak dlho na Teba, 
+            poď ku mne spočinúť.
+        </section>
+        
+        <section name="r1">
+            Ja utekám za Tebou sám.
+            Vnímaj veľkosť lásky, ktorú k Tebe mám.
+            Už nemaj strach, mám Ťa v rukách.
+            Ja som Tvojou silou, kráčať budeš po vodách.
+        </section>
+        
+        <section name="v2">
+            Hľaď, pozdvihni svoj zrak.
+            Budúcnosť dokorán.
+            Mám s Tebou veľký plán.
+            Čo bolo, niet už viac.
+            Nové už začínam.
+            Ja všetko obnovím.
+        </section>
+        
+        <section name="v3">
+            Každučkú hviezdu tvorím.
+            Nech pamätáš, že som Tvojím.
+            To všetko je pre Teba.
+            Veľdielom Ty si mojím.
+            Pre Teba spievam, horlím.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Hl, я стою на дверях
+            З запрошенням до ручок
+            Для мене привіїнос.
+            Všetko вже Доліеха,
+            Тож dlho на вас,
+            Дай мені відпочинок.
+        </section>
+        
+        <section name="r1">
+            Я втечу до вас наодинці.
+            Ви сприймаєте любов, яку я маю до вас.
+            Не хвилюйтеся, у мене в руках JA.
+            Я з вашою силою, прогулянка буде на водах.
+        </section>
+        
+        <section name="v2">
+            Hl, відмовляйся від очей.
+            Budúcosť Dokán.
+            У мене є план з вами.
+            Що є, Нієт вже Вак.
+            Я починаю нове.
+            Я відновлю Вашетко.
+        </section>
+        
+        <section name="v3">
+            Усі, що я створюю.
+            Дозвольте мені запам'ятати той сом, який я роблю.
+            Це все, що ти будеш.
+            Я змушую вас око.
+            Ви будете спати, жахливо.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1 v2 r1 (v3) r1
+    </repetition>
+</slide>

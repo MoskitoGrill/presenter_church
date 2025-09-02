@@ -1,0 +1,42 @@
+<slide name="Môj Boh">
+    <variant name="čeština">
+        <section name="v1">
+            Môj Boh, vďaka Tebe dýcham,
+            pre Teba tu som.
+            A viem, láskou si ma získal,
+            k sebe priviedol.
+            Smútok je preč, šťastím ma napĺňaš,
+            učíš ma láskou žiť.
+        </section>
+        
+        <section name="r1">
+            Tvoja láska je silnejšia, než vietor,
+            ona vyššia je, než najvyšší štít.
+            Hlbšia je, než dno oceánov,
+            zmenila môj svet.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Боже мій, я вас дихаю,
+            Тобі це подобається.
+            І viem, ma Walled ma,
+            ПРИВІНДОЛ.
+            Smútok - це прера, рада дрімоти,
+            Ви вчите Ма любов жити.
+        </section>
+        
+        <section name="r1">
+            Ваша любов сильніша, ніж ветеор,
+            Вона є Оссея, ніж народний щит.
+            Hlubshia - це, ніж дно океану,
+            Вона змінила мій світ.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1
+    </repetition>
+</slide>

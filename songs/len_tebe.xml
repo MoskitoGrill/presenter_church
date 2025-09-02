@@ -1,0 +1,71 @@
+<slide name="Len Tebe">
+    <variant name="čeština">
+        <section name="v1">
+            Predo mnou je kríž a za mnou svet,
+            neobrátim sa už nikdy späť, 
+            to všetko je len o Tebe.
+            Zatras nebesia, roztrhni oblohu, 
+            nech každý z ľudí vie - je to o Bohu, 
+            to všetko je len o Tebe.
+        </section>
+        
+        <section name="r1">
+            Len Tebe, a nie nám patrí sláva.
+            Len Tebe, a nie nám patrí sláva.
+            Len Tebe a nie nám.
+        </section>
+        
+        <section name="v2">
+            Prameň z našich sŕdc, Tebe chvála znie, 
+            na tvári je Ten, kto rozumie, 
+            to všetko je len o Tebe. 
+            Zošli oheň svoj, na oltár obete, 
+            plameň našich chvál dá vedieť vo svete, 
+            to všetko je len o Tebe.
+        </section>
+        
+        <section name="b1">
+            Zem sa chveje, vrchy kričia – Len o Tebe!
+            Slnko žiari, more hučí – Len o Tebe!
+            Vesmír celý sa točí a spieva – Len o Tebe!
+            Tvoje deti kričia, kričia – Len o Tebe!
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Predo - це король і світ для мене,
+            Я більше не повернусь,
+            Це все льон про вас.
+            Застосувати небо, розірвати небо,
+            Залиште кожне з ľudí vie - це про Бога,
+            Це все льон про вас.
+        </section>
+        
+        <section name="r1">
+            Лен, і Ні, належить нам слави.
+            Лен, і Ні, належить нам слави.
+            Льон вас і ні.
+        </section>
+        
+        <section name="v2">
+            Весна нашого Sàdc, похвала вас знищить,
+            На формі - той, хто розуміє,
+            Це все льон про вас.
+            У них був власний вогонь, на вівтарі шляху,
+            Полум'я нашої похвали дає свідомість світу,
+            Це все льон про вас.
+        </section>
+        
+        <section name="b1">
+            Земля - ​​це ставки, Кріті -Хіллз - льон про вас!
+            Slnko gaiar, більше гудів - льон про вас!
+            Всесвіт крутиться і спієва - льон про вас!
+            Ваші діти Крісія, Криція - льон про вас!
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 v2 b1
+    </repetition>
+</slide>

@@ -1,0 +1,113 @@
+<slide name="Ať požehnán je Bůh">
+    <variant name="čeština">
+        <section name="v1">
+            Ať požehnán je Bůh,
+            tam kde zem je úrodná, 
+            tam kde hojnost přebývá,
+            požehnán buď Pán! 
+        </section>
+        
+        <section name="v2">
+            Ať požehnán je Bůh,
+            tam kde zem je nevlídná,
+            má duše žízní vyprahlá,
+            požehnán buď Pán! 
+        </section>
+        
+        <section name="r0">
+            Vše, co dáváš, ze Tvých dlaní 
+            s díky přijímám, 
+            všechno měníš v požehnání,
+            chválu Ti vzdám
+        </section>
+        
+        <section name="r1">
+            Buď požehnané slavné jméno tvé 
+            buď požehnaný Pán 
+            buď požehnané slavné jméno tvé 
+            buď požehnaný svatý pánů Pán!
+        </section>
+        
+        <section name="v3">
+            Ať požehnán je Bůh,
+            když slunce svítí nad hlavou 
+            a život zdá se zábavou,
+            požehnán buď Pán! 
+        </section>
+        
+        <section name="v4">
+            Ať požehnán je Bůh,
+            když dny jsou plné strádání,
+            když žal provází dávání,
+            požehnán buď Pán!
+        </section>
+        
+        <section name="b1">
+            Dáš a vezmeš sám
+            můj pád i vítězství, 
+            v mém srdci stále zní
+            jen slova žehnání.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Нехай Бог буде благословенним,
+            де земля родюча,
+            де живе достаток,
+            Будьте благословлені або Господь!
+        </section>
+        
+        <section name="v2">
+            Нехай Бог буде благословенним,
+            де земля сувора,
+            Моя душа спрагу посушливо,
+            Будьте благословлені або Господь!
+        </section>
+        
+        <section name="r0">
+            Все, що ви даєте, долоні
+            з подякою я приймаю,
+            Ви все змінюєте в благословеннях,
+            Я дам тобі похвалу
+        </section>
+        
+        <section name="r1">
+            Будь благословенним відомим іменем свого
+            бути благословенним джентльменом
+            Будь благословенним відомим іменем свого
+            Будь благословенним Святий Господом!
+        </section>
+        
+        <section name="v3">
+            Нехай Бог буде благословенним,
+            Коли сонце світить над головою
+            І життя здається веселою,
+            Будьте благословлені або Господь!
+        </section>
+        
+        <section name="v4">
+            Нехай Бог буде благословенним,
+            Коли дні сповнені труднощів,
+            Коли горе супроводжується даючим,
+            Будьте благословлені або Господь!
+        </section>
+        
+        <section name="b1">
+            Ви даєте і берете себе
+            Моє падіння і перемога,
+            в моєму серці все ще звучить
+            Просто слова благословення.
+        </section>
+    </variant>
+
+    
+    
+    <repetition name="default">
+        v1 v2 r0 (r1) v3 v4 (r1) (b1)*4 (r1)
+    </repetition>
+
+    <repetition name="JančaDada">
+        v1 v2 r0 r1 v3 v4 r0 r1 r1
+    </repetition>
+</slide>

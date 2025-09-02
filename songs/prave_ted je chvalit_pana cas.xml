@@ -1,0 +1,59 @@
+<slide name="Právě teď je chválit Pána čas">
+    <variant name="čeština">
+        <section name="v1">
+            Právě teď je chválit Pána čas,
+            být svatyní Jeho svatého Ducha.
+            Svou důvěru slož u Něj
+            a chválu Bohu vzdej,
+            sláva Páně toto místo naplní.
+        </section>
+        
+        <section name="r1">
+            Pána chval, Pána chval!
+        </section>
+        
+        <section name="v2">
+            On přebývá ve chválách svého lidu,
+            má rád, když jeho Jméno vzýváme.
+            Svou důvěru slož u Něj
+            a začni chválit jej,
+            sláva Páně toto místo naplní.
+        </section>
+        
+        <section name="r2">
+            tak Pána svého chval.
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            Зараз це хвалити господарський час,
+            Будь святиня Його Святого Духа.
+            Ваша впевненість, що складається з нього
+            і хвалити Бог, відмовляйся,
+            Слава Господа заповнить це місце.
+        </section>
+        
+        <section name="r1">
+            Господи Чваль, лорд Чваль!
+        </section>
+        
+        <section name="v2">
+            Він живе в похвалах свого народу,
+            Він любить називати своє ім'я.
+            Ваша впевненість, що складається з нього
+            і почати хвалити його,
+            Слава Господа заповнить це місце.
+        </section>
+        
+        <section name="r2">
+            Тож Володар вашої похвали.
+        </section>
+    </variant>
+    
+    
+    <repetition name="default">
+        v1 r1 r1 v2 r1 r1 r2
+    </repetition>
+    
+</slide>

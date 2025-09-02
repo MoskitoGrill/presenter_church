@@ -1,0 +1,91 @@
+<slide name="Můj svět">
+    <variant name="čeština">
+        <section name="v1">
+            Stojím teď před Tebou, 
+            stojím před trůnem Tvým,
+            zachraň mě láskou svou 
+            přede mnou samotným.
+            Svůj život Tobě chci 
+            v každý moment dát,
+            bouřlivou láskou Tvou 
+            Tě denně poznávat.
+        </section>
+        
+        <section name="r1">
+            Můj svět, můj směr a život svůj 
+            Tobě dávám, Tobě dávám,
+            do rukou Tvých, jen Tvých i plány své 
+            odevzdávám, odevzdávám.
+            Jen Tvoje jméno věčně září, 
+            ve Tvém jménu chci žít,
+            můj svět, můj směr a život svůj 
+            Tobě dávám, Tobě dávám
+            a zpívám.
+        </section>
+        
+        <section name="v2">
+            Bože teď vděčný jsem 
+            za vše, co v Tobě mám,
+            pro sebe nikdy víc 
+            už si Tě nenechám.
+            Svůj slib jsem Tobě dal, 
+            své ruce odevzdal,
+            a každý další den 
+            s vírou chci dojít dál.
+        </section>
+        
+        <section name="b1">
+            Cestou Tvou toužím jít, 
+            cíl pro svůj život naplnit.
+            Můj další krok, k Tobě míří, 
+            s odvahou dnes vykročím.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Я стою перед тобою зараз,
+            Я стою перед вашим престолом,
+            Врятуй мене з любов’ю свого
+            Переді мною.
+            Я хочу твоє життя тобі
+            У будь -який момент, щоб дати,
+            Тормі любов до твого
+            Щоб познайомитися з вами щодня.
+        </section>
+        
+        <section name="r1">
+            Мій світ, мій напрямок і життя вашого
+            Я тобі даю, я тобі даю,
+            до ваших рук, лише ваші та ваші плани
+            Я передаю.
+            Просто ваше ім'я вічно блиск,
+            Від вашого імені я хочу жити,
+            Мій світ, мій напрямок і життя вашого
+            Я тобі даю, даю тобі
+            І я співаю.
+        </section>
+        
+        <section name="v2">
+            Бог тепер вдячний, що я
+            для всього, що я маю в тобі,
+            Ніколи для себе більше
+            Я вас більше не триматиму.
+            Я дав вам вашу обіцянку,
+            Він передав руки,
+            і через день
+            Я хочу піти з вірою.
+        </section>
+        
+        <section name="b1">
+            По дорозі я хочу їхати,
+            виконати мету для вашого життя.
+            Наступний мій крок, вам, прямує до вас
+            Сьогодні я постукую з мужністю.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 v2 b1
+    </repetition>
+</slide>

@@ -1,0 +1,68 @@
+<slide name="Vyuč mě Pane můj cestě své">
+    <variant name="čeština">        
+        <section name="v1">
+            Vyuč mě, Pane můj, cestě své,
+            toužím chodit v pravdě Tvé.
+            Upevni srdce mé v bázni jména Tvého,
+            upevni srdce mé v bázni jména Tvého.
+        </section>
+        
+        <section name="v2">
+            Otevři, Pane můj, oči mé,
+            toužím vidět skutky Tvé,
+            chci vidět slávu Tvou, slávu jména Tvého,
+            chci vidět slávu Tvou, slávu jména Tvého.
+        </section>
+
+        <section name="r1">
+            Jsi tak blízko a neskrýváš svou tvář přede mnou,
+            ó přede mnou, hledám Tvoji tvář a vzývám jméno Tvé,
+            vyslýcháš modlitbu mou.
+        </section>
+
+        <section name="v3">
+            Slovo Tvé ať osvěcuje cestu mou,
+            kroky mé v něm upevňuj,
+            dej mi moudrost svou, ať rozpoznám zlé a dobré,
+            dej mi sílu svou, já chci se rozhodnout jít za Tebou,
+            jít za Tebou.
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            Навчи мене, Господи, дорозі Твоїй,
+            Я хочу ходити в правді Твоїй.
+            Укріпи моє серце в страху перед іменем Твоїм,
+            Укріпи моє серце в страху перед іменем Твоїм.
+        </section>
+        
+        <section name="v2">
+            Відкрий, Господи, мої очі,
+            Я хочу бачити діла Твої,
+            Я хочу бачити славу Твою, славу імені Твого,
+            Я хочу бачити Твою славу, славу імені Твого.
+        </section>
+
+        <section name="r1">
+            Ти так близько і не ховаєш від мене свого обличчя,
+            О, переді мною, я шукаю Твого обличчя і кличу Твоє ім'я,
+            Ти чуєш мою молитву.
+        </section>
+
+        <section name="v3">
+            Нехай Твоє слово освітить мою дорогу,
+            і утверди мої кроки на ній,
+            Дай мені мудрість Твою, щоб я знав добро і зло,
+            Дай мені силу Твою, і я виберу йти за Тобою,
+            щоб іти за Тобою.
+        </section>
+    </variant>
+    
+    
+    
+    
+    <repetition name="default">
+        v1 v2 r1 v3
+    </repetition>
+</slide>

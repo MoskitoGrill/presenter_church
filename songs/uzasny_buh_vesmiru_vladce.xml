@@ -1,0 +1,62 @@
+<slide name="Úžasný Bůh, vesmíru vládce">
+    <variant name="čeština">
+        <section name="v1">
+            Úžasný Bůh, vesmíru vládce
+            vím, že jsi můj nejlepší rádce,
+            jsem v ruce Tvé, vždy pro mě máš 
+            tak zvláštní plán.
+        </section>
+        
+        <section name="v2">
+            Vedeš mě stále do svojí slávy,
+            jen s Duchem Tvým chci,Pane, dál jít
+            v blízkosti Tvé až do posledních dnů zůstávám.
+        </section>
+        
+        <section name="r0">
+            Jsem v ruce Tvé, své plány skládám
+            svůj život rád Ti, Králi, dávám
+            žít každý den smím před tváří Tvou.
+        </section>
+        
+        <section name="r1">
+            Toužím dál jít, dílem Tvým být,
+            jsi hrnčířem, já hlínou v rukou Tvých.
+            Pánem jsi vzácným, tvůrcem, který chrání,
+            jsi hrnčířem, já hlínou v rukou Tvých.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Дивовижний Бог, Всесвіт правителя
+            Я знаю, що ти мій найкращий радник,
+            Я в твоїй руці, ти завжди маєш для мене
+            Тож спеціальний план.
+        </section>
+        
+        <section name="v2">
+            Ти все ще веде мене до своєї слави,
+            Просто з духом твого, який я хочу, сер, продовжуйте йти
+            Я залишаюся поруч з вами до останніх днів.
+        </section>
+        
+        <section name="r0">
+            Я в руці, буду складати свої плани
+            Моє життя любить тебе, королі, я даю
+            Я можу жити щодня перед вашим обличчям.
+        </section>
+        
+        <section name="r1">
+            Я хочу продовжувати, працювати, щоб бути,
+            Ти гончар, я в твоїх руках.
+            Господь, ти рідкісний, Творець, який захищає,
+            Ти гончар, я в твоїх руках.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 v2 r0 r1
+    </repetition>
+</slide>

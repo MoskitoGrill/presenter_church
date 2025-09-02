@@ -1,0 +1,71 @@
+<slide name="Miluju Tě, Pane">
+    <variant name="čeština">
+        <section name="v1">
+            Nejbližší jsi Přítel můj,
+            nejlíp mě znáš.
+            Přesto dál náruč svou
+            pro mě otvíráš.
+            Žasnu nad láskou Tvou
+            a nad Tvou moudrostí.
+            Běžím, chci tě potěšit a zpívám radostí:
+        </section>
+        
+        <section name="r1">
+            Miluju Tě, Pane,
+            miluju Tě víc,
+            miluju Tě stále
+            a znovu toužím říct,
+            jak miluju ty chvíle,
+            kdy Ti blízko jsem,
+            jak moc jsem ti vděčný,
+            že jsi mým Přítelem.
+        </section>
+        
+        <section name="v2">
+            Slovo Tvé mi sílu dává
+            říct hříchu dost.
+            Do Tvých rukou odevzdávám
+            svou budoucnost.
+            Veď mě, Pane,
+            ať Tvou vůli dál poznávám,
+            chci mít srdce jako Ty a vyznávám:
+        </section>
+    </variant>
+    
+    <variant name="український - auto">
+        <section name="v1">
+            Найближче до вас - мій друг, мій,
+            Ти мене найкраще знаєш.
+            І все -таки власні обійми
+            Ти відкриваєш для мене.
+            Я вражений вашим коханням
+            І над своєю мудрістю.
+            Я бігаю, я хочу догодити тобі і співати з радістю:
+        </section>
+        
+        <section name="r1">
+            Я люблю тебе, сер,
+            Я люблю тебе більше,
+            Я все ще люблю тебе
+            І знову я довго кажу
+            Як я люблю ці моменти,
+            Коли я близький до вас,
+            Як сильно я вам вдячний,
+            що ти мій друг.
+        </section>
+        
+        <section name="v2">
+            Слово вашої сили дає мені
+            сказати достатньо гріха.
+            Я передаю твої руки
+            Ваше майбутнє.
+            Веду мене, сер,
+            Дозвольте мені продовжувати пізнавати вашу волю,
+            Я хочу мати таке серце, як ти, і я зізнаюся:
+        </section>
+    </variant>
+    
+    <repetition name="default">
+        v1 r1 v2 r1
+    </repetition>
+</slide>

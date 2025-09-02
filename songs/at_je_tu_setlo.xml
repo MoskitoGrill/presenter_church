@@ -1,0 +1,35 @@
+<slide name="Ať je tu sětlo">
+    <variant name="čeština">
+        <section name="v1">
+"Ať je tu sětlo!", tak řekl Bůh
+            a tma byla hned ta tam
+            od té doby nemusíme v temnotě žít
+            Bůh, který nás miluje, poslal
+            svého Syna k nám a od té doby
+            nemusíme v temnotě žít.
+</section>
+        <section name="r1">
+Ježíši, zažeň i mou temnotu
+            a stín svým láskyplným světlem
+            hřejivým, vždyť ve světle tvém
+            bát se nemusím.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+"Що б там не було проріз!", Так сказав Бог
+            і темрява була прямо там
+            З тих пір нам не потрібно жити в темряві
+            Бог, який любить нас, послав нас
+            Ваш син до нас і з тих пір
+            Нам не потрібно жити в темряві.
+</section>
+        <section name="r1">
+Ісусе, прокидайся і моя темрява
+            і тінь з його люблячим світлом
+            Зрештою, тепло, у світлі вашого
+            Мені не потрібно хвилюватися.
+</section>
+    </variant>
+    <repetition name="default">v1 r1 r1 v1 r1</repetition>
+</slide>

@@ -1,0 +1,80 @@
+<slide name="UK-BŮH JE NÁŠ OTEC A MY JSME JEHO DĚTI">
+<variant name="ukrajinština">
+<section name="v1">
+Бог – наш Отець, а ми – Його діти.
+Ніхто не вміє так, як Він, любити.
+Його творіння, такі унікальні,
+Радісні, добрі, щирі, веселі, часом печальні.
+</section>
+
+<section name="v2">
+Будем разом Бога хвалити,
+Віддано й щиро всі Йому служити.
+Божу любов ми світу покажем,
+І про Його пролиту кров усім розкажем.
+</section>
+
+<section name="r1">
+Ми – Його діти, церква, сім’я,
+Обручена Христу наречена.
+Тіло Ісуса, смерть Його з’єднала нас.
+Кров’ю омиті, чисті, святі,
+Духом народжені ми згори,
+Вічним коханням полюбив, Себе відкрив.
+</section>
+</variant>
+
+<variant name="přepis">
+<section name="v1">
+Boh – nash Otetsʹ, a my – Yoho dity. 
+Nikhto ne vmiye tak, yak Vin, lyubyty. 
+Yoho tvorinnya, taki unikalʹni, 
+Radisni, dobri, shchyri, veseli, chasom pechalʹni.
+</section>
+
+<section name="v2">
+Budem razom Boha khvalyty, 
+Viddano y shchyro vsi Yomu sluzhyty. 
+Bozhu lyubov my svitu pokazhem, 
+I pro Yoho prolytu krov usim rozkazhem.
+</section>
+
+<section name="r1">
+My – Yoho dity, tserkva, simʺya, 
+Obruchena Khrystu narechena. 
+Tilo Isusa, smertʹ Yoho zʺyednala nas. 
+Krovʺyu omyti, chysti, svyati, 
+Dukhom narodzheni my z·hory, 
+Vichnym kokhannyam polyubyv, Sebe vidkryv. 
+</section>
+</variant>
+
+<variant name="čeština">
+<section name="v1">
+Bůh je náš Otec a my jsme Jeho děti.
+Nikdo neví, jak milovat jako On.
+Jeho výtvory, tak jedinečné,
+Radostné, milé, upřímné, veselé, někdy smutné.
+</section>
+
+<section name="v2">
+Pojďme společně chválit Boha,
+Všichni Mu slouží věrně a upřímně.
+Ukážeme světu Boží lásku,
+A budeme všem vyprávět o Jeho prolité krvi.
+</section>
+
+<section name="r1">
+Jsme Jeho děti, církev, rodina,
+Nevěsta zasnoubená Kristu.
+Ježíšovo tělo, Jeho smrt nás spojila.
+Krev promytá, čistá, svatá,
+Jsme znovuzrozeni duchem,
+Milován věčnou láskou, zjevil se.
+</section>
+</variant>
+
+<repetition name="default">
+v1 r1 r1 v2 r1 r1 r1
+</repetition>
+</slide>

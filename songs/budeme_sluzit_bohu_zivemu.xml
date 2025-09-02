@@ -1,0 +1,38 @@
+<slide name="Budeme slúžiť Bohu živému">
+    <variant name="čeština">
+        <section name="v1">
+            Budeme slúžiť Bohu živému,
+            nechceme slúžiť nikomu inému.
+            Lebo náš Boh a len On sám,
+            On je živý Pán, ó, On je živý Pán.
+        </section>
+        
+        <section name="r1">
+            Budeme skúšať, čo je správne,
+            budeme hľadať Jeho tvár.
+            Lebo náš Boh má cesty priame
+            a On nám na nich svetlo dá.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Ми будемо слухати Бога живим,
+            Ми не хочемо, щоб хтось нікого робив.
+            Лебо наш Бог і Лен сам,
+            Він живий господар, о, він живий господар.
+        </section>
+        
+        <section name="r1">
+            Ми будемо скребти, що правильно,
+            Ми будемо HLADA.
+            Лебо, Бог, має шляхи Пріаме
+            І він дав нам світло на них.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1
+    </repetition>
+</slide>

@@ -1,0 +1,31 @@
+<slide name="Ty jsi mocný, ty jsi svatý">
+    <variant name="čeština">
+        <section name="v1">
+            Ty jsi mocný, ty jsi svatý, 
+            ty jsi hrozný ve své síle. 
+            Jako vítěz, vstal jsi z hrobu,
+            ty jsi zlomil hříchu prokletí. 
+        </section>
+        
+        <section name="r1">
+            Haleluja, zpívá církev tvá.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Ти потужний, ти святий,
+            Ти жахливий у своїх силах
+            Як і переможець, ти вставав з могили,
+            Ти зламав гріх прокляття
+        </section>
+        
+        <section name="r1">
+            Аллелуя, співає церкву.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        (v1) (r1)*4 (v1) (r1)*4
+    </repetition>
+</slide>

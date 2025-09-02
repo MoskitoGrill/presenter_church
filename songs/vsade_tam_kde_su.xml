@@ -1,0 +1,42 @@
+<slide name="Všade tam kde sú">
+    <variant name="čeština">
+        <section name="v1">
+            Všade tam kde sú, ľudia zídení
+            v mene Ježiš v láske zjednotení.
+            Práve tam Boh zasľúbil,
+            že bude prítomný.
+            Dnes viem, že náš Boh 
+            je na tomto mieste Prítomný.
+        </section>
+        
+        <section name="r1">
+            Privítajme Pána v tomto chráme,
+            nech ho Božia sláva naplní.
+            Svojmu Bohu spievame a hráme 
+            pieseň spasených.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Все там, де sú, ľudia неясного
+            В Менхе Ісус в Ласці.
+            Тут Бог послав там,
+            що він буде саке.
+            Сьогодні знайте, що наш Бог
+            На цьому це месте.
+        </section>
+        
+        <section name="r1">
+            Давайте приватний Господь у цьому храмі,
+            Нехай Божія слава виконує його.
+            Ми спимо і граємо в Бога і граємо
+            Пізен врятував.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1
+    </repetition>
+</slide>

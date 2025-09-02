@@ -1,0 +1,26 @@
+<slide name="Hlas tvůj když volá mne">
+    <variant name="čeština">
+        <section name="v1">
+Hlas Tvůj když volá mě, jdu, Pane, k Tobě vstříc
+A hledám spásu duše své pod křížem v ranách Tvých.
+</section>
+        <section name="r1">
+Dnes k Tobě , Pane jdu, ó přijmi duši mou,
+Z mých hříchů všech mě očisti,
+Svou krví předrahou.
+</section>
+        <section name="v2">
+Tvé Slovo slibuje, mi v Tobě spasení,
+Též pokoj duši zjevuje a s Bohem smíření,
+</section>
+        <section name="v3">
+Své dílo dokonáš svou vzácnou milostí
+A nové srdce jistě dáš, když přijdu s lítostí,
+</section>
+        <section name="v4">
+Buď slaven, Pane můj, za dílo lásky Tvé,
+Mou duši stále posvěcuj a drž mě v ruce své.
+</section>
+    </variant>
+    <repetition name="default">v1 r1 v2 v3 v4</repetition>
+</slide>

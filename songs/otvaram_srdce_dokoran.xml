@@ -1,0 +1,22 @@
+<slide name="Otvárám srdce dokorán">
+    <variant name="čeština">
+        <section name="v1">
+Otvárám srdce dokorán
+nech prúdi Tvoj Duch,
+nech prúdi Tvoj Duch.
+</section>
+        <section name="r1">
+Tam, kde vstúpiš Ty,
+tma sa vytratí
+a strach už nemá moc,
+ovládať každý krok
+Tam, kde vládneš Ty,
+láska víťazí a dáva silu ísť
+</section>
+        <section name="b1">
+So srdcom otvoreným
+znovu bežíme za Tebou.
+</section>
+    </variant>
+    <repetition name="default">v1 r1 b1</repetition>
+</slide>

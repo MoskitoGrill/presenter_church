@@ -1,0 +1,72 @@
+<slide name="Kdo jsem já">
+    <variant name="čeština">
+        <section name="v1">
+            Kdo jsem já, že by celé země Pán
+            chtěl moje jméno znát a cítit bolest mou?
+            Kdo jsem já, že by ta nejjasnější z hvězd
+            chtěla svítit u mých cest pro mé srdce bloudící?
+        </section>
+        
+        <section name="r1">
+            Jsem květ, co barvu rychle ztrácí, 
+            dnes tu je, a zítra není.
+            Jsem vlnou v oceánu, větrem hnaný dým.
+            Já vím, že slyšíš, když Tě volám,
+            Pane, chytáš mě, když padám,
+            Tys mi pověděl kdo jsem,
+            že jsem Tvůj.
+        </section>
+        
+        <section name="v2">
+            Kdo jsem já, že mi ten, kdo zná můj hřích,
+            vždy dává lásku svou a pomáhá mi vstát?
+            Kdo jsem já, že hlas, co moři poručil,
+            mě volá skrze déšť a tiší bouři mou?
+        </section>
+        
+        <section name="r0">
+            To vše není tím, kdo jsem,
+            ale tím, cos udělal.
+            Ne že já bych něco dal,
+            pravý důvod jsi Ty sám.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Хто я, що вся країна
+            Хочете знати моє ім’я і відчути мій біль?
+            Хто я, що найяскравіші зірки
+            Чи хотіла вона світити моїми стежками, щоб моє серце блукало?
+        </section>
+        
+        <section name="r1">
+            Я квітка, яка швидко втрачає колір,
+            Сьогодні він тут, і він не завтра.
+            Я хвиля в океані, вітер, керований димом.
+            Я знаю, що ти чуєш, коли я телефоную тобі,
+            Сер, ти ловиш мене, коли я падаю,
+            Ти сказав мені, хто я,
+            що я твій.
+        </section>
+        
+        <section name="v2">
+            Хто я такий, хто знає мій гріх,
+            Він завжди дарує свою любов і допомагає мені встати?
+            Хто я, що голос, який командував море,
+            Він дзвонить через дощ і замочує мою бурю?
+        </section>
+        
+        <section name="r0">
+            Все це не той, хто я є,
+            Але те, що він зробив.
+            Не те, що я б щось дав,
+            Справжня причина, що ти сам.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r0 r1 v2 r0 r1
+    </repetition>
+</slide>

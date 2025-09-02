@@ -1,0 +1,60 @@
+<slide name="Keď Tvoje Meno vyznávam">
+    <variant name="čeština">
+        <section name="v1">
+            Na Tvojom slove túžim stáť
+            Väčší je Ten, kto vo mne vládne.
+            Nemusím sa zlého báť,
+            môj Boh ma chráni.
+        </section>
+        
+        <section name="v2">
+            Tvoje slovo pravdu má,
+            to ma z pút vyslobodí.
+            Vždy pri mne budeš stáť,
+            Si môj Boh, Ten správny!
+        </section>
+        
+        <section name="r1">
+            Keď Tvoje Meno vyznávam,
+            moje vnútro povstať túži.
+            Novú silu dostávam,
+            na Tvojich krídlach sa vznášam.
+        </section>
+        
+        <section name="b1">
+            Môj Pán, Ježiš! Môj Pán, Ježiš!
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            На своєму слові tuzim stáť
+            Це той, хто мене керує.
+            Мені не доводиться злити чувак,
+            Бог захищений.
+        </section>
+        
+        <section name="v2">
+            Ваше слово має правду,
+            Він випустить його.
+            Ти завжди будеш у мені,
+            Ти можеш Боже, право!
+        </section>
+        
+        <section name="r1">
+            Якщо ваш менно я сповідую,
+            Мій похід Vnutro.
+            Нова сила я отримую,
+            Я курсор на твої повзучі.
+        </section>
+        
+        <section name="b1">
+            Господи, Ісусе!Господи, Ісусе!
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 v2 r1 b1
+    </repetition>
+</slide>

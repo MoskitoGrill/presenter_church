@@ -1,0 +1,41 @@
+<slide name="Budu jen o tvé lásce zpívat">
+    <variant name="čeština">
+        <section name="v1">
+            Řeka tvé lásky proudí k nám,
+            přes hory i přes oceán
+            a já své srdce otvírám
+            ať tvůj duch dotkne se mě sám.
+            Mám radost že tvou lásku znám,
+            že v pravdě můžu chodit dál,
+            proto své dlaně pozvedám
+            a tebe vzývám.
+        </section>
+        
+        <section name="r1">
+            Budu jen o tvé lásce zpívat
+            věčně jen o tvé lásce zpívat
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Річка вашої любові стікає до нас,
+            через гори і через океан
+            І я відкриваю своє серце
+            Нехай твій дух торкнеться мене самостійно.
+            Я радий знати вашу любов,
+            що, правда, я можу продовжувати,
+            Тому я підніму долоні
+            І я вам дзвоню.
+        </section>
+        
+        <section name="r1">
+            Я буду співати лише про вашу любов
+            вічно лише про вашу любов співати
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 (r1) v1 (r1)
+    </repetition>
+</slide>

@@ -1,0 +1,46 @@
+<slide name="Ty si Pánom mojich dní">
+    <variant name="čeština">
+        <section name="r1">
+            Ty si Pánom mojich dní, 
+            ty napĺňaš ma láskou.
+            Ty si Pánom mojich dní, 
+            po svojich cestách vedieš ma.
+            Ty si Pánom mojich dní, 
+            keď Ťa volám, vždy si blízko.
+            Ty si Pánom mojich dní, 
+            Tebe patrím so všetkým čo mám.
+        </section>
+        
+        <section name="v1">
+            Príliš dlho som už slúžil pánom falošným,
+            príliš dlho som bol spútaný.
+            Ty si mi putá zlámal, Ty si ma oslobodil,
+            Ty si ma vyviedol do víťazných dní.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="r1">
+            Ти чаклунство моїх днів,
+            Ти мріяв.
+            Ти чаклунство моїх днів,
+            На їхніх шляхах ви можете побачити Ма.
+            Ти чаклунство моїх днів,
+            Якщо я дзвоню, я завжди закриваю.
+            Ти чаклунство моїх днів,
+            Я належу тобі з усім, що маю.
+        </section>
+        
+        <section name="v1">
+            Занадто багато dlho som вже втік з Фалс,
+            Занадто багато dlho som bol sputic.
+            Ти блукав мене, ти засліпив,
+            Гарного дня.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        r1 v1 r1
+    </repetition>
+</slide>

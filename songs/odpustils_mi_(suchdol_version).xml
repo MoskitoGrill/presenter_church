@@ -1,0 +1,27 @@
+<slide 'Odpustils mi>
+    <variant name="čeština">
+        <section name="v1">
+            Odpustils mi, když zvítězili zradou,
+            Tys mě přijal, zabít ses dal.
+            A já dál žiji. Duch Tvůj ve mně přebývá
+            pro nás zemřels a vstal.
+        </section>
+        
+        <section name="r1">
+            Úžasnou lásku máš, život svůj jsi za nás dal.
+            Úžasnou lásku máš, přijmi písně našich chval,
+            našich chval, přijmi nás...
+        </section>
+
+        <section name="r2">
+            …můj Lásky Král
+            …můj Lásky Král
+            Ježíš můj Lásky Král
+            Ježíš můj Lásky Král
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 r2
+    </repetition>
+</slide>

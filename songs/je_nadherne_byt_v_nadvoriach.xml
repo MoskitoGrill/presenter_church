@@ -1,0 +1,78 @@
+<slide name="Je nádherné byť v nádvoriach">
+    <variant name="čeština">
+        <section name="v1">
+            Je nádherné byť v nádvoriach, 
+            tam, kde Ty bývaš.
+            Veď po Tebe smäd v duši mám, môj Pán.
+        </section>
+        
+        <section name="v2">
+            Vždy srdce sa mi utíši, 
+            keď pri Tebe som.
+            A v tieni Tvojich krídel spievam si.
+        </section>
+        
+        <section name="r1">
+            S Tebou je lepší jeden deň, 
+            s Tebou je lepší krátky čas,
+            s Tebou je lepší jeden deň než inde tisíc.
+        </section>
+        
+        <section name="v3">
+            Len jednu vec si žiadam mať, 
+            zrieť Tvoju krásu.
+            Byť s Tebou tam, kde Tvoja sláva je.
+        </section>
+        
+        <section name="b1">
+            Po Tebe Boh živý, 
+            volám zo všetkých síl,
+            po vodách Ducha svätého.
+            Viac krát som to skúsil, 
+            tak prosím znovu príď.
+            Chcem blízko Teba stáť, 
+            chcem blízko Teba stáť, vždy stáť!
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Прекрасна навіть у дворі,
+            Куди ти йдеш.
+            У мене в душі, у мене є джентльмен.
+        </section>
+        
+        <section name="v2">
+            Завжди серце мене бігати,
+            Коли ти сом.
+            І в Тяні, твої крадіжки спасибу.
+        </section>
+        
+        <section name="r1">
+            З вами кращий один дощ,
+            З вами краще короткий час,
+            З вами кращий один дощ, ніж справді тисяча.
+        </section>
+        
+        <section name="v3">
+            Льон я живий мата,
+            Ваша краса.
+            Навіть з вами там, де ваша слава.
+        </section>
+        
+        <section name="b1">
+            Після вас, Бог живий,
+            Я називаю Зо з Všetkýcz,
+            Після вод Духа Сваті.
+            Viac times som to scursing,
+            Тож, будь ласка, складіть ще раз.
+            Я хочу бути поруч з вами,
+            Я хочу бути поруч з тобою, завжди достатньо!
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 v2 r1 v3 v3 r1 b1 r1
+    </repetition>
+</slide>

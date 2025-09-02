@@ -1,0 +1,72 @@
+<slide name="Už vidím krále slávy">
+    <variant name="čeština">
+        <section name="v1">
+            Už vidím krále slávy,
+            jak se blíží v oblacích.
+            Celá zem se chvěje jen.
+            Už vidím jeho lásku,
+            která smývá každý hřích
+            Celá zem, zpívá jen.
+        </section>
+        
+        <section name="r1">
+            Hosana, hosana, hosana králi králů.
+        </section> 
+        
+        <section name="v2">
+            Už vidím nový národ,
+            tvůj lid s vírou postává,
+            jen na tebe se spoléhá.
+            Už vidím v srdcích svítá,
+            probuzení přichází, 
+            jsme v modlitbách, na kolenou.
+        </section>
+        
+        <section name="v3">
+            Uzdrav prosím srdce mé,
+            dej mi zahlédnout neviditelné,
+            ukaž mi jak milovat, Tvou láskou.
+            Zlom mi srdce pro svůj plán,
+            vše co jsem, co mám, tobě vydávám. 
+            Na cestě do věčnosti, do slávy Tvé.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Я вже бачу короля слави,
+            Коли вони наближаються до хмар.
+            Весь земля трясеться лише.
+            Я вже бачу його любов,
+            тобто мити кожен гріх
+            Вся земля, співаючи лише.
+        </section>
+        
+        <section name="r1">
+            Хосана, Хосан, Хосанський цар королів.
+        </section> 
+        
+        <section name="v2">
+            Я вже бачу нову націю,
+            Ваш народ із вірою стоїть,
+            Він просто покладається на вас.
+            Я вже бачу, як світить, сяє,
+            Пробудження приходить,
+            Ми в молитвах, на колінах.
+        </section>
+        
+        <section name="v3">
+            Будь ласка, зціліть моє серце мого,
+            Дай мені невидимий,
+            Покажіть мені, як любити, свою любов.
+            Розбий моє серце для вашого плану,
+            Все, що я є, що я маю, я вам даю.
+            По дорозі до вічності, твоя слава.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 (r1) v2 (r1) v3 (r1)
+    </repetition>
+</slide>

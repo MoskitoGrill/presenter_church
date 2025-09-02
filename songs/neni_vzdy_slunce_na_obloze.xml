@@ -1,0 +1,114 @@
+<slide name="Není vždy slunce na obloze">
+    <variant name="čeština">
+        <section name="v1">
+            Není vždy slunce na obloze,
+            nejsou vždy květy rozkvetlé,
+            není vždy pokoj. láska v domě,
+            ne vždy Tě vidím, cítím, Pane.
+        </section>
+        
+        <section name="v2">
+            Nemám vždy k lidem lásku, Bože,
+            neotvírám jim vždy své dlaně,
+            nedávám Ti vždy ruce svoje,
+            nedobojoval jsem vždy boje.
+        </section>
+        
+        <section name="r1">
+            Ale vždy vím, že Ty jsi se mnou,
+            já vím, jak moc mne máš rád,
+            to vím, jsi stále tentýž, včera, zítra, dnes.
+        </section>
+        
+        <section name="r2">
+            Ale vždy vím, že měníš srdce,
+            já vím, jsi mojí silou,
+            to vím, jdu k tobě, Otče, tobě patřit smím
+        </section>
+        
+        <section name="v3">
+            Jsou někdy na obloze mraky,
+            to kvůli dešti jinak nejde,
+            však slunce za nimi je taky,
+            když chvíli počkáš – zase vyjde.
+        </section>
+        
+        <section name="v4">
+            A když se v noci světlo ztratí,
+            neznamená, že slunce není.
+            Vím, dobře, že se ráno vrátí
+            a to je pro mne povzbuzení.
+        </section>
+        
+        <section name="r3">
+            Stejně tak vím, že Ty jsi se mnou,
+            já vím, jak moc mne máš rád,
+            to vím, jsi stále tentýž, včera, zítra, dnes.
+        </section>
+        
+        <section name="r4">
+            Dnes už to vím, Ty jsi ten vítěz,
+            já vím, Golgotský vítěz,
+            to vím, jsi Ježíš Kristus, Tobě náležím.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Це не завжди сонце на небі,
+            не завжди квіти цвітуть,
+            Не завжди є кімната.Любов у будинку,
+            Я не завжди бачу тебе, відчуваю, сер.
+        </section>
+        
+        <section name="v2">
+            Я не завжди маю любов до людей, Боже,
+            Я не завжди відкриваю долоні,
+            Я не завжди даю тобі руки,
+            Я не завжди боровся.
+        </section>
+        
+        <section name="r1">
+            Але я завжди знаю, що ти зі мною,
+            Я знаю, як ти мене любиш
+            Я знаю, що ти все ще однаковий, вчора, завтра, сьогодні.
+        </section>
+        
+        <section name="v3">
+            Іноді хмари на небі,
+            Це неможливо через дощ,
+            Але сонце за ними теж,
+            Коли ви зачекаєте деякий час - це виходить знову.
+        </section>
+        
+        <section name="v4">
+            І коли світло втрачається вночі,
+            Це не означає, що сонце не є.
+            Я добре знаю, що вона повернеться вранці
+            І це заохочення для мене.
+        </section>
+
+        <section name="r2">
+            Але я завжди знаю, що ти змінюєш серця
+            я знаю, що ти моя сила
+            Я знаю це, я йду до вас, отче, я можу належати вам
+        </section>
+
+        <section name="r3">
+            Як я знаю, ти зі мною,
+            Я знаю, як ти мене любиш
+            Я знаю, що ти все ще однаковий, вчора, завтра, сьогодні.
+        </section>
+        
+        <section name="r4">
+            Я знаю це сьогодні, ти переможець,
+            Я знаю голготського переможця,
+            Я знаю, ти - Ісус Христос, я буду належати тобі.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 v2 r1 r2 v3 v4 r3 r2 r4
+    </repetition>
+</slide>

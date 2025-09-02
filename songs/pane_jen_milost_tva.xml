@@ -1,0 +1,55 @@
+<slide name="Pane, jen milost Tvá">
+    <variant name="čeština">
+        <section name="v1">
+Pane, jen milost Tvá nabízí život nám. 
+Ježíši já k Tobě volám.
+Ve všech mých nesnázích, 
+ztratit mě nenecháš. 
+Ježíši já k Tobě volám.
+</section>
+        <section name="r1">
+Pozvedám srdce mé, 
+Tebe chválím nade vše. 
+Život svůj chci Ti dát, 
+navěky Tě uctívat.
+</section>
+        <section name="v2">
+Lásku tak úžasnou každý den dáváš nám. 
+Ježíši já k Tobě volám.
+Chyby mé vzal jsi sám, 
+před Tebou smím teď stát. 
+Ježíši já k Tobě volám.
+</section>
+        <section name="b1">
+Díky, Pane, naplňuješ láskou.
+Haleluja, přicházím za Tebou.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Сер, тільки Грейс Твій пропонує нам життя
+Я закликаю Ісуса до вас.
+У всіх моїх труднощах,
+втратити мене, не залишайте.
+Я закликаю Ісуса до вас.
+</section>
+        <section name="r1">
+Я піднять своє серце,
+Я хвалю тебе, перш за все
+Я хочу дати тобі своє життя,
+Поклонятися тобі назавжди.
+</section>
+        <section name="v2">
+Люблю так дивовижно щодня ти даєш нам
+Я закликаю Ісуса до вас.
+Помилки мого взяли своє,
+Я можу стояти перед вами зараз
+Я закликаю Ісуса до вас.
+</section>
+        <section name="b1">
+Дякую, Господи, ти наповниш любов’ю.
+Аллелуя, я приходжу до тебе.
+</section>
+    </variant>
+    <repetition name="default">v1 r1 v2 (r1) (b1) (r1)</repetition>
+</slide>

@@ -1,0 +1,57 @@
+<slide name="Aj keby nekvitol fík">
+    <variant name="čeština">
+        <section name="v1">
+Aj keby nekvitol fík, 
+            aj keby nerodila zem,
+            aj keby nebesá nedoniesli svetlo v nové ráno.
+            A aj keď polia zlyhajú 
+            a sýpky prázdne zostanú,
+            aj keď všetko vôkol volá, že Boh nie je.
+</section>
+        <section name="r1">
+Áno práve vtedy pozdvihnem svoj hlas
+            a budem spievať chvály.
+            Uprostred trápení, uprostred súžení,
+            Ježiš je Pán.
+            Áno práve vtedy pozdvihnem svoj hlas
+            a budem spievať chvály.
+            Lebo verím, v Neho verím.
+</section>
+        <section name="v2">
+Keď blízky priateľ opustí
+            a je tak ťažké odpustiť,
+            keď sa múry v mojom vnútri zrazu rúcajú.
+            Keď sa zdá, že to neskončí,
+            slzy sa tlačia do očí,
+            viem, že stojíš blízko tých, čo v Teba dúfajú.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Навіть якби фігове дерево не цвіло,
+            хоч би земля не родила,
+            навіть якщо небо не принесло світло в новий ранок.
+            І навіть якщо поля проваляться
+            а комори залишаються порожніми,
+            навіть якщо все навколо говорить, що Бога немає.
+</section>
+        <section name="r1">
+Так, саме тоді я підвищую голос
+            і буду співати дифірамби
+            Серед біди, серед біди,
+            Ісус є Господь.
+            Так, саме тоді я підвищую голос
+            і буду співати дифірамби
+            Тому що я вірю, я вірю в Нього.
+</section>
+        <section name="v2">
+Коли йде близький друг
+            і це так важко пробачити
+            коли стіни всередині мене раптово руйнуються.
+            Коли здається, що це не закінчиться,
+            сльози навертаються на очі
+            Я знаю, що ти стоїш близько до тих, хто надіється на тебе.
+</section>
+    </variant>
+    <repetition name="default">v1 r1 v2</repetition>
+</slide>

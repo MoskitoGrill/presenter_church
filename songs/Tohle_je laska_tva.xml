@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<slide name="Tohle je láska tvá">
+    <variant name="čeština">
+        <section name="v1">
+Kdo zlomí vládu temna a hříchu,
+            Kdo vládne láskou jež má tu sílu,
+            Je to Králi slávy,
+            nad všemi králi Král.
+</section>
+        <section name="v2">
+Kdo silou bouře pohne i skálou, 
+            Před kým se skláním v úžasu s chválou?
+            Je to Král slávy, 
+            nad všemi králi Král.
+</section>
+        <section name="r1">
+Tohle je láska Tvá a milost úžasná.
+            Žes byl na místě mém,
+            Můj kříž jsi nesl sám.
+            Vydal jsi život svůj
+            abych byl svobodný.
+            Za vše co dals mi,
+            zpívám Ti Ježíši.
+</section>
+        <section name="v3">
+Kdo vrátí řády, kde zmatky vládnou. 
+            Sirotky přijme s otcovskou láskou.
+            Je to králi slávy,
+            je to králi slávy.
+</section>
+        <section name="v4">
+Kdo světu vládne Pravdou a právem,
+            jak slunce září v celé své kráse.
+            Je to králi slávy, 
+            nad všemi králi král.
+</section>
+        <section name="b1">
+Beránku buď sláva čest.
+            Sláva Králi jenž hrob nemohl snést.
+            Beránku buď sláva čest. 
+            Sláva Králi jenž hrob nemohl snést
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Хто зруйнує панування темряви і гріха,
+            Хто править любов'ю, що має силу,
+            Це Цар слави,
+            Цар царів.
+</section>
+        <section name="v2">
+Хто силою бурі зрушить навіть скелю, 
+            Перед ким я схиляюся з трепетом і хвалою?
+            Це Цар слави, 
+            Цар над усіма царями.
+</section>
+        <section name="r1">
+Це Твоя любов, і Твоя благодать чудова.
+            Бо Ти був на моєму місці,
+            Ти ніс мій хрест один.
+            Ти віддав своє життя.
+            щоб я міг бути вільним.
+            За все, що Ти мені дав,
+            я співаю тобі, Ісусе.
+</section>
+        <section name="v3">
+Хто відновить порядок там, де панує безлад. 
+            Сиріт прийме з батьківською любов'ю.
+            Царю слави,
+            ...царю всіх царів.
+</section>
+        <section name="v4">
+Хто править світом Правдою і Справедливістю,
+            як сонце сяє у всій своїй славі.
+            Він - Цар слави, 
+            Цар царів.
+</section>
+        <section name="b1">
+Слава Агнцю.
+            Слава Царю, що не зміг винести гробу.
+            Слава Агнцю. 
+            Слава Царю, що не зміг винести гробу
+</section>
+    </variant>
+    <repetition name="default">v1 v2 r1 v3 v4 r1 (b1) r1 r1.6 r1.7</repetition>
+</slide>

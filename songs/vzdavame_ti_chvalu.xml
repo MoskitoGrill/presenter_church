@@ -1,0 +1,47 @@
+<slide name="Vzdáváme Ti chválu">
+    <variant name="čeština">
+        <section name="v1">
+            Vzdáváme Ti chválu, 
+            čest a slávu.
+            K Tobě zvedáme své ruce
+            Vyvyšujem jméno Tvé
+        </section>
+        <section name="v2">
+            Vždyť Ty jsi Bůh, 
+            Ty jsi náš veliký Bůh,
+            Ty jsi všemohoucí Bůh,
+            všechno můžeš, Ty jsi Bůh.
+        </section>
+        <section name="v3">
+            Jsi veliký, 
+            veliký a nádherný, 
+            není žádný jako Ty, Ježíši.
+            Není žádný jako Ty!
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Ми відмовляємося від похвалу,
+            Честь і слава.
+            Ми піднімаємо руки до вас
+            Я підніму ваше ім'я Твоє
+        </section>
+        <section name="v2">
+            Ти Бог,
+            Ти наш великий Бог,
+            Ти Всемогутній Бог,
+            Ви можете все зробити, ви Бог.
+        </section>
+        <section name="v3">
+            Ти чудовий,
+            Чудово і красиво,
+            Немає такого, як ти, Ісусе.
+            Це не так, як ти!
+        </section>
+    </variant>
+
+    <repetition name="default">
+        (v1) v2 v3 (v1) v2 v3
+    </repetition>
+</slide>

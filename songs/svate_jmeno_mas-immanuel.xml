@@ -1,0 +1,38 @@
+<slide name="Svaté jméno máš-Immanuel">
+    <variant name="čeština">
+        <section name="v1">
+            Svaté jméno máš, Immanuel, Bůh je s námi,
+            spasiteli náš, neobstojí pekel brány.
+            Svatou krví Tvou očištěni, vykoupeni,
+            pomazaní jdou ve vítězství
+            dobýt zemi k slávě Tvé.
+        </section>
+        
+        <section name="r1">
+            Immanuel, Immanuel,
+            Yeshua Immanuel,
+            Yeshua Immanuel.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Святе ім'я, яке ти маєш, Іммануїл, Бог з нами
+            Наш Спаситель не буде тримати пекло воріт.
+            Свята кров вашого очищеного, викупленого,
+            Помазаний йде у перемозі
+            Підкорюйте землю до своєї слави.
+        </section>
+        
+        <section name="r1">
+            Іммануїл, Іммануель,
+            Ієшуа Іммануїл,
+            Ієшуа Іммануель.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 (r1)
+    </repetition>
+</slide>

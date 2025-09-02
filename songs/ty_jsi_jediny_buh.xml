@@ -1,0 +1,42 @@
+<slide name="Ty jsi jediný Bůh">
+    <variant name="čeština">
+        <section name="v1">
+            Ty jsi jediný Bůh, první a poslední,
+            nikdy nebyl a nebude více nikdo jako jsi Ty.
+            Ty máš největší moc, Ty jsi svrchovaný,
+            nikdy nebyl a nebude více nikdo jako jsi Ty.
+        </section>
+        
+        <section name="r1">
+            Jsi největší ve své síle a největší ve své moci,
+            hrozný si ve svém hněvu 
+            a největší ve svém milování.
+            Svatý ve všech svých skutcích,
+            moudrý a dokonalý,
+            nikdy nebyl a nebude více nikdo jako jsi Ty.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Ти єдиний Бог, перший і останній,
+            Ніколи не було і не було, як ти.
+            У вас найбільша сила, ви суверен,
+            Ніколи не було і не було, як ти.
+        </section>
+        
+        <section name="r1">
+            Ти найбільший у своїх силах і найбільший у своїй силі,
+            страшно у вашому гніві
+            І найбільший у вашому коханні.
+            Святий у всіх їхніх вчинках,
+            мудрий і ідеальний,
+            Ніколи не було і не було, як ти.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1 v1 r1
+    </repetition>
+</slide>

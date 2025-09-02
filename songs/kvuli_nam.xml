@@ -1,0 +1,43 @@
+<slide name="Kvůli nám">
+    <variant name="čeština">
+        <section name="v1">
+Nad všechny krále, nad každou moc,
+            nad zákon přírody i lidskou ješitnost.
+            Nad světa moudrost a krásu stvoření,
+            byl jsi tu už před počátkem dní.
+</section>
+        <section name="v2">
+Nad každou říši, nad vládu všech,
+            nad každý zázrak, co spatřil tento svět.
+            Nad všechny poklady a světa bohatství,
+            marné je Ti hledat srovnání.
+</section>
+        <section name="r1">
+Kvůli nám žils a umíral, 
+            dán Ti hrob, svět Tě nepřijal.
+            Zašlapán jak do prachu růže, 
+            Tys neváhal za můj hřích život dát.
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+Над усім королем, над кожною силою,
+            Над законом природи та людської суєти.
+            Над світовою мудрістю та красою творіння,
+            Ви були тут до початку днів.
+</section>
+        <section name="v2">
+Над кожною імперією, над правилом усіх,
+            Над кожним дивом, який бачив цей світ.
+            Над усіма скарбами та світом багатства,
+            Шукати порівняння марно.
+</section>
+        <section name="r1">
+Через наші вени і померли,
+            Дайте вам могилу, світ вас не прийняв.
+            Побив, як трояндовий пил,
+            Ви не вагалися давати життя за мій гріх.
+</section>
+    </variant>
+    <repetition name="default">(v1 v2 r1) r1 r1.3 r1.4</repetition>
+</slide>

@@ -1,0 +1,153 @@
+<slide name="UK - Jsi dobrý táta">
+    <variant name="ukrajinština">
+        <section name="v1">
+            Тут я, в молитві з Тобою
+            І славлю могутність Твою!
+            Знаю я Ти усього навчаєш,
+            Ведеш нас у Дім Твій Святий.
+            Ти величний і вірний, наш Боже,
+            Дитям називаєш мене
+        </section>
+
+        <section name="r1">
+            Ти є Добрий Тато -
+            Це Той хто Ти, це Той хто Ти, це Той хто Ти!
+            І я в Твоїй любові -
+            Назавжди, назавжди, назавжди
+        </section>
+
+        <section name="v2">
+            Господь мій, такі незбагненні
+            Дороги для мене Твої.
+            Все блукаю, не знайду я спокій,
+            Так прагну сховатись в Тобі.
+            Але Ти вже усе передбачив,
+            Даєш необхідне мені!
+        </section>
+
+        <section name="b1">
+            Досконалий в усьому завжди
+            Досконалий в усьому завжди
+            Досконалий в усьому завжди
+            Бог Наш!
+            Тобі слава, великий Наш Бог
+            Тобі слава, великий Наш Бог
+            Тобі слава, великий Наш Бог
+            Амінь!
+        </section>
+
+        <section name="v3">
+            Ця любов Твоя безмежна,
+            Усюди присутня вона.
+            І Твій мир такий неймовірний,
+            Спокійно в обіймах Твоїх.
+            І Ти кличеш мене все глибше,
+            Ти кличеш мене все глибше,
+            Ти кличеш мене все глибше
+            В любов, любов Свою
+        </section>
+    </variant>
+
+    <variant name="uk - transkript">
+        <section name="v1">
+            Tut ya, v molytvi z Toboyu 
+            I slavlyu mohutnistʹ Tvoyu! 
+            Znayu ya Ty usʹoho navchayesh, 
+            Vedesh nas u Dim Tviy Svyatyy. 
+            Ty velychnyy i virnyy, nash Bozhe, 
+            Dytyam nazyvayesh mene
+        </section>
+
+        <section name="r1">
+            Ty ye Dobryy Tato - 
+            Tse Toy khto Ty, tse Toy khto Ty, tse Toy khto Ty! 
+            I ya v Tvoyiy lyubovi - 
+            Nazavzhdy, nazavzhdy, nazavzhdy
+        </section>
+
+        <section name="v2">
+            Hospodʹ miy, taki nezbahnenni 
+            Dorohy dlya mene Tvoyi. 
+            Vse blukayu, ne znaydu ya spokiy, 
+            Tak prahnu skhovatysʹ v Tobi. 
+            Ale Ty vzhe use peredbachyv, 
+            Dayesh neobkhidne meni! 
+        </section>
+
+        <section name="b1">
+            Doskonalyy v usʹomu zavzhdy 
+            Doskonalyy v usʹomu zavzhdy 
+            Doskonalyy v usʹomu zavzhdy 
+            Boh Nash! 
+            Tobi slava, velykyy Nash Boh 
+            Tobi slava, velykyy Nash Boh 
+            Tobi slava, velykyy Nash Boh 
+            Aminʹ! 
+        </section>
+
+        <section name="v3">
+            Tsya lyubov Tvoya bezmezhna, 
+            Usyudy prysutnya vona. 
+            I Tviy myr takyy neymovirnyy, 
+            Spokiyno v obiymakh Tvoyikh. 
+            I Ty klychesh mene vse hlybshe, 
+            Ty klychesh mene vse hlybshe, 
+            Ty klychesh mene vse hlybshe 
+            V lyubov, lyubov Svoyu
+        </section>
+    </variant>
+
+    <variant name="čeština GT">
+        <section name="v1">
+            Zde jsem, v modlitbě s Tebou
+            A chválím Tvou moc!
+            Vím, že učíš všechno
+            Vedeš nás do svého Svatého domu.
+            Jsi majestátní a věrný, náš Bože,
+            Říkáš mi dítě
+        </section>
+
+        <section name="r1">
+            Jsi dobrý táta -
+            Tohle je, kdo jsi, tohle jsi, tohle jsi!
+            A já jsem ve tvé lásce -
+            Navždy, navždy, navždy
+        </section>
+
+
+        <section name="v2">
+            Můj bože, tak nepochopitelné
+            Cesty jsou pro mě tvoje.
+            Bloudím dál, nenajdu klid
+            Tak se chci v Tobě schovat.
+            Ale už jsi všechno předpověděl
+            Dáš mi, co potřebuji!
+        </section>
+
+        <section name="b1">
+            Vždy perfektní ve všem
+            Vždy perfektní ve všem
+            Vždy perfektní ve všem
+            Náš Bůh!
+            Sláva tobě, náš velký Bože
+            Sláva tobě, náš velký Bože
+            Sláva tobě, náš velký Bože
+            Amen!
+        </section>
+
+        <section name="v3">
+            Tato tvá láska je bezmezná,
+            Je přítomna všude.
+            A tvůj mír je tak neuvěřitelný,
+            Odpočívej v náručí.
+            A ty mě voláš hlouběji a hlouběji,
+            Voláte mě hlouběji a hlouběji
+            Voláte mě hlouběji a hlouběji
+            Zamilovaný, má lásko
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 v2 r1 b1 v3 r1 r1
+    </repetition>
+</slide>

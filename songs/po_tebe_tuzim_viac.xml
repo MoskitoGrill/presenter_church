@@ -1,0 +1,37 @@
+<slide name="Po tebe túžim viac">
+    <variant name="čeština">
+        <section name="v1">
+            Po tebe túžim viac môj Boh a Pán
+            V nádvoriach Boha živého chcem prebývať
+            Tiahni ma, pobežím za tebou rád
+            Veď sladšia ako víno je tvoja láska
+        </section>
+        
+        <section name="v2">
+            Zobuď ma ranným slnkom oblej ma lúčami
+            Nech moja tvár mi žiari od tvojej návštevy
+            Nech oblak Božej slávy môj svet mi naplní
+            Prebuď, čo vo mne drieme obnov, čo vo mne spí
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Після вас я буду через viak, Бог і Господь
+            У дворі Бога життя я хочу соломитися
+            Tiahni ma, я буду щасливий за тобою
+            NAD Mělshia Ako Wine - це твоя любов
+        </section>
+        
+        <section name="v2">
+            Зігніть мої ранні сукні з плоті з луча
+            Залиште Moja Svár Me žari від вашого візиту
+            Нехай хмара Божої слави може мене наповнити
+            Киньте, що ми робимо в мені, щоб поновити, що мені спати
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 v2 v1 v2 v2
+    </repetition>
+</slide>

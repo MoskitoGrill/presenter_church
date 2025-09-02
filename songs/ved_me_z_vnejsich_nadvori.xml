@@ -1,0 +1,40 @@
+<slide name="Veď mě z vnějších nádvoří">
+    <variant name="čeština">
+        <section name="v1">
+            Veď mě z vnějších nádvoří, dál, až za oltář,
+            tam na svaté místo, kde zahlédnu Tvoji tvář.
+            Kolem těch, co v chrámu slouží, dál než k chválení,
+            až tam, kde mlčí lidská moudrost
+            a Tvůj hlas tiše zní.
+        </section>
+        
+        <section name="r1">
+            Veď mě dál do ticha – do svatyně svatých,
+            veď mě dál skrze krev Beránka.
+            Veď mě dál do ticha – do svatyně svatých,
+            veď mě dál – tady jsem – veď mě dál.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Ведіть мене із зовнішнього двору, на, до вівтаря,
+            Там святе місце, щоб побачити ваше обличчя.
+            Навколо тих, хто служить у храмі, далі, ніж похвалити,
+            до того, де людська мудрість мовчить
+            І ваш голос звучить тихо.
+        </section>
+        
+        <section name="r1">
+            Ведіть мене до мовчання - до святилища святих,
+            Ведіть мене через кров ягня.
+            Ведіть мене до мовчання - до святилища святих,
+            Подивіться на мене - ось я - веду мене.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 v2
+    </repetition>
+</slide>

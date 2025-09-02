@@ -1,0 +1,53 @@
+<slide name="Jen v Tebe důvěru mám">
+    <variant name = 'čeština'>
+        <section name="v1">
+            Uprostřed zkoušek a všech nesnází
+            jen v Tebe důvěru mám.
+            Když skoro vůbec nic mi nevychází,
+            jen v Tebe důvěru mám.
+        </section>
+        <section name="r">
+            Ó, Hospodine, jen v Tebe důvěru mám.
+            Ó, Hospodine,jen v Tebe důvěru mám.
+        </section>
+        <section name="v2">
+            Když mračna stahují se nad mou hlavou,
+            jen v Tebe důvěru mám,
+            pak místo deště slzy z očí kanou,
+            jen v Tebe důvěru mám.
+        </section>
+        <section name="v3">
+            Když do mysli se vkrádá porážky stín,
+            jen v Tebe důvěru mám,
+            zas k Tobě přijdu s prostou vírou, 
+            že smím, když v Tebe důvěru mám.
+    </variant>
+    <variant name = 'український'>
+        <section name="v1">
+            Серед випробувань і всіх труднощів
+            Я довіряю тільки тобі.
+            Коли у мене майже нічого не виходить,
+            Я довіряю тільки тобі.
+        </section>
+        <section name="r">
+           Господи, я вірю тільки в Тебе.
+           Господи, я вірю тільки в Тебе.
+        </section>
+        <section name="v2">
+            Коли хмари збираються над моєю головою,
+            Я довіряю тільки тобі,
+            тоді замість дощу на очі навертаються сльози,
+            Я довіряю тільки тобі.
+        </section>
+         <section name="v3">
+            Коли тінь перемагає, закрадаючись у розум,
+            Я довіряю тільки тобі,
+            Я знову прийду до тебе з простою вірою,
+            щоб я міг, якщо довіряю Тобі.
+    </variant>
+
+    
+    <repetition name="Mira-band">
+        v1 r v2 v3 r
+    </repetition>
+</slide>

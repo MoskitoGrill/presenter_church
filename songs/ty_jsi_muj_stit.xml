@@ -1,0 +1,58 @@
+<slide name="ty jsi můj štít">
+    <variant name="čeština">
+        <section name="v1">
+            Chválím slávu Tvou, můj Králi,
+            toužím s Tebou kráčet dál.
+            Léčíš vždy slovem svým mé rány,
+            blízkost Tvá mi dává pevně stát.
+            S Tebou zůstat smím,
+            jen Ty jsi Pánem mým.
+        </section>
+        
+        <section name="r1">
+            Ty jsi můj štít, můj Král,
+            moje píseň, co tak krásně zní,
+            můj úkryt, má skála.
+            V mé nouzi přicházíš,
+            jsi spása má.
+        </section>
+
+        <section name="v2">
+            Já vím, můžu žít z Tvé lásky,
+            chráníš mě Duchem svým před pády.
+            Radostí jsi mou,
+            zpívám chválu svou
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+         <section name="v1">
+            Я прославляю Твою славу, мій Царю,
+            Я прагну ходити з Тобою.
+            Ти зцілюєш мої рани Своїм словом,
+            Твоя близькість додає мені сили.
+            Я можу залишитися з Тобою,
+            бо тільки Ти мій Господь.
+        </section>
+        
+        <section name="r1">
+            Ти мій щит, мій король,
+            моя пісня, що звучить так гарно,
+            Мій притулок, моя скеля.
+            Ти прийшов у час моєї біди,
+            Ти - моє спасіння.
+        </section>
+
+        <section name="v2">
+            Я знаю, що можу жити Твоєю любов'ю,
+            Ти не даєш мені впасти Своїм Духом.
+            Ти моя радість,
+            Я співаю Тобі хвалу.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1 v2
+    </repetition>
+</slide>

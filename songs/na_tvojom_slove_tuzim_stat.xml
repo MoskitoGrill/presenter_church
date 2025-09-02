@@ -1,0 +1,61 @@
+<slide name="Na Tvojom slove túžim stáť">
+    <variant name="čeština">
+        <section name="v1">
+            Na Tvojom slove túžim stáť
+            Väčší je Ten, kto vo mne vládne.
+            Nemusím sa zlého báť,
+            môj Boh ma chráni.
+        </section>
+        
+        <section name="v2">
+            Tvoje slovo pravdu má,
+            to ma z pút vyslobodí.
+            Vždy pri mne budeš stáť,
+            Si môj Boh, Ten správny!
+        </section>
+        
+        <section name="r1">
+            Keď Tvoje Meno vyznávam,
+            moje vnútro povstať túži.
+            Novú silu dostávam,
+            na Tvojich krídlach sa vznášam.
+        </section>
+        
+        <section name="r2">
+            Môj Pán, Ježiš! Môj Pán, Ježiš!
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            На вашому слові Тузім Штад
+            Це той, хто мене керує.
+            Мені не доводиться злити бабусю,
+            Бог захищений.
+        </section>
+        
+        <section name="v2">
+            Ваше слово має правду,
+            Він випустить його.
+            Ти завжди будеш у мені,
+            Ви можете Бог, правильний!
+        </section>
+        
+        <section name="r1">
+            Якщо твій менно, я зізнаюсь,
+            Мій похід Vnutro.
+            Нова сила, яку я отримую,
+            Я зависає на ваші крадіжки.
+        </section>
+        
+        <section name="r2">
+            Господи, Ісусе!Господи, Ісусе!
+        </section>
+    </variant>
+
+    
+    
+    <repetition name="Janča&Dada">
+        v1 v2 r1 r1 r2 v1 v2 r1 r1 r2 r2
+    </repetition>
+</slide>

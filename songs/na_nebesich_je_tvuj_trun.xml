@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<slide name="Na nebesích je Tvůj trůn">
+    <variant name="čeština">
+        <section name="v1">
+Na nebesích je Tvůj trůn,
+            v moci a slávě vládneš nám.
+            Zástupy hvězd se Ti klaní,
+            mohutné hory Tvé jméno ctí.
+            Upřímnou chválu chci Ti dát,
+            vyznat že Ty jsi můj Král.
+</section>
+        <section name="r1">
+Všechno, co mám,
+            dal jsi mi Pane z lásky své.
+            Vzdávám ti dík,
+            za kříž cos nesl kvůli mně.
+</section>
+        <section name="b1">
+Kvůli mně
+</section>
+    </variant>
+    <variant name="український - auto">
+        <section name="v1">
+На небі твій престол,
+            У владі та славі ви правили нам.
+            Натовпи зірок поклонитися вам,
+            Масивні гори вшановують ваше ім’я.
+            Чесна похвала я хочу вам дати,
+            Зізнатися, що ти мій господар.
+</section>
+        <section name="r1">
+Все, що я маю,
+            Ти дав мені, сер за свою любов.
+            Я дякую вам,
+            Він носив COS для хреста.
+</section>
+        <section name="b1">
+
+</section>
+    </variant>
+    <repetition name="default">v1 (r1) v1 (r1) b</repetition>
+</slide>

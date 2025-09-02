@@ -1,0 +1,39 @@
+<slide name="Pane, Bože, přijď k nám">
+    <variant name="čeština">
+        <section name="v1">
+            Pane, Bože, přijď k nám ve své moci a slávě
+            přebývej mezi námi, navštiv lid svůj.
+            Přijď Ježíši k nám, Ty jsi hlava své církve,
+            jsi našim Králem, Ty jsi úhelný kámen.
+        </section>
+        
+        <section name="r1">
+            Jsi požehnaný Bůh, pevná
+            skála, požehnaný na věky,
+            požehnané je Tvoje jméno,
+            požehnaný Syn Otce svého.
+            Pane Bože, přijď k nám.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Господи, Боже, приходь до нас у твоїй силі та славі
+            Через нас відвідайте своїх людей.
+            Приходь до Ісуса до нас, ти голова вашої церкви,
+            Ти наш цар, ти кутовий камінь.
+        </section>
+        
+        <section name="r1">
+            Ти благословенний Бог, твердий
+            Рок, благословлений назавжди,
+            Благословенне ваше ім’я,
+            Блаженний Син батька.
+            Господи, приходь до нас.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1
+    </repetition>
+</slide>

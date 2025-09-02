@@ -1,0 +1,51 @@
+<slide name="Stačí se nadechnout">
+    <variant name="čeština">
+        <section name="v1">
+            Stačí se nadechnout,
+            jenom se rozhlédnout,
+            cítím jsi blízko,
+            Pán můj, svatý.
+        </section>
+        
+        <section name="v2">
+            Ty můj jsi denní chléb,
+            ty strážcem mých jsi cest,
+            slyším jsi blízko,
+            Pán můj, svatý.
+        </section>
+        
+        <section name="r1">
+            A já po tobě toužím, jsi Bůh!
+            A já bez tebe padám, ztracený.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Просто зробіть подих,
+            просто озирайся,
+            Я відчуваю себе близько,
+            Господи, святий.
+        </section>
+        
+        <section name="v2">
+            Ти мій щоденний хліб,
+            Ти охоронець моїх шляхів, ти - шляхи,
+            Я чую, як ти близько,
+            Господи, святий.
+        </section>
+        
+        <section name="r1">
+            І я прагну для тебе, Ти Бог!
+            І я падаю без тебе, загублений.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 v2 r1 v1 r1 v2 r1 r1
+    </repetition>
+
+    <repetition name="Janča&Dada">
+        v1 v2 r1 v1 v2 r1 r1
+    </repetition>
+</slide>

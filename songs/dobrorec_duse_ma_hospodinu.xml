@@ -1,0 +1,38 @@
+<slide name="Dobrořeč duše má Hospodinu">
+    <variant name="čeština">
+        <section name="v1">
+            Dobrořeč duše má Hospodinu
+            a celé nitro mé jeho svatému jménu.
+            Dobrořeč duše má Hospodinu
+            a celé nitro mé jeho svatému jménu.
+        </section>
+        <section name="v2">
+            A nezapomínej na žádné jeho dobrodiní,
+            on ti všechny tvé nepravosti promíjí,
+            ze všech nemocí uzdravuje tělo tvé,
+            tebe korunuje svou milostí a slitováním.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Душа Доброше має Господь
+            і цілої всередині мого святого імені.
+            Душа Доброше має Господь
+            і цілої всередині мого святого імені.
+        </section>
+        <section name="v2">
+            І не забувайте про будь -яку його перевагу,
+            Він пробачить всю вашу беззаконня,
+            З усіх захворювань вилікує ваше тіло,
+            Це увінчає вас своєю благодаттю та милосердям.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 v2
+    </repetition>
+    <repetition name="Janca&Dada">
+        v1 v2 v1 v2
+    </repetition>
+</slide>

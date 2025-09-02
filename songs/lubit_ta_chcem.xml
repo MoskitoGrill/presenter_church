@@ -1,0 +1,51 @@
+<slide name="Ľúbiť ťa chcem">
+    <variant name="čeština">
+        <section name="v1">
+            Ľúbiť ťa chcem, veriť ti viac
+            veď patrím ti som tvoj
+            Už nie som sám aj v súžení,
+            vždy v tebe oporu mám, si môj Boh
+        </section>
+        
+        <section name="r1">
+            Držať ťa chcem viac
+            viac chcem s ťebou byť
+            v mojom srdci vládu maš 
+            láskou zaplavíš
+        </section>
+        
+        <section name="v2">
+            Poznať ťa chcem, teba ccem viac
+            vdýchni mi život svoj
+            Na tvoju tvár vždy hľadím rád
+            tvoj úsmev odvahu dá, Ježiši môj
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Ľubija ť я хочу, vai viac
+            Я належатиму тобі som tvoj
+            Вже nie som один і в сульге,
+            Я завжди підтримую вас у вас, у вас є Бог
+        </section>
+        
+        <section name="r1">
+            Тримаючи, я хочу viac
+            Viac, який я хочу з клубочком
+            В серці мого серця маси
+            Ви затопите любов’ю
+        </section>
+        
+        <section name="v2">
+            Я знаю, я хочу, ти cce viac
+            Granding моє життя моє власне
+            У вашій формі я завжди люблю робити
+            Ваш úsmev дасть мужність, цвілею
+        </section>
+    </variant>
+
+    <repetition name="default">
+        v1 r1 v2 r1
+    </repetition>
+</slide>

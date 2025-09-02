@@ -1,0 +1,68 @@
+<slide 'děkuji'>
+    <variant 'čeština'>
+        <section 'v1'>
+            S každým trápením mám za kým jít
+            V bojích, v souženích Ty jsi můj štít, můj štít,
+            skála věků, bezpečí
+            má skrýš, kde smím se skrýt.
+            Čím víc poznávám Tvou lásku,
+            chci Ti říct, můj Králi:
+        </section>
+        
+        <section 'r1'>
+            Svou chválu Ti vzdám,
+            svou chválu Ti vzdám,
+            Jsi dobrý Bůh a nádherný
+            a láska Tvá je tak úžasná, já vím
+        </section>
+        
+        <section 'r2'>
+            
+        </section>
+        
+        <section 'v2'>
+            
+        </section>
+        
+        <section 'r3'>
+            
+        </section
+        
+        <section 'r4'>
+           
+        </section>
+        
+    </variant>
+
+    <variant 'український - auto'>
+        <section 'v1'>
+           
+        </section>
+        
+        <section 'r1'>
+           
+        </section>
+        
+        <section 'r2'>
+            
+        </section>
+        
+        <section 'v2'>
+           
+        </section>
+        
+        <section 'r3'>
+            
+        </section>
+        
+        <section 'r4'>
+            
+        </section>
+        
+    </variant>
+
+    
+    <repetition 'default'>
+        v1 r1                                                                
+    </repetition>
+</slide>

@@ -1,0 +1,37 @@
+<slide name="Ješua-Mého srdce král">
+    <variant name="čeština">
+        <section name="v1">
+            Mého srdce král, krásou vyniká
+            nad tisíci, nad tisíci
+        </section>
+        
+        <section name="r1">
+            Ješua
+        </section>
+        
+        <section name="v2">
+            Tvé je království, tvá všechna moc
+            tvá sláva na věky, Amen.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Моє серце короля, краса виділяється
+            понад тисячі, понад тисячі
+        </section>
+        
+        <section name="r1">
+            Ієшуа
+        </section>
+        
+        <section name="v2">
+            Ваше царство, ваша все сила
+            Ваша слава назавжди, амінь.
+        </section>
+    </variant>
+
+    <repetition name="default">
+        (v1)*4 (r1)*2 (v1)*4 (r1)*4 (v2)*4 (r1)*2
+    </repetition>
+</slide>

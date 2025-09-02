@@ -1,0 +1,52 @@
+<slide name="Haleluja">
+    <variant name="čeština">
+        <section name="v1">
+Než med sladší je pro mé nitro ta zvěst,
+ že jsi mě vykoupil.
+Tobě patří sláva i čest,
+ za mou vinu jsi zaplatil.
+Na kříž jsi šel abych já mohl žít,
+Z tvé milosti svobodu mám.
+Před Tvou tváří teď smím radostně žít 
+A s chvalou ti vyznávám:
+</section>
+        <section name="r1">
+Haleluja, Tobě sláva patří.
+Haleluja, Ty jsi svatý a dobrý.
+Haleluja, Tobě sláva patří.
+Haleluja!
+</section>
+        <section name="b1">
+V Tebe věřím v Tebe doufám,
+ v Tobě svou naději mám
+Tebe chválím Tebe vzývám
+ a v bázni vyznávám
+</section>
+    </variant>
+    <variant name="angličtina">
+        <section name="v1">
+Sweeter than honey is for my spirit the message   
+that you redeemed me. 
+Yours is the glory and honor, 
+you paid my debt. 
+You went on the cross so i could live, 
+because od your grace, I am free. 
+I can live happily now in front of your face. 
+And with praise i can say:
+</section>
+        <section name="r1">
+Halleluja, yours is the fame. 
+Halleluja, You are holy and good. 
+Halleluja, yours is the fame. 
+Halleluja!
+</section>
+        <section name="b1">
+I believe and i trust in You, 
+my hope is in You. 
+I worship and praise you  
+And with honor I say
+</section>
+    </variant>
+    <repetition name="default">(v1 r1) (b1) (v1)</repetition>
+    <repetition name="JancaDada">v1 r1 v1 r1.1:2 r1 v1</repetition>
+</slide>

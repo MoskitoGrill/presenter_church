@@ -1,0 +1,74 @@
+<slide name="Úžasný, nádherný Králi">
+    <variant name="čeština">
+        <section name="v1">
+            Úžasný, nádherný Králi, 
+            příteli můj, spáso má, 
+            Beránku daný za hříchy, 
+            mě zachrání láska Tvá, 
+            ó, mě zachrání láska Tvá.
+        </section>
+        
+        <section name="r1">
+            Jediný hoden jsi chvály, 
+            jediný vyvýšený. 
+            Nabízíš náruč své lásky, 
+            svou milost, své spasení, 
+            ó, svou milost, své spasení. 
+        </section>
+        
+        <section name="v2">
+            Ochránce můj, Duchu slávy,
+            toužím po obětí Tvém.
+            Jsi se mnou, když srdce mé bloudí 
+            a ztratilo správný směr, 
+            ó, když ztratilo správný směr.
+        </section>
+        
+        <section name="v3">
+            Všemocný Otče náš vzácný, 
+            věrný a milující, 
+            v slabosti své před Tvou tváří 
+            klekám před trůnem Tvým, 
+            ó, já klekám před trůnem Tvým.
+        </section> 
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Дивовижний, чудовий король,
+            Мій друже, я маю спасіння,
+            Ягня, даний за гріхи,
+            Я врятую мене коханням,
+            О, ти врятуєш мене свою любов.
+        </section>
+        
+        <section name="r1">
+            Єдиний гідний похвали,
+            Єдиний піднесений *
+            Ви пропонуєте зброю своєї любові,
+            Ваша благодать, ваше спасіння,
+            О, твоя благодать, твоє спасіння *
+        </section>
+        
+        <section name="v2">
+            Мій захисник, дух слави,
+            Я прагну вашої жертви.
+            Ти зі мною, коли моє серце блукає
+            і втратив правильний напрямок,
+            О, коли він втратив правильний напрямок.
+        </section>
+        
+        <section name="v3">
+            Всесильний батько наш рідкісний,
+            вірний і люблячий,
+            У слабкості вашого перед обличчям
+            Я став на коліна перед вашим престолом,
+            О, я став на коліна перед вашим престолом.
+        </section> 
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1 v2 r1 v3 (r1)
+    </repetition>
+</slide>

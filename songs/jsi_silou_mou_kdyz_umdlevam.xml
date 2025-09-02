@@ -1,0 +1,54 @@
+<slide name="Jsi silou mou, když umdlévám">
+    <variant name="čeština">
+        <section name="v1">
+            Jsi silou mou, když umdlévám, 
+            jsi poklad, který nalézám.
+            Ty jsi mi vším, co mám.
+            Klenotem vzácným ses mi stal,
+            Tebe jen blázen by se vzdal.
+            Ty jsi mi vším, co mám.
+        </section>
+        
+        <section name="r1">
+            Králi, Beránku, chválím jméno Tvé.
+        </section>
+        
+        <section name="v2">
+            Vzal jsi můj hřích, můj kříž, můj žal.
+            Tobě vzdám díky, že jsem vstal.
+            Ty jsi mi vším co mám.
+            Když padám, ty mne pozvedáš,
+            v poušti mi pohár doléváš.
+            Ty jsi mi vším, co mám.
+        </section>
+    </variant>
+
+    <variant name="український - auto">
+        <section name="v1">
+            Ти моя сила, коли я складаю,
+            Ти - скарб, який я знаходжу.
+            Ти все, що я маю.
+            Коштовність рідкісних, якими ти став мною,
+            Ви просто дурень здавалися б.
+            Ти все, що я маю.
+        </section>
+        
+        <section name="r1">
+            Король, Ягня, я хвалю твоє ім'я.
+        </section>
+        
+        <section name="v2">
+            Ти взяв мій гріх, мій хрест, моє горе.
+            Я дякую вам, що вставали.
+            Ти все, що я маю.
+            Коли я падаю, ти піднімаєш мене,
+            У пустелі ви наливаєте чашку.
+            Ти все, що я маю.
+        </section>
+    </variant>
+
+    
+    <repetition name="default">
+        v1 r1 r1 v2 r1 r1
+    </repetition>
+</slide>
