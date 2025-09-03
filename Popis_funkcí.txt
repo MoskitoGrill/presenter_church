@@ -1,1 +1,32 @@
-Zde popíšu jednotlivé funkce a tlačítka.
+Oprava_xml_tagu
+  Jednoduchý kód pro úpravu syntaxe a formátu původních souborů písní na verze kompatibilní se song_editor a super_presenter (kamaradův nepřipojený program).
+
+Song_editor
+  Možnost načtení a tvorby písní pro super_presenter. Je zde možnost přidat sloky, refrén a bridge (funkčně kromě názvu stejné).
+  Dopsat text s možností přidání dalšího jazyka(program nepřekládá, ale pouze označuje další text jako další jazyk.
+  Což se hodí pro funkci v super_presenter, kde je možnost promítat až 3 jazyky/variace pod sebou s tím že ovládáte text pro češtinu,
+  ale můžete zobrazovat text v překladu spolu s tím). Dále automatické vyplnění opakování s možností přidat další opakování (pro různé kapely)
+  a nebo úprava výchozího podle návodu napsaného pod tím. Samozřejmostí je možnost mazat sloky i opakování. Tlačítko error fix by mělo sloužit ke spuštění oprava_xml_tagu.
+
+Presentation_presenter
+  Nejde spustit s pouze jedním monitorem a občas spadne při přidání textu. 
+  Projekt vznikl z konkrétní potřeby pro promítání u nás v kostele. Jedná se o presentér k nám do kostela a umožňuje základní funkce jako načítání, ukládání prezentací ve formátu .json.
+  Dále jdou vložit obrázky(ať už pomocí tlačítka nebo přetažením do okna programu), ale v tento moment pouze jeden na celý slide a nedá se s ním nijak poté pracovat. 
+  Program funguje tak, že kvůli videu je potřeba aby v 1/4 obrazovky zabíral obraz kamery s prezentujícím. Z toho důvodu program automaticky bere vše co je vloženo do textu snímku
+  a přepočítává to s tím že při přerušení věty nebo souvětí přebývající text přesune na další slide a to samé u dalšího pokud je text delší. Je možnost vložit i nadpis (odkaz), který se zobrazí napříč všemi těmito slidy.
+  Dále program přidá prázdný slide před a za text s ochranou toho že pokud se přidá další snímek (tlačítko Nový text), program nevytvoří další prázdný slide aby byli 2 za sebou, ale počítá už s tím co tam je.
+  Text se dá přepisovat a počet slidů se hned přepočítává podle součastného vyznění. Jde mazat jak jednotlivé slidy(prázdné, obrázky, text se však vždy při aktualizaci obnoví) tlačítkem Smazat nebo klávesou Delete, tak texty (tlačítko Smazat slide).
+  Je zde pomocí tlačítka Order možnost změnit pořadí textů a pomocí tlačítek nahoře < a > je zde možnost mezi jednotlivými texty přepínat i s ukazatelem na kterém textu z kolika zrovna jsem.
+  Dále je zde možnost vložit pasáže z Bible. Je zde výběr z 5 překladů a možnost výběru knihy(funguje i vepsanáí do řádku), poté výběr kapitol a veršů. Dále je možnost danou pasáž prostě zkopírovat vložit jinde, nebo ji vložit jako nové slidy přímo do prezentace. Mohu si vybrat zda se verše vlaží s číslováním nebo bez něj.
+  Při vytvoření prezentace mám 2 náhledy, jeden velký nahoře nalevo, kde se ukazuje aktuální sníměk a druhý ukazující slidy vedle sebe s možností přepínání mezi nimi. Jedná se ve skutečnosti o 2 různé náhledy s tím že velký se poté zrcadlí na projektoru a mají sdílené informace o tom jaký slide se ukazuje. Lze to však vypozorovat při rozložení textu, které není úplně stejné.
+  Dále je možnost změnit rozložení poměru stran z 16:9 na 4:3 a naopak. JUe zde výběr monitoru na který se bude prezentovat (podle souřadnic toho jak jsou monitory v počítači vedle sebe). Povolit více řádků zatím nefunguje do budoucna je zde nápad na zavedení této funkce pro případ že nebudeme promítat.
+  Tlačítka << >> přeskakují bloky na další prázdný slide, < > přepínají mezi slidy spolu se zobrazení aktuálního a kompletního počtu slidů. Je zde možnost nastavit automatické přepínání v sekundách za jak dlouho se má daný slide posunout a také možnost zaškrtnout Opakovat pro opakování prezentace dokud není zastavena. A tlačítko pro spuštění a vypnutí prezentace.
+  Je zde implementováno pro spostu těchto funkcí několi klávesových zkratek.
+  
+Proč  
+  Oprava_xml_tagu
+   - starý formát nefungoval a potřeboval jsem předlat spoustu písníé a nechtělo se mi to dělat ručně
+  Song_editor
+   - dřív jsme písně upravovali a vytvářeli přes text, nicméně se ke mě přidali i další a já zjistil že kluci nezvládají podle mě přehledný zápis. Takže pro ně abych to nemusel dělat sám.
+  Presentation_presenter 
+  Jedná se o první verzi tohoto projektu, který vznikl z čiré potřeby v daný moment a pro zjednodušení práce. Ve verzy 2, bych ho chtěl v mnoha věcech výrazně překopat a zakomponovat další funkce jako povolit více řádků, úprava obrázků. Řádkování, v tento moment jde pouze aby text byl za sebou. A také opravil chyby a bugy co jsem postupně objevil.
